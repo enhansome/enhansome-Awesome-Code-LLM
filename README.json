@@ -24,7 +24,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59558
+            "stars": 59556
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29257
+            "stars": 29256
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21591
+            "stars": 21596
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7237
+            "stars": 7239
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2025-11-24T19:13:15Z",
             "owner": "allenai",
             "repo": "OLMo",
-            "stars": 6627
+            "stars": 6629
           }
         },
         {
@@ -197,20 +197,6 @@
         },
         {
           "node_type": "item",
-          "title": "MAP-Neo: \"MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series\" [2024-05] [paper",
-          "description": "] [repo]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-07T09:09:28Z",
-            "owner": "multimodal-art-projection",
-            "repo": "MAP-NEO",
-            "stars": 987
-          }
-        },
-        {
-          "node_type": "item",
           "title": "JetMoE: \"JetMoE: Reaching Llama2 Performance with 0.1M Dollars\" [2024-04] [paper",
           "description": "] [repo]",
           "children": [],
@@ -220,6 +206,20 @@
             "last_commit": "2024-07-23T10:42:14Z",
             "owner": "myshell-ai",
             "repo": "JetMoE",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAP-Neo: \"MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series\" [2024-05] [paper",
+          "description": "] [repo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-07T09:09:28Z",
+            "owner": "multimodal-art-projection",
+            "repo": "MAP-NEO",
             "stars": 986
           }
         },
@@ -259,7 +259,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38538
+            "stars": 38545
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24146
+            "stars": 24148
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-06-02T18:14:11Z",
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5179
+            "stars": 5180
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69825
+            "stars": 69854
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 33999
+            "stars": 34005
           }
         },
         {
@@ -799,10 +799,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:16:07Z",
+            "last_commit": "2026-08-16T10:58:50Z",
             "owner": "LiveBench",
             "repo": "LiveBench",
-            "stars": 1282
+            "stars": 1283
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2025-07-16T00:58:38Z",
             "owner": "LiveCodeBench",
             "repo": "LiveCodeBench",
-            "stars": 930
+            "stars": 931
           }
         },
         {
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:33:39.996Z",
+    "last_updated": "2026-08-16T14:33:22.247Z",
     "original_repository": "codefuse-ai/Awesome-Code-LLM",
     "original_repository_sha": "abde59fde7b48387c94f170c9818ee507350c23f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Code-LLM",
