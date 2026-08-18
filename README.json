@@ -24,7 +24,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59560
+            "stars": 59562
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29254
+            "stars": 29252
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21598
+            "stars": 21606
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-06-16T15:40:44Z",
             "owner": "mistralai",
             "repo": "mistral-inference",
-            "stars": 10835
+            "stars": 10833
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2024-11-27T09:25:57Z",
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7822
+            "stars": 7820
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7241
+            "stars": 7243
           }
         },
         {
@@ -122,7 +122,7 @@
             "last_commit": "2025-10-09T07:33:23Z",
             "owner": "apple",
             "repo": "corenet",
-            "stars": 7005
+            "stars": 7004
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2025-11-24T19:13:15Z",
             "owner": "allenai",
             "repo": "OLMo",
-            "stars": 6632
+            "stars": 6633
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-01-16T12:18:10Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-MoE",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38562
+            "stars": 38574
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24153
+            "stars": 24157
           }
         },
         {
@@ -439,7 +439,7 @@
             "last_commit": "2026-05-23T02:54:28Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleNLP",
-            "stars": 12962
+            "stars": 12963
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69864
+            "stars": 69879
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34011
+            "stars": 34019
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2026-08-01T08:53:41Z",
             "owner": "centerforaisafety",
             "repo": "hle",
-            "stars": 1658
+            "stars": 1659
           }
         },
         {
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T01:41:23Z",
+            "last_commit": "2026-08-18T13:43:50Z",
             "owner": "LiveBench",
             "repo": "LiveBench",
             "stars": 1287
@@ -816,7 +816,7 @@
             "last_commit": "2025-07-16T00:58:38Z",
             "owner": "LiveCodeBench",
             "repo": "LiveCodeBench",
-            "stars": 932
+            "stars": 935
           }
         },
         {
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:38:07.005Z",
+    "last_updated": "2026-08-18T14:45:43.126Z",
     "original_repository": "codefuse-ai/Awesome-Code-LLM",
     "original_repository_sha": "abde59fde7b48387c94f170c9818ee507350c23f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Code-LLM",
