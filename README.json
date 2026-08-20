@@ -98,7 +98,7 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59565
+                "stars": 59567
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21608
+                "stars": 21615
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-06-16T15:40:44Z",
                 "owner": "mistralai",
                 "repo": "mistral-inference",
-                "stars": 10832
+                "stars": 10831
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-06-11T19:25:44Z",
                 "owner": "EleutherAI",
                 "repo": "gpt-neox",
-                "stars": 7456
+                "stars": 7455
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-11-24T19:13:15Z",
                 "owner": "allenai",
                 "repo": "OLMo",
-                "stars": 6635
+                "stars": 6637
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2024-01-16T12:18:10Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-MoE",
-                "stars": 1967
+                "stars": 1966
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2024-07-23T10:42:14Z",
                 "owner": "myshell-ai",
                 "repo": "JetMoE",
-                "stars": 987
+                "stars": 988
               }
             },
             {
@@ -344,10 +344,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-16T18:45:46Z",
+                    "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38581
+                    "stars": 38586
                   }
                 },
                 {
@@ -399,7 +399,7 @@
                     "last_commit": "2025-11-11T06:44:56Z",
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-Coder",
-                    "stars": 24165
+                    "stars": 24170
                   }
                 },
                 {
@@ -414,7 +414,7 @@
                     "last_commit": "2024-08-13T05:59:38Z",
                     "owner": "zai-org",
                     "repo": "CodeGeeX",
-                    "stars": 8807
+                    "stars": 8805
                   }
                 },
                 {
@@ -489,7 +489,7 @@
                     "last_commit": "2024-07-18T10:20:27Z",
                     "owner": "WisdomShell",
                     "repo": "codeshell",
-                    "stars": 1621
+                    "stars": 1622
                   }
                 },
                 {
@@ -556,7 +556,7 @@
                     "last_commit": "2026-06-25T16:27:18Z",
                     "owner": "salesforce",
                     "repo": "CodeT5",
-                    "stars": 3097
+                    "stars": 3094
                   }
                 },
                 {
@@ -571,7 +571,7 @@
                     "last_commit": "2026-06-25T16:27:18Z",
                     "owner": "salesforce",
                     "repo": "CodeT5",
-                    "stars": 3097
+                    "stars": 3094
                   }
                 },
                 {
@@ -835,7 +835,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69895
+                "stars": 69910
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34046
+                "stars": 34066
               }
             },
             {
@@ -910,7 +910,7 @@
                     "last_commit": "2026-08-01T08:53:41Z",
                     "owner": "centerforaisafety",
                     "repo": "hle",
-                    "stars": 1659
+                    "stars": 1661
                   }
                 },
                 {
@@ -1151,7 +1151,7 @@
             "last_commit": "2026-06-02T11:11:54Z",
             "owner": "Geralt-Targaryen",
             "repo": "Awesome-Speculative-Decoding",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:46:24.465Z",
+    "last_updated": "2026-08-20T14:48:29.692Z",
     "original_repository": "codefuse-ai/Awesome-Code-LLM",
     "original_repository_id": 694517360,
     "original_repository_sha": "abde59fde7b48387c94f170c9818ee507350c23f",
