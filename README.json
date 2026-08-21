@@ -12,7 +12,7 @@
             "archived": false,
             "id": 852194721,
             "language": "Python",
-            "last_commit": "2026-07-03T06:18:41Z",
+            "last_commit": "2026-08-21T09:03:13Z",
             "owner": "codefuse-ai",
             "repo": "CodeFuse-Embeddings",
             "stars": 572
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 852194721,
             "language": "Python",
-            "last_commit": "2026-07-03T06:18:41Z",
+            "last_commit": "2026-08-21T09:03:13Z",
             "owner": "codefuse-ai",
             "repo": "CodeFuse-Embeddings",
             "stars": 572
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 852194721,
             "language": "Python",
-            "last_commit": "2026-07-03T06:18:41Z",
+            "last_commit": "2026-08-21T09:03:13Z",
             "owner": "codefuse-ai",
             "repo": "CodeFuse-Embeddings",
             "stars": 572
@@ -98,7 +98,7 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59567
+                "stars": 59569
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2025-01-26T21:39:06Z",
                 "owner": "meta-llama",
                 "repo": "llama3",
-                "stars": 29253
+                "stars": 29252
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21615
+                "stars": 21625
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-06-16T15:40:44Z",
                 "owner": "mistralai",
                 "repo": "mistral-inference",
-                "stars": 10831
+                "stars": 10830
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-02-04T12:22:16Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-LLM",
-                "stars": 7247
+                "stars": 7252
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2025-10-09T07:33:23Z",
                 "owner": "apple",
                 "repo": "corenet",
-                "stars": 7004
+                "stars": 7003
               }
             },
             {
@@ -347,7 +347,7 @@
                     "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38586
+                    "stars": 38592
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2023-07-09T12:26:30Z",
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2784
+                    "stars": 2785
                   }
                 },
                 {
@@ -377,7 +377,7 @@
                     "last_commit": "2023-07-09T12:26:30Z",
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2784
+                    "stars": 2785
                   }
                 }
               ],
@@ -399,7 +399,7 @@
                     "last_commit": "2025-11-11T06:44:56Z",
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-Coder",
-                    "stars": 24170
+                    "stars": 24189
                   }
                 },
                 {
@@ -444,7 +444,7 @@
                     "last_commit": "2024-03-21T11:54:59Z",
                     "owner": "bigcode-project",
                     "repo": "starcoder2",
-                    "stars": 2083
+                    "stars": 2082
                   }
                 },
                 {
@@ -541,7 +541,7 @@
                     "last_commit": "2026-05-23T02:54:28Z",
                     "owner": "PaddlePaddle",
                     "repo": "PaddleNLP",
-                    "stars": 12963
+                    "stars": 12965
                   }
                 },
                 {
@@ -798,7 +798,7 @@
                 "last_commit": "2023-06-30T12:57:39Z",
                 "owner": "reasoning-machines",
                 "repo": "pal",
-                "stars": 526
+                "stars": 525
               }
             },
             {
@@ -835,7 +835,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69910
+                "stars": 69934
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34066
+                "stars": 34082
               }
             },
             {
@@ -910,7 +910,7 @@
                     "last_commit": "2026-08-01T08:53:41Z",
                     "owner": "centerforaisafety",
                     "repo": "hle",
-                    "stars": 1661
+                    "stars": 1662
                   }
                 },
                 {
@@ -925,7 +925,7 @@
                     "last_commit": "2026-08-19T13:17:12Z",
                     "owner": "LiveBench",
                     "repo": "LiveBench",
-                    "stars": 1288
+                    "stars": 1290
                   }
                 },
                 {
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:48:29.692Z",
+    "last_updated": "2026-08-21T14:47:36.388Z",
     "original_repository": "codefuse-ai/Awesome-Code-LLM",
     "original_repository_id": 694517360,
     "original_repository_sha": "abde59fde7b48387c94f170c9818ee507350c23f",
