@@ -215,7 +215,7 @@ If you find a paper to be missing from this repository, misplaced in a category,
 
 These LLMs are not specifically trained for code, but have demonstrated varying coding capability.
 
-1. **LLaMA 2**: "Llama 2: Open Foundation and Fine-Tuned Chat Models" \[2023-07] \[[paper](https://arxiv.org/abs/2307.09288)] \[[repo](https://github.com/facebookresearch/llama) ⭐ 59,572 | 🐛 532 | 🌐 Python | 📅 2025-01-26]
+1. **LLaMA 2**: "Llama 2: Open Foundation and Fine-Tuned Chat Models" \[2023-07] \[[paper](https://arxiv.org/abs/2307.09288)] \[[repo](https://github.com/facebookresearch/llama) ⭐ 59,573 | 🐛 532 | 🌐 Python | 📅 2025-01-26]
 
 2. **LLaMA 3**: "The Llama 3 Herd of Models" \[2024-04] \[[blog](https://ai.meta.com/blog/meta-llama-3/)] \[[repo](https://github.com/meta-llama/llama3) ⚠️ Archived] \[[paper](https://arxiv.org/abs/2407.21783)]
 
@@ -225,13 +225,13 @@ These LLMs are not specifically trained for code, but have demonstrated varying 
 
 5. **Yi**: "Yi: Open Foundation Models by 01.AI" \[2024-03] \[[paper](https://arxiv.org/abs/2403.04652)] \[[repo](https://github.com/01-ai/Yi) ⭐ 7,835 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2024-11-27]
 
-6. **GPT-NeoX**: "GPT-NeoX-20B: An Open-Source Autoregressive Language Model" \[2022-04] \[ACL 2022 Workshop on Challenges & Perspectives in Creating LLMs] \[[paper](https://arxiv.org/abs/2204.06745)] \[[repo](https://github.com/EleutherAI/gpt-neox) ⭐ 7,456 | 🐛 112 | 🌐 Python | 📅 2026-06-11]
+6. **GPT-NeoX**: "GPT-NeoX-20B: An Open-Source Autoregressive Language Model" \[2022-04] \[ACL 2022 Workshop on Challenges & Perspectives in Creating LLMs] \[[paper](https://arxiv.org/abs/2204.06745)] \[[repo](https://github.com/EleutherAI/gpt-neox) ⭐ 7,457 | 🐛 112 | 🌐 Python | 📅 2026-06-11]
 
 7. **DeepSeek**: "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism" \[2024-01] \[[paper](https://arxiv.org/abs/2401.02954)] \[[repo](https://github.com/deepseek-ai/DeepSeek-LLM) ⭐ 7,255 | 🐛 58 | 🌐 Makefile | 📅 2024-02-04]
 
 8. **OpenELM**: "OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework" \[2024-04] \[[paper](https://arxiv.org/abs/2404.14619)] \[[repo](https://github.com/apple/corenet/tree/main/projects/openelm) ⭐ 7,005 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2025-10-09]
 
-9. **OLMo**: "OLMo: Accelerating the Science of Language Models" \[2024-02] \[[paper](https://arxiv.org/abs/2402.00838)] \[[repo](https://github.com/allenai/OLMo) ⭐ 6,644 | 🐛 83 | 🌐 Python | 📅 2025-11-24]
+9. **OLMo**: "OLMo: Accelerating the Science of Language Models" \[2024-02] \[[paper](https://arxiv.org/abs/2402.00838)] \[[repo](https://github.com/allenai/OLMo) ⭐ 6,643 | 🐛 83 | 🌐 Python | 📅 2025-11-24]
 
 10. **DeepSeek-V2**: "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model" \[2024-05] \[[paper](https://arxiv.org/abs/2405.04434)] \[[repo](https://github.com/deepseek-ai/DeepSeek-V2) ⭐ 5,035 | 🐛 89 | 📅 2024-09-25]
 
@@ -1041,7 +1041,7 @@ These models apply Instruction Fine-Tuning techniques to enhance the capacities 
 
 ### 3.3 Code Agents
 
-1. **MetaGPT**: "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework" \[2023-08] \[[paper](https://arxiv.org/abs/2308.00352)] \[[repo](https://github.com/geekan/MetaGPT) ⭐ 69,994 | 🐛 131 | 🌐 Python | 📅 2026-01-21]
+1. **MetaGPT**: "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework" \[2023-08] \[[paper](https://arxiv.org/abs/2308.00352)] \[[repo](https://github.com/geekan/MetaGPT) ⭐ 69,998 | 🐛 131 | 🌐 Python | 📅 2026-01-21]
 
 2. **ChatDev**: "Communicative Agents for Software Development" \[2023-07] \[[paper](https://arxiv.org/abs/2307.07924)] \[[repo](https://github.com/OpenBMB/ChatDev) ⭐ 34,113 | 🐛 67 | 🌐 Python | 📅 2026-07-24]
 
