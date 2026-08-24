@@ -98,7 +98,7 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59570
+                "stars": 59572
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21637
+                "stars": 21638
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-06-16T15:40:44Z",
                 "owner": "mistralai",
                 "repo": "mistral-inference",
-                "stars": 10829
+                "stars": 10830
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2024-11-27T09:25:57Z",
                 "owner": "01-ai",
                 "repo": "Yi",
-                "stars": 7830
+                "stars": 7835
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-06-11T19:25:44Z",
                 "owner": "EleutherAI",
                 "repo": "gpt-neox",
-                "stars": 7455
+                "stars": 7456
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-02-04T12:22:16Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-LLM",
-                "stars": 7253
+                "stars": 7255
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2025-10-09T07:33:23Z",
                 "owner": "apple",
                 "repo": "corenet",
-                "stars": 7004
+                "stars": 7005
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-11-24T19:13:15Z",
                 "owner": "allenai",
                 "repo": "OLMo",
-                "stars": 6639
+                "stars": 6644
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2024-09-25T10:23:55Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5034
+                "stars": 5035
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2024-01-16T12:18:10Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-MoE",
-                "stars": 1968
+                "stars": 1969
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2025-02-07T09:09:28Z",
                 "owner": "multimodal-art-projection",
                 "repo": "MAP-NEO",
-                "stars": 986
+                "stars": 987
               }
             },
             {
@@ -334,6 +334,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Code LLaMA (LLaMA 2): \"Code Llama: Open Foundation Models for Code\" [2023-08] [paper",
+              "description": "] [repo]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 682604510,
+                "language": "Python",
+                "last_commit": "2024-08-12T12:49:54Z",
+                "owner": "meta-llama",
+                "repo": "codellama",
+                "stars": 16266
+              }
+            }
+          ],
+          "description": "These models are general-purpose LLMs further pretrained on code-related data.",
+          "node_type": "group",
+          "title": "2.2 Existing LLM Adapted to Code"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -347,7 +369,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38606
+                    "stars": 38611
                   }
                 },
                 {
@@ -362,7 +384,7 @@
                     "last_commit": "2023-07-09T12:26:30Z",
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2786
+                    "stars": 2785
                   }
                 },
                 {
@@ -377,7 +399,7 @@
                     "last_commit": "2023-07-09T12:26:30Z",
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2786
+                    "stars": 2785
                   }
                 }
               ],
@@ -399,7 +421,7 @@
                     "last_commit": "2025-11-11T06:44:56Z",
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-Coder",
-                    "stars": 24200
+                    "stars": 24206
                   }
                 },
                 {
@@ -414,7 +436,7 @@
                     "last_commit": "2024-08-13T05:59:38Z",
                     "owner": "zai-org",
                     "repo": "CodeGeeX",
-                    "stars": 8805
+                    "stars": 8806
                   }
                 },
                 {
@@ -444,7 +466,7 @@
                     "last_commit": "2024-03-21T11:54:59Z",
                     "owner": "bigcode-project",
                     "repo": "starcoder2",
-                    "stars": 2085
+                    "stars": 2086
                   }
                 },
                 {
@@ -638,6 +660,28 @@
               "description": null,
               "node_type": "group",
               "title": "Encoder-Decoder"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UniXcoder (MLM + NSP + CLM + Span Corruption + Contrastive Learning + Code2Text): \"UniXcoder: Unified Cross-Modal Pre-training for Code Representation\" [2022-03] [ACL 2022] [paper",
+                  "description": "] [repo]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272909064,
+                    "language": "Python",
+                    "last_commit": "2023-07-09T12:26:30Z",
+                    "owner": "microsoft",
+                    "repo": "CodeBERT",
+                    "stars": 2785
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "UniLM"
             }
           ],
           "description": "These models are Transformer encoders, decoders, and encoder-decoders pretrained from scratch using existing objectives for general language modeling.",
@@ -835,7 +879,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69962
+                "stars": 69994
               }
             },
             {
@@ -850,7 +894,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34103
+                "stars": 34113
               }
             },
             {
@@ -872,13 +916,107 @@
           "description": null,
           "node_type": "group",
           "title": "3.3 Code Agents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging\" [2024-10] [paper",
+              "description": "] [repo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863927529,
+                "language": "Python",
+                "last_commit": "2025-07-06T04:07:35Z",
+                "owner": "YerbaPage",
+                "repo": "MGDebugger",
+                "stars": 101
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.4 Interactive Coding"
         }
       ],
       "title": "3. When Coding Meets Reasoning"
     },
     {
+      "description": "For each task, the first column contains non-neural methods (e.g. n-gram, TF-IDF, and (occasionally) static program analysis); the second column contains non-Transformer neural methods (e.g. LSTM, CNN, GNN); the third column contains Transformer based methods (e.g. BERT, GPT, T5).",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"DocuMint: Docstring Generation for Python using Small Language Models\" [2024-05] [paper",
+              "description": "] [repo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 802494522,
+                "language": "Python",
+                "last_commit": "2024-05-18T13:18:19Z",
+                "owner": "Docu-Mint",
+                "repo": "DocuMint",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Commenting and Summarization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature\" [2024-08] [paper",
+              "description": "] [repo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 688983840,
+                "language": "Python",
+                "last_commit": "2025-04-03T07:41:25Z",
+                "owner": "code-philia",
+                "repo": "CoEdPilot",
+                "stars": 101
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repository-Level Coding"
+        }
+      ],
+      "title": "5. Methods/Models for Downstream Tasks"
+    },
+    {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CodeSearchNet: \"CodeSearchNet Challenge: Evaluating the State of Semantic Code Search\" [2019-09] [paper",
+              "description": "] [repo] [data]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 173155670,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-01-31T09:25:07Z",
+                "owner": "github",
+                "repo": "CodeSearchNet",
+                "stars": 2443
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "8.1 Pretraining"
+        },
         {
           "children": [
             {
@@ -910,7 +1048,7 @@
                     "last_commit": "2026-08-01T08:53:41Z",
                     "owner": "centerforaisafety",
                     "repo": "hle",
-                    "stars": 1663
+                    "stars": 1664
                   }
                 },
                 {
@@ -1097,6 +1235,3270 @@
               "description": null,
               "node_type": "group",
               "title": "Integrated Benchmarks"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2018-02",
+                  "description": "LREC 2018 NL2Bash 9305 Bash \"NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50688806,
+                    "language": "NewLisp",
+                    "last_commit": "2026-07-31T21:59:08Z",
+                    "owner": "TellinaTool",
+                    "repo": "nl2bash",
+                    "stars": 497
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-08",
+                  "description": "EMNLP 2018 CONCODE 104K Java \"Mapping Language to Code in Programmatic Context\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 146953584,
+                    "language": "Python",
+                    "last_commit": "2021-01-27T00:44:35Z",
+                    "owner": "sriniiyer",
+                    "repo": "concode",
+                    "stars": 80
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-10",
+                  "description": "EMNLP-IJCNLP 2019 JuICe 1.5M/3725 * Python \"JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 215689568,
+                    "language": "Python",
+                    "last_commit": "2021-10-27T18:58:14Z",
+                    "owner": "rajasagashe",
+                    "repo": "JuICe",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-05",
+                  "description": "NeurIPS 2021 APPS 10000 Python \"Measuring Coding Challenge Competence With APPS\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 361262700,
+                    "language": "Python",
+                    "last_commit": "2024-06-19T06:32:49Z",
+                    "owner": "hendrycks",
+                    "repo": "apps",
+                    "stars": 538
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-07",
+                  "description": "arXiv HumanEval 164 Python \"Evaluating Large Language Models Trained on Code\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 383601290,
+                    "language": "Python",
+                    "last_commit": "2025-01-17T18:22:17Z",
+                    "owner": "openai",
+                    "repo": "human-eval",
+                    "stars": 3351
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-08",
+                  "description": "arXiv MBPP/MathQA-Python 974/23914 Python \"Program Synthesis with Large Language Models\" [paper] [MBPP] [MathQA-Python]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151619717,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-21T19:58:51Z",
+                    "owner": "google-research",
+                    "repo": "google-research",
+                    "stars": 38611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-08",
+                  "description": "ACL/IJCNLP 2021 PlotCoder 40797 Python \"PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 370589484,
+                    "language": "Python",
+                    "last_commit": "2021-10-06T00:20:31Z",
+                    "owner": "Jungyhuk",
+                    "repo": "plotcoder",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-02",
+                  "description": "Science CodeContests 13610 C++, Python, Java \"Competition-Level Code Generation with AlphaCode\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 453950487,
+                    "language": "C++",
+                    "last_commit": "2023-10-03T13:17:45Z",
+                    "owner": "google-deepmind",
+                    "repo": "code_contests",
+                    "stars": 2202
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-03",
+                  "description": "EACL 2023 Findings MCoNaLa 896 Python \"MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 467601635,
+                    "language": "Python",
+                    "last_commit": "2023-02-13T15:42:50Z",
+                    "owner": "zorazrw",
+                    "repo": "multilingual-conala",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-06",
+                  "description": "arXiv AixBench 336 Java \"AixBench: A Code Generation Benchmark Dataset\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 498194509,
+                    "language": "Java",
+                    "last_commit": "2022-08-19T03:36:16Z",
+                    "owner": "aixcoder-plugin",
+                    "repo": "nl2code-dataset",
+                    "stars": 52
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-08",
+                  "description": "IEEE Trans. Software Engineering MultiPL-E \"MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural Code Generation\", [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 517691031,
+                    "language": "Python",
+                    "last_commit": "2026-04-12T16:59:02Z",
+                    "owner": "nuprl",
+                    "repo": "MultiPL-E",
+                    "stars": 313
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-10",
+                  "description": "ICLR 2023 MBXP 12.4K Python, Java, JS, TypeScript, Go, C#, PHP, Ruby, Kotlin, C++, Perl, Scala, Swift \"Multi-lingual Evaluation of Code Generation Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 549744904,
+                    "language": "Python",
+                    "last_commit": "2024-07-17T21:36:22Z",
+                    "owner": "amazon-science",
+                    "repo": "mxeval",
+                    "stars": 112
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-10",
+                  "description": "ICLR 2023 Multilingual HumanEval 1.9K Python, Java, JS, TypeScript, Go, C#, PHP, Ruby, Kotlin, Perl, Scala, Swift \"Multi-lingual Evaluation of Code Generation Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 549744904,
+                    "language": "Python",
+                    "last_commit": "2024-07-17T21:36:22Z",
+                    "owner": "amazon-science",
+                    "repo": "mxeval",
+                    "stars": 112
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-10",
+                  "description": "ICLR 2023 MathQA-X 5.6K Python, Java, JS \"Multi-lingual Evaluation of Code Generation Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 549744904,
+                    "language": "Python",
+                    "last_commit": "2024-07-17T21:36:22Z",
+                    "owner": "amazon-science",
+                    "repo": "mxeval",
+                    "stars": 112
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-11",
+                  "description": "arXiv ExeDS 534 Python \"Execution-based Evaluation for Data Science Code Generation Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 469654535,
+                    "language": "Python",
+                    "last_commit": "2023-03-13T02:47:50Z",
+                    "owner": "Jun-jie-Huang",
+                    "repo": "ExeDS",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-11",
+                  "description": "arXiv DS-1000 1000 Python \"DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 566303764,
+                    "language": "Python",
+                    "last_commit": "2024-10-30T17:43:46Z",
+                    "owner": "xlang-ai",
+                    "repo": "DS-1000",
+                    "stars": 276
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-12",
+                  "description": "arXiv ODEX 945 Python \"Execution-Based Evaluation for Open-Domain Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 580471241,
+                    "language": "Python",
+                    "last_commit": "2023-12-22T20:14:33Z",
+                    "owner": "zorazrw",
+                    "repo": "odex",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-02",
+                  "description": "arXiv CoderEval 460 Python, Java \"CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 581371281,
+                    "language": null,
+                    "last_commit": "2024-12-25T07:23:36Z",
+                    "owner": "CoderEval",
+                    "repo": "CoderEval",
+                    "stars": 159
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-03",
+                  "description": "ACL 2024 xCodeEval 5.5M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust \"XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614683429,
+                    "language": "Python",
+                    "last_commit": "2024-09-17T21:16:04Z",
+                    "owner": "ntunlp",
+                    "repo": "xCodeEval",
+                    "stars": 90
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-05",
+                  "description": "arXiv HumanEval+ 164 Python \"Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628154495,
+                    "language": "Python",
+                    "last_commit": "2025-10-02T22:56:38Z",
+                    "owner": "evalplus",
+                    "repo": "evalplus",
+                    "stars": 1802
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-06",
+                  "description": "NeurIPS 2023 DotPrompts 10538 $^\\ddagger$ Java \"Guiding Language Models of Code with Global Context using Monitors\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 714439630,
+                    "language": "Python",
+                    "last_commit": "2024-08-08T18:15:14Z",
+                    "owner": "microsoft",
+                    "repo": "monitors4codegen",
+                    "stars": 280
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-09",
+                  "description": "arXiv CodeApex 476 C++ \"CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 686961874,
+                    "language": "Python",
+                    "last_commit": "2023-09-06T15:32:38Z",
+                    "owner": "APEXLAB",
+                    "repo": "CodeApex",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-09",
+                  "description": "arXiv VerilogEval 8645/156 $^\\diamond$ Verilog \"VerilogEval: Evaluating Large Language Models for Verilog Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 682202757,
+                    "language": "SystemVerilog",
+                    "last_commit": "2025-07-14T21:47:51Z",
+                    "owner": "NVlabs",
+                    "repo": "verilog-eval",
+                    "stars": 464
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-12",
+                  "description": "arXiv TACO 26,433 Python \"TACO: Topics in Algorithmic COde generation dataset\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 733747394,
+                    "language": "Python",
+                    "last_commit": "2026-02-28T08:00:38Z",
+                    "owner": "FlagOpen",
+                    "repo": "TACO",
+                    "stars": 240
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-01",
+                  "description": "HPDC ParEval 420 C++, CUDA, HIP \"Can Large Language Models Write Parallel Code?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 701462168,
+                    "language": "C++",
+                    "last_commit": "2025-11-04T17:04:52Z",
+                    "owner": "parallelcodefoundry",
+                    "repo": "ParEval",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-02",
+                  "description": "ACL 2024 Findings OOP 431 Python \"OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 741335066,
+                    "language": "Python",
+                    "last_commit": "2025-01-15T09:23:59Z",
+                    "owner": "alphadl",
+                    "repo": "OOP-eval",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-02",
+                  "description": "LREC-COLING 2024 HumanEval-XL 22080 23NL, 12PL \"HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual Natural Language Generalization\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 757918441,
+                    "language": "Python",
+                    "last_commit": "2025-03-07T13:50:12Z",
+                    "owner": "floatai",
+                    "repo": "HumanEval-XL",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-04",
+                  "description": "arXiv USACO 307 Python \"Can Language Models Solve Olympiad Programming?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 779599579,
+                    "language": "Python",
+                    "last_commit": "2025-01-14T19:38:35Z",
+                    "owner": "princeton-nlp",
+                    "repo": "USACO",
+                    "stars": 125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-04",
+                  "description": "LREC-COLING 2024 PECC 2396 Python \"PECC: Problem Extraction and Coding Challenges\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 764002279,
+                    "language": "Python",
+                    "last_commit": "2024-05-30T09:29:08Z",
+                    "owner": "HallerPatrick",
+                    "repo": "pecc",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-04",
+                  "description": "arXiv CodeGuard+ 23 Python, C \"Constrained Decoding for Secure Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 794275853,
+                    "language": "Python",
+                    "last_commit": "2024-07-15T21:18:23Z",
+                    "owner": "Dynamite321",
+                    "repo": "CodeGuardPlus",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-05",
+                  "description": "ACL 2024 Findings NaturalCodeBench 402 Python, Java \"NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 792709276,
+                    "language": "Python",
+                    "last_commit": "2024-10-14T04:36:12Z",
+                    "owner": "THUDM",
+                    "repo": "NaturalCodeBench",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-05",
+                  "description": "arXiv MHPP 140 Python \"MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation\" [paper] [repo]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 799477918,
+                    "language": null,
+                    "last_commit": "2025-09-14T02:52:02Z",
+                    "owner": "SparksofAGI",
+                    "repo": "MHPP",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "arXiv VersiCode 98,692 Python \"VersiCode: Towards Version-controllable Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 812337355,
+                    "language": "Python",
+                    "last_commit": "2024-06-18T13:24:49Z",
+                    "owner": "wutong8023",
+                    "repo": "VersiCode",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "ICLR 2025 BigCodeBench 1,140 Python \"BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 793526430,
+                    "language": "Python",
+                    "last_commit": "2026-01-03T07:22:42Z",
+                    "owner": "bigcode-project",
+                    "repo": "bigcodebench",
+                    "stars": 519
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-07",
+                  "description": "arXiv CodeUpdateArena 670 Python \"CodeUpdateArena: Benchmarking Knowledge Editing on API Updates\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 812660532,
+                    "language": "Python",
+                    "last_commit": "2025-03-20T03:45:37Z",
+                    "owner": "leo-liuzy",
+                    "repo": "CodeUpdateArena",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-07",
+                  "description": "arXiv NoviCode 150 Python \"NoviCode: Generating Programs from Natural Language Utterances by Novices\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 799497447,
+                    "language": "Python",
+                    "last_commit": "2024-08-12T11:10:39Z",
+                    "owner": "BIU-NLP",
+                    "repo": "novicode",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-07",
+                  "description": "arXiv Case2Code 1.3M Python \"Case2Code: Learning Inductive Reasoning with Synthetic Data\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 829265860,
+                    "language": "Python",
+                    "last_commit": "2025-04-07T04:16:14Z",
+                    "owner": "choosewhatulike",
+                    "repo": "case2code",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-07",
+                  "description": "NeurIPS 2024 SciCode 338 Python \"SciCode: A Research Coding Benchmark Curated by Scientists\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 825810755,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T17:17:51Z",
+                    "owner": "scicode-bench",
+                    "repo": "SciCode",
+                    "stars": 222
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-08",
+                  "description": "ACL 2024 Findings CodeInsight 3409 Python \"CodeInsight: A Curated Dataset of Practical Coding Solutions from Stack Overflow\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 721759569,
+                    "language": "Python",
+                    "last_commit": "2024-10-22T09:04:01Z",
+                    "owner": "NathanaelBeau",
+                    "repo": "CodeInsight",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-08",
+                  "description": "arXiv DomainEval 2454 Python \"DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 847527552,
+                    "language": "Python",
+                    "last_commit": "2024-12-12T09:07:42Z",
+                    "owner": "domaineval",
+                    "repo": "DomainEval",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-09",
+                  "description": "arXiv ComplexCodeEval 7184/3897 Python/Java \"ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 784013448,
+                    "language": "Python",
+                    "last_commit": "2024-11-19T08:08:24Z",
+                    "owner": "ComplexCodeEval",
+                    "repo": "ComplexCodeEval",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-09",
+                  "description": "ASE 2024 CoCoNote 58221 Python Notebook \"Contextualized Data-Wrangling Code Generation in Computational Notebooks\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 842899229,
+                    "language": "Python",
+                    "last_commit": "2024-09-22T03:02:45Z",
+                    "owner": "Jun-jie-Huang",
+                    "repo": "CoCoNote",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "arXiv unnamed 77 Python \"Evaluation of Code LLMs on Geospatial Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 846251316,
+                    "language": "Python",
+                    "last_commit": "2025-04-27T17:21:10Z",
+                    "owner": "kraina-ai",
+                    "repo": "geospatial-code-llms-dataset",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "arXiv FeatEng 103 Python \"Can Models Help Us Create Better Models? Evaluating LLMs as Data Scientists\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 876104976,
+                    "language": "Python",
+                    "last_commit": "2024-10-28T23:31:50Z",
+                    "owner": "FeatEng",
+                    "repo": "FeatEng",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-11",
+                  "description": "arXiv GitChameleon 116 Python \"GitChameleon: Unmasking the Version-Switching Capabilities of Code Generation Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 871284013,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-07-18T17:50:11Z",
+                    "owner": "NizarIslah",
+                    "repo": "GitChameleon",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-11",
+                  "description": "EMNLP 2024 Findings MBUPP 466 Python \"One-to-many testing for code generation from (just) natural language\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147847725,
+                    "language": "C#",
+                    "last_commit": "2025-09-15T16:26:55Z",
+                    "owner": "microsoft",
+                    "repo": "prose-benchmarks",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-12",
+                  "description": "EMNLP 2025 CodeArena 397 44 \"Evaluating and Aligning CodeLLMs on Human Preference\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 787368344,
+                    "language": "Python",
+                    "last_commit": "2026-03-24T08:22:10Z",
+                    "owner": "QwenLM",
+                    "repo": "Qwen3-Coder",
+                    "stars": 16809
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-12",
+                  "description": "arXiv OBFUSEVAL 1354 C \"Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 898937332,
+                    "language": "Python",
+                    "last_commit": "2024-12-05T11:25:33Z",
+                    "owner": "zhangbuzhang",
+                    "repo": "ObfusEval",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-12",
+                  "description": "ACL 2025 Findings HumanEval Pro / MBPP Pro / BigCodeBench-Lite Pro 164/378/57 Python \"HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 898858043,
+                    "language": "Python",
+                    "last_commit": "2025-04-07T16:19:10Z",
+                    "owner": "CodeEval-Pro",
+                    "repo": "CodeEval-Pro",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-02",
+                  "description": "FSE 2025 COFFE 756 Python \"COFFE: A Code Efficiency Benchmark for Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 917023056,
+                    "language": "Python",
+                    "last_commit": "2025-05-26T13:20:45Z",
+                    "owner": "JohnnyPeng18",
+                    "repo": "Coffe",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-02",
+                  "description": "arXiv DataSciBench 222 Python \"DataSciBench: An LLM Agent Benchmark for Data Science\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 935545951,
+                    "language": "Python",
+                    "last_commit": "2026-01-21T06:17:23Z",
+                    "owner": "THUDM",
+                    "repo": "DataSciBench",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-02",
+                  "description": "arXiv TritonBench 184 Triton \"TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 936020444,
+                    "language": "Python",
+                    "last_commit": "2025-06-14T15:49:37Z",
+                    "owner": "thunlp",
+                    "repo": "TritonBench",
+                    "stars": 138
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-02",
+                  "description": "arXiv IndicEval-XL 6720 12 \"IndicEval-XL: Bridging Linguistic Diversity in Code Generation Across Indic Languages\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 934094755,
+                    "language": "Python",
+                    "last_commit": "2025-02-27T07:16:10Z",
+                    "owner": "telekom",
+                    "repo": "IndicEval-XL",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-02",
+                  "description": "arXiv ProBench 790 C++, Java, Python \"ProBench: Benchmarking Large Language Models in Competitive Programming\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 940467623,
+                    "language": "Python",
+                    "last_commit": "2025-03-10T09:03:30Z",
+                    "owner": "YL-9",
+                    "repo": "probench",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-03",
+                  "description": "arXiv BigO(Bench) 3105 Python \"BigO(Bench) -- Can LLMs Generate Code with Controlled Time and Space Complexity?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 944589147,
+                    "language": "Python",
+                    "last_commit": "2025-04-15T13:40:33Z",
+                    "owner": "facebookresearch",
+                    "repo": "BigOBench",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv YABLoCo 215 C, C++ \"YABLoCo: Yet Another Benchmark for Long Context Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 837389710,
+                    "language": "Python",
+                    "last_commit": "2025-10-09T11:36:31Z",
+                    "owner": "yabloco-codegen",
+                    "repo": "yabloco-benchmark",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv OSS-Bench - - \"OSS-Bench: Benchmark Generator for Coding LLMs\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 980642935,
+                    "language": "Python",
+                    "last_commit": "2025-06-30T13:23:11Z",
+                    "owner": "oss-bench",
+                    "repo": "oss-bench",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-06",
+                  "description": "arXiv LiveCodeBench Pro 584 C++ \"LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 941350928,
+                    "language": "Python",
+                    "last_commit": "2025-12-13T21:24:59Z",
+                    "owner": "GavinZhengOI",
+                    "repo": "LiveCodeBench-Pro",
+                    "stars": 176
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-06",
+                  "description": "EMNLP 2025 Findings HLCE 235 C++, Python \"Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 992452116,
+                    "language": "Python",
+                    "last_commit": "2025-08-21T03:41:24Z",
+                    "owner": "Humanity-s-Last-Code-Exam",
+                    "repo": "HLCE",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-06",
+                  "description": "arXiv OJBench 232 C++, Python \"OJBench: A Competition Level Code Benchmark For Large Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1001944924,
+                    "language": "Python",
+                    "last_commit": "2026-02-28T05:22:47Z",
+                    "owner": "He-Ren",
+                    "repo": "OJBench",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-08",
+                  "description": "arXiv FPBench 1800 Python \"Refining Critical Thinking in LLM Code Generation: A Faulty Premise-based Evaluation Framework\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 995100737,
+                    "language": "Python",
+                    "last_commit": "2025-10-13T08:16:14Z",
+                    "owner": "JialinLi13",
+                    "repo": "FaultyPremise",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-10",
+                  "description": "arXiv RealClassEval 400 Python \"Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1086185302,
+                    "language": "Python",
+                    "last_commit": "2025-10-31T04:25:39Z",
+                    "owner": "mrsumitbd",
+                    "repo": "RealClassEval-Replication",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": "* Automatically mined/human-annotated\n$^\\dagger$ 1749 prompts for 48 problems\n$^\\ddagger$ 10538 prompts for 1420 problems\n$^\\diamond$ Machine/human prompts",
+              "node_type": "group",
+              "title": "Program Synthesis"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2024-04",
+                  "description": "EMNLP 2024 Findings MMCode 3548 Python \"MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 786289842,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-04-14T03:54:21Z",
+                    "owner": "likaixin2000",
+                    "repo": "MMCode",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "ICLR 2025 ChartMimic 1000 Python \"ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 814478565,
+                    "language": "Python",
+                    "last_commit": "2025-12-19T04:37:00Z",
+                    "owner": "ChartMimic",
+                    "repo": "ChartMimic",
+                    "stars": 134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "arXiv HumanEval-V 108 Python \"HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 872792244,
+                    "language": "Python",
+                    "last_commit": "2025-02-25T02:04:47Z",
+                    "owner": "HumanEval-V",
+                    "repo": "HumanEval-V-Benchmark",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "arXiv TurtleBench 260 Python \"TurtleBench: A Visual Programming Benchmark in Turtle Geometry\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 724858217,
+                    "language": "Python",
+                    "last_commit": "2025-01-30T19:18:01Z",
+                    "owner": "sinaris76",
+                    "repo": "TurtleBench",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-12",
+                  "description": "ACL 2025 Findings Visual SWEbench 133 Python \"CodeV: Issue Resolving with Visual Data\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 903961555,
+                    "language": "Python",
+                    "last_commit": "2024-12-26T08:52:25Z",
+                    "owner": "luolin101",
+                    "repo": "CodeV",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-02",
+                  "description": "arXiv Code-Vision 438 Python \"Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 889290270,
+                    "language": "Python",
+                    "last_commit": "2025-02-22T07:50:51Z",
+                    "owner": "wanghanbinpanda",
+                    "repo": "CodeVision",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-06",
+                  "description": "ACL 2025 Findings Flow2Code 5622 15 \"Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 993651834,
+                    "language": null,
+                    "last_commit": "2025-05-31T08:08:27Z",
+                    "owner": "hml-github",
+                    "repo": "Flow2Code",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-07",
+                  "description": "arXiv ArtifactsBench 1825 HTML/JavaScript \"ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1009011585,
+                    "language": "Python",
+                    "last_commit": "2025-12-30T06:38:40Z",
+                    "owner": "Tencent-Hunyuan",
+                    "repo": "ArtifactsBenchmark",
+                    "stars": 278
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-08",
+                  "description": "arXiv MCD 598K HTML, Python \"VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1037176416,
+                    "language": null,
+                    "last_commit": "2025-08-14T09:24:01Z",
+                    "owner": "JackLingjie",
+                    "repo": "VisCodex",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visually Grounded Program Synthesis"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2021-09",
+                  "description": "EMNLP 2021 Findings CodeQA 120K/70K Java/Python \"CodeQA: A Question Answering Dataset for Source Code Comprehension\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 403239307,
+                    "language": "Python",
+                    "last_commit": "2023-12-23T16:26:23Z",
+                    "owner": "jadecxliu",
+                    "repo": "CodeQA",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-10",
+                  "description": "NAACL 2022 CS1QA 9237 Python \"CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 487867343,
+                    "language": "Python",
+                    "last_commit": "2023-03-10T03:07:15Z",
+                    "owner": "cyoon47",
+                    "repo": "CS1QA",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-09",
+                  "description": "arXiv CodeApex 250 C++ \"CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 686961874,
+                    "language": "Python",
+                    "last_commit": "2023-09-06T15:32:38Z",
+                    "owner": "APEXLAB",
+                    "repo": "CodeApex",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-01",
+                  "description": "ICML 2024 CRUXEval 800 Python \"CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 738277349,
+                    "language": "Python",
+                    "last_commit": "2024-10-11T21:35:50Z",
+                    "owner": "facebookresearch",
+                    "repo": "cruxeval",
+                    "stars": 173
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-05",
+                  "description": "arXiv PythonIO 2650 Python \"Multiple-Choice Questions are Efficient and Robust LLM Evaluators\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 803145589,
+                    "language": "Python",
+                    "last_commit": "2024-05-21T01:17:12Z",
+                    "owner": "Geralt-Targaryen",
+                    "repo": "MC-Evaluation",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "arXiv RepoQA 500 Python, C++, Java, Rust, TypeScript \"RepoQA: Evaluating Long Context Code Understanding\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 759290181,
+                    "language": "Python",
+                    "last_commit": "2024-11-01T17:59:43Z",
+                    "owner": "evalplus",
+                    "repo": "repoqa",
+                    "stars": 135
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-08",
+                  "description": "ACL 2025 CruxEval-X 12.6K 19 \"CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 847147071,
+                    "language": "Python",
+                    "last_commit": "2024-12-07T13:13:22Z",
+                    "owner": "CRUXEVAL-X",
+                    "repo": "cruxeval-x",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "ICLR 2025 CodeMMLU 19912 13 \"CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 852959304,
+                    "language": "Python",
+                    "last_commit": "2025-04-21T03:28:47Z",
+                    "owner": "FSoft-AI4Code",
+                    "repo": "CodeMMLU",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-11",
+                  "description": "arXiv unnamed 80232 Python \"Leveraging Large Language Models in Code Question Answering: Baselines and Issues\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 859705838,
+                    "language": "Python",
+                    "last_commit": "2024-10-15T11:51:27Z",
+                    "owner": "IU-AES-AI4Code",
+                    "repo": "CodeQuestionAnswering",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-11",
+                  "description": "arXiv ScratchEval 305 Scratch \"ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 895340917,
+                    "language": null,
+                    "last_commit": "2024-12-19T10:07:49Z",
+                    "owner": "HKBUNLP",
+                    "repo": "ScratchEval",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-12",
+                  "description": "arXiv CodeRepoQA 585,687 Python, Java, TS, JS, Go \"CodeRepoQA: A Large-scale Benchmark for Software Engineering Question Answering\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 905198268,
+                    "language": null,
+                    "last_commit": "2025-02-19T02:36:30Z",
+                    "owner": "kinesiatricssxilm14",
+                    "repo": "CodeRepoQA",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-09",
+                  "description": "arXiv SWE-QA 576 Python \"SWE-QA: Can Language Models Answer Repository-level Code Questions?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1059127684,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T06:44:41Z",
+                    "owner": "peng-weihan",
+                    "repo": "SWE-QA-Bench",
+                    "stars": 57
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-11",
+                  "description": "arXiv VCode 464 SVG \"VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1085454395,
+                    "language": "Python",
+                    "last_commit": "2026-02-21T15:31:25Z",
+                    "owner": "CSU-JPG",
+                    "repo": "VCode",
+                    "stars": 135
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-12",
+                  "description": "arXiv gpuFLOPBench 577 CUDA \"Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1097808905,
+                    "language": "C++",
+                    "last_commit": "2025-12-05T19:21:25Z",
+                    "owner": "Scientific-Computing-Lab",
+                    "repo": "gpuFLOPBench",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-12",
+                  "description": "arXiv SimpleDevQA 2740 - \"SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 893088691,
+                    "language": "Python",
+                    "last_commit": "2026-02-20T11:50:29Z",
+                    "owner": "DeepSoftwareAnalytics",
+                    "repo": "SimpleDevQA",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2026-03",
+                  "description": "arXiv SWE-QA-Pro 260 Python \"SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1078060921,
+                    "language": "Python",
+                    "last_commit": "2026-06-26T13:21:47Z",
+                    "owner": "TIGER-AI-Lab",
+                    "repo": "SWE-QA-Pro",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code Reasoning and QA"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2017-08",
+                  "description": "arXiv WikiSQL 80654 \"Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 100076574,
+                    "language": "HTML",
+                    "last_commit": "2025-10-06T11:06:57Z",
+                    "owner": "salesforce",
+                    "repo": "WikiSQL",
+                    "stars": 1805
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-06",
+                  "description": "CL 2018 Advising 4570 \"Improving Text-to-SQL Evaluation Methodology\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133046565,
+                    "language": "Python",
+                    "last_commit": "2025-03-03T21:19:10Z",
+                    "owner": "jkkummerfeld",
+                    "repo": "text2sql-data",
+                    "stars": 587
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-07",
+                  "description": "WWW 2020 MIMICSQL 10000 \"Text-to-SQL Generation for Question Answering on Electronic Medical Records\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 196893534,
+                    "language": "Python",
+                    "last_commit": "2021-05-28T21:56:00Z",
+                    "owner": "wangpinggl",
+                    "repo": "TREQS",
+                    "stars": 137
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-05",
+                  "description": "LREC 2020 Criteria-to-SQL 2003 \"Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 245042761,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2020-05-18T03:38:52Z",
+                    "owner": "xiaojingyu92",
+                    "repo": "Criteria2SQL",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-10",
+                  "description": "EMNLP 2020 Findings Squall 11276 \"On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305740987,
+                    "language": "JavaScript",
+                    "last_commit": "2020-11-09T20:59:12Z",
+                    "owner": "tzshi",
+                    "repo": "squall",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-06",
+                  "description": "NLP4Prog 2021 SEDE 12023 \"Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 351026769,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-06-25T16:01:58Z",
+                    "owner": "hirupert",
+                    "repo": "sede",
+                    "stars": 107
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-06",
+                  "description": "ACL/IJCNLP 2021 KaggleDBQA 400 \"KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 990102764,
+                    "language": null,
+                    "last_commit": "2025-05-25T14:07:22Z",
+                    "owner": "chiahsuan156",
+                    "repo": "KaggleDBQA",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-09",
+                  "description": "EMNLP Spider-DK 535 \"Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 403060815,
+                    "language": null,
+                    "last_commit": "2021-10-20T15:30:47Z",
+                    "owner": "ygan",
+                    "repo": "Spider-DK",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-05",
+                  "description": "NAACL 2022 Findings Spider-SS/CG 8034/45599 \"Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 482297253,
+                    "language": "Python",
+                    "last_commit": "2022-06-04T06:48:44Z",
+                    "owner": "ygan",
+                    "repo": "SpiderSS-SpiderCG",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-06",
+                  "description": "ACL 2023 XSemPLR 24.4K \"XSemPLR: Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643875537,
+                    "language": "Shell",
+                    "last_commit": "2023-06-08T00:42:26Z",
+                    "owner": "psunlpgroup",
+                    "repo": "XSemPLR",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "NAACL 2024 BookSQL 100K \"BookSQL: A Large Scale Text-to-SQL Dataset for Accounting Domain\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 613203941,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-13T02:08:33Z",
+                    "owner": "Exploration-Lab",
+                    "repo": "BookSQL",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-08",
+                  "description": "ACL 2024 Findings MultiSQL 9257 \"MultiSQL: A Schema-Integrated Context-Dependent Text2SQL Dataset with Diverse SQL Operations\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811284648,
+                    "language": null,
+                    "last_commit": "2024-06-07T04:38:40Z",
+                    "owner": "grandchicken",
+                    "repo": "MultiSQL",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "arXiv BIS 239 \"BIS: NL2SQL Service Evaluation Benchmark for Business Intelligence Scenarios\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 870197996,
+                    "language": "Python",
+                    "last_commit": "2024-10-10T14:10:34Z",
+                    "owner": "boracaglayan",
+                    "repo": "bis-nl2sql",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-11",
+                  "description": "ICLR 2025 Spider 2.0 632 \"Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 845868425,
+                    "language": "HTML",
+                    "last_commit": "2026-08-12T13:01:36Z",
+                    "owner": "xlang-ai",
+                    "repo": "Spider2",
+                    "stars": 859
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv BiomedSQL 68,000 \"BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 983160931,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T13:25:58Z",
+                    "owner": "NIH-CARD",
+                    "repo": "biomedsql",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-09",
+                  "description": "arXiv PARROT 598 \"PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 984589420,
+                    "language": "Python",
+                    "last_commit": "2025-11-11T15:21:26Z",
+                    "owner": "OpenDataBox",
+                    "repo": "PARROT",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-09",
+                  "description": "arXiv MultiSpider 2.0 5056 \"Multilingual Text-to-SQL: Benchmarking the Limits of Language Models with Collaborative Language Agents\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1066457246,
+                    "language": null,
+                    "last_commit": "2026-04-08T06:35:40Z",
+                    "owner": "phkhanhtrinh23",
+                    "repo": "Multilingual_Text_to_SQL",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-10",
+                  "description": "arXiv Falcon 600 \"Falcon: A Comprehensive Chinese Text-to-SQL Benchmark for Enterprise-Grade Evaluation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1024156238,
+                    "language": "HTML",
+                    "last_commit": "2026-01-22T02:23:16Z",
+                    "owner": "eosphoros-ai",
+                    "repo": "Falcon",
+                    "stars": 51
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Text-to-SQL"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2020-06",
+                  "description": "NeurIPS 2020 Transcoder GeeksforGeeks 1.4K C++, Java, Python \"Unsupervised Translation of Programming Languages\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 278611500,
+                    "language": "Python",
+                    "last_commit": "2021-09-29T14:51:46Z",
+                    "owner": "facebookresearch",
+                    "repo": "TransCoder",
+                    "stars": 1732
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-08",
+                  "description": "ACL 2023 Findings Avatar 9515 Java, Python \"AVATAR: A Parallel Corpus for Java-Python Program Translation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 399243260,
+                    "language": "Python",
+                    "last_commit": "2024-07-31T18:38:13Z",
+                    "owner": "wasiahmad",
+                    "repo": "AVATAR",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-06",
+                  "description": "AAAI 2022 CoST 132K C++, Java, Python, C#, JS, PHP, C \"Multilingual Code Snippets Training for Program Translation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 457074748,
+                    "language": "Python",
+                    "last_commit": "2022-03-07T15:23:11Z",
+                    "owner": "reddy-lab-code-research",
+                    "repo": "MuST-CoST",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-06",
+                  "description": "arXiv XLCoST 567K C++, Java, Python, C#, JS, PHP, C \"XLCoST: A Benchmark Dataset for Cross-lingual Code Intelligence\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 500232186,
+                    "language": "C",
+                    "last_commit": "2025-01-21T03:06:19Z",
+                    "owner": "reddy-lab-code-research",
+                    "repo": "XLCoST",
+                    "stars": 94
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-03",
+                  "description": "arXiv xCodeEval 5.6M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust \"xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614683429,
+                    "language": "Python",
+                    "last_commit": "2024-09-17T21:16:04Z",
+                    "owner": "ntunlp",
+                    "repo": "xCodeEval",
+                    "stars": 90
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-03",
+                  "description": "arXiv HumanEval-X 1640 Python, C++, Java, JS, Go \"CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 537827151,
+                    "language": "Python",
+                    "last_commit": "2024-08-13T05:59:38Z",
+                    "owner": "zai-org",
+                    "repo": "CodeGeeX",
+                    "stars": 8806
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-08",
+                  "description": "arXiv G-TransEval 4000 C++, Java, C#, JS, Python \"On the Evaluation of Neural Code Translation: Taxonomy and Benchmark\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 669075635,
+                    "language": "Java",
+                    "last_commit": "2023-08-17T14:04:09Z",
+                    "owner": "polyeval",
+                    "repo": "g-transeval",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-10",
+                  "description": "arXiv CodeTransOcean 270.5K 45 \"CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 650016289,
+                    "language": "Python",
+                    "last_commit": "2023-11-16T23:36:11Z",
+                    "owner": "WeixiangYAN",
+                    "repo": "CodeTransOcean",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-04",
+                  "description": "arXiv CRUST-Bench 100 C, Rust \"CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 964140997,
+                    "language": "Python",
+                    "last_commit": "2026-04-27T19:41:19Z",
+                    "owner": "anirudhkhatry",
+                    "repo": "CRUST-bench",
+                    "stars": 39
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code Translation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2014-07",
+                  "description": "ISSTA 2014 Defects4J 357 Java \"Defects4J: A Database of Existing Faults to Enable Controlled Testing Studies for Java Programs\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34107553,
+                    "language": "Perl",
+                    "last_commit": "2026-04-07T08:58:28Z",
+                    "owner": "rjust",
+                    "repo": "defects4j",
+                    "stars": 993
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2017-10",
+                  "description": "SPLASH 2017 QuixBugs 80 Java, Python \"QuixBugs: a multi-lingual program repair benchmark set based on the quixey challenge\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 97353890,
+                    "language": "Java",
+                    "last_commit": "2022-08-29T17:38:22Z",
+                    "owner": "jkoppel",
+                    "repo": "QuixBugs",
+                    "stars": 145
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-05",
+                  "description": "MSR 2018 Bugs.jar 1158 Java \"Bugs.jar: a large-scale, diverse dataset of real-world Java bugs\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102904157,
+                    "language": null,
+                    "last_commit": "2018-02-07T00:48:54Z",
+                    "owner": "bugs-dot-jar",
+                    "repo": "bugs-dot-jar",
+                    "stars": 63
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-01",
+                  "description": "SANER 2019 Bears 251 Java \"Bears: An Extensible Java Bug Benchmark for Automatic Program Repair Studies\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 152625887,
+                    "language": "Python",
+                    "last_commit": "2024-03-04T14:13:01Z",
+                    "owner": "bears-bugs",
+                    "repo": "bears-benchmark",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-05",
+                  "description": "MSR 2020 ManySStuBs4J 154K Java \"How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 169523125,
+                    "language": "Java",
+                    "last_commit": "2022-05-20T21:04:21Z",
+                    "owner": "mast-group",
+                    "repo": "mineSStuBs",
+                    "stars": 39
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-11",
+                  "description": "ASE 2019 Refactory 1783 Python \"Re-factoring based program repair applied to programming assignments\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 208684336,
+                    "language": "Python",
+                    "last_commit": "2022-08-16T15:12:55Z",
+                    "owner": "githubhuyang",
+                    "repo": "refactory",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-07",
+                  "description": "ISSTA 2020 CoCoNut 24M Java, Python, C, JS \"CoCoNuT: combining context-aware neural translation models using ensemble for program repair\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 267188062,
+                    "language": "Python",
+                    "last_commit": "2023-03-30T08:25:54Z",
+                    "owner": "lin-tan",
+                    "repo": "CoCoNut-Artifact",
+                    "stars": 63
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-10",
+                  "description": "Inf. Softw. Technol. Review4Repair 58021 Java \"Review4Repair: Code Review Aided Automatic Program Repairing\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 258739684,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-02-08T12:09:49Z",
+                    "owner": "Review4Repair",
+                    "repo": "Review4Repair",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-11",
+                  "description": "ESEC/FSE 2020 BugsInPy 493 Python \"BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265428390,
+                    "language": "Shell",
+                    "last_commit": "2026-02-10T21:54:22Z",
+                    "owner": "soarsmu",
+                    "repo": "BugsInPy",
+                    "stars": 151
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-07",
+                  "description": "ICML 2021 TFix 105K JS \"TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 372375602,
+                    "language": "JavaScript",
+                    "last_commit": "2022-05-12T08:10:09Z",
+                    "owner": "eth-sri",
+                    "repo": "TFix",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-08",
+                  "description": "arXiv Megadiff 663K * Java \"Megadiff: A Dataset of 600k Java Source Code Changes Categorized by Diff Size\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 180933146,
+                    "language": null,
+                    "last_commit": "2024-03-22T09:33:41Z",
+                    "owner": "ASSERT-KTH",
+                    "repo": "megadiff",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-10",
+                  "description": "MSR 2022 FixJS 324K JS \"FixJS: a dataset of bug-fixing JavaScript commits\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 448797879,
+                    "language": null,
+                    "last_commit": "2022-10-18T10:08:50Z",
+                    "owner": "AAI-USZ",
+                    "repo": "FixJS",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2022-11",
+                  "description": "ESEC/FSE 2022 TypeBugs 93 Python \"PyTER: Effective Program Repair for Python Type Errors\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 471179533,
+                    "language": "Python",
+                    "last_commit": "2025-09-17T07:54:35Z",
+                    "owner": "kupl",
+                    "repo": "PyTER",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-03",
+                  "description": "arXiv xCodeEval 4.7M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust \"xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614683429,
+                    "language": "Python",
+                    "last_commit": "2024-09-17T21:16:04Z",
+                    "owner": "ntunlp",
+                    "repo": "xCodeEval",
+                    "stars": 90
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-04",
+                  "description": "arXiv RunBugRun 450K C, C++, Java, Python, JS, Ruby, Go, PHP \"RunBugRun -- An Executable Dataset for Automated Program Repair\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 598755074,
+                    "language": "Ruby",
+                    "last_commit": "2025-09-24T21:57:13Z",
+                    "owner": "giganticode",
+                    "repo": "run_bug_run",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-01",
+                  "description": "arXiv DebugBench 4253 C++, Java, Python \"DebugBench: Evaluating Debugging Capability of Large Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 740544633,
+                    "language": "Python",
+                    "last_commit": "2024-07-13T02:34:22Z",
+                    "owner": "thunlp",
+                    "repo": "DebugBench",
+                    "stars": 88
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-06",
+                  "description": "ASE 2025 Hunk4J 372 Java \"Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 991255179,
+                    "language": "Python",
+                    "last_commit": "2025-10-03T21:41:18Z",
+                    "owner": "nashid",
+                    "repo": "birch",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-09",
+                  "description": "arXiv OCEDataFT 20K Python \"Generating High-Quality Datasets for Code Editing via Open-Source Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1054557351,
+                    "language": "Python",
+                    "last_commit": "2025-09-20T09:25:33Z",
+                    "owner": "zkzhang88",
+                    "repo": "OpenCodeEdit",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "* These are code-change datasest, and only a subset therein concerns bug fixing.",
+              "node_type": "group",
+              "title": "Program Repair"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2016-08",
+                  "description": "ACL 2016 CODE-NN 66K/32K C#/SQL \"Summarizing Source Code using a Neural Attention Model\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60563775,
+                    "language": "Python",
+                    "last_commit": "2023-01-23T21:04:53Z",
+                    "owner": "sriniiyer",
+                    "repo": "codenn",
+                    "stars": 238
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2017-07",
+                  "description": "IJCNLP 2017 unnamed 150K Python \"A parallel corpus of Python functions and documentation strings for automated code documentation and code generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 87564801,
+                    "language": "Python",
+                    "last_commit": "2020-07-13T14:21:48Z",
+                    "owner": "EdinburghNLP",
+                    "repo": "code-docstring-corpus",
+                    "stars": 211
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-05",
+                  "description": "ICPC 2018 DeepCom 588K Java \"Deep code comment generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124653788,
+                    "language": null,
+                    "last_commit": "2018-11-15T12:10:43Z",
+                    "owner": "xing-hu",
+                    "repo": "DeepCom",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-07",
+                  "description": "IJCAI 2018 TL-CodeSum 411K Java \"Summarizing Source Code with Transferred API Knowledge\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 130940485,
+                    "language": "NewLisp",
+                    "last_commit": "2020-09-17T08:16:41Z",
+                    "owner": "xing-hu",
+                    "repo": "TL-CodeSum",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-11",
+                  "description": "ASE 2018 unnamed 109K Python \"Improving Automatic Source Code Summarization via Deep Reinforcement Learning\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148548702,
+                    "language": "Python",
+                    "last_commit": "2021-06-02T03:40:18Z",
+                    "owner": "wanyao1992",
+                    "repo": "code_summarization_public",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-09",
+                  "description": "arxiv CodeSearchNet 2.3M Go, JS, Python, PHP, Java, Ruby \"CodeSearchNet Challenge: Evaluating the State of Semantic Code Search\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 173155670,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-01-31T09:25:07Z",
+                    "owner": "github",
+                    "repo": "CodeSearchNet",
+                    "stars": 2443
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code Summarization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2018-01",
+                  "description": "NDSS 2018 CGD 62K C, C++ \"VulDeePecker: A Deep Learning-Based System for Vulnerability Detection\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112857200,
+                    "language": "C",
+                    "last_commit": "2020-11-17T19:40:14Z",
+                    "owner": "CGCL-codes",
+                    "repo": "VulDeePecker",
+                    "stars": 354
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-04",
+                  "description": "IEEE Trans. Ind. Informatics unnamed 32988 C, C++ \"Cross-Project Transfer Representation Learning for Vulnerable Function Discovery\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 122805786,
+                    "language": "Python",
+                    "last_commit": "2019-01-30T01:54:30Z",
+                    "owner": "DanielLin1986",
+                    "repo": "TransferRepresentationLearning",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-07",
+                  "description": "IEEE TDSC SySeVR 15591 C, C++ \"SySeVR: A Framework for Using Deep Learning to Detect Software Vulnerabilities\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141377750,
+                    "language": "HTML",
+                    "last_commit": "2024-10-24T20:07:28Z",
+                    "owner": "SySeVR",
+                    "repo": "SySeVR",
+                    "stars": 357
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-02",
+                  "description": "MSR 2019 unnamed 624 Java \"A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 170539174,
+                    "language": "Python",
+                    "last_commit": "2026-05-22T16:08:01Z",
+                    "owner": "SAP",
+                    "repo": "project-kb",
+                    "stars": 134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-11",
+                  "description": "IEEE TDSC unnamed 170K C, C++ \"Software Vulnerability Discovery via Learning Multi-Domain Knowledge Bases\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159899147,
+                    "language": "Python",
+                    "last_commit": "2020-08-15T03:51:55Z",
+                    "owner": "DanielLin1986",
+                    "repo": "RepresentationsLearningFromMulti_domain",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-01",
+                  "description": "IEEE TDSC MVD 182K C, C++ \"μVulDeePecker: A Deep Learning-Based System for Multiclass Vulnerability Detection\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 137007100,
+                    "language": null,
+                    "last_commit": "2019-01-19T09:49:05Z",
+                    "owner": "muVulDeePecker",
+                    "repo": "muVulDeePecker",
+                    "stars": 52
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-02",
+                  "description": "ICICS 2019 unnamed 1471 C \"Deep Learning-Based Vulnerable Function Detection: A Benchmark\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 206466401,
+                    "language": "Python",
+                    "last_commit": "2024-02-29T16:06:32Z",
+                    "owner": "DanielLin1986",
+                    "repo": "Function-level-Vulnerability-Detection",
+                    "stars": 77
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-09",
+                  "description": "MSR 2020 Big-Vul 265K C, C++ \"A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274831212,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-03-25T00:09:34Z",
+                    "owner": "ZeoVan",
+                    "repo": "MSR_20_Code_vulnerability_CSV_Dataset",
+                    "stars": 369
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-02",
+                  "description": "ICSE (SEIP) 2021 D2A 1.3M C, C++ \"D2A: A Dataset Built for AI-Based Vulnerability Detection Methods Using Differential Analysis\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 336380983,
+                    "language": "Python",
+                    "last_commit": "2022-05-27T11:44:05Z",
+                    "owner": "IBM",
+                    "repo": "D2A",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-04",
+                  "description": "RAID 2023 DiverseVul 349K C, C++ \"DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 665308743,
+                    "language": null,
+                    "last_commit": "2024-10-23T01:24:25Z",
+                    "owner": "wagner-group",
+                    "repo": "diversevul",
+                    "stars": 190
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-06",
+                  "description": "arXiv VulnPatchPairs 26K C \"Limits of Machine Learning for Automatic Vulnerability Detection\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 659272283,
+                    "language": "Python",
+                    "last_commit": "2024-02-06T16:22:33Z",
+                    "owner": "niklasrisse",
+                    "repo": "LimitsOfML4Vuln",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "arXiv VulDetectBench 1000 C/C++ \"VulDetectBench: Evaluating the Deep Capability of Vulnerability Detection with Large Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811206730,
+                    "language": "C",
+                    "last_commit": "2025-04-25T11:26:57Z",
+                    "owner": "Sweetaroo",
+                    "repo": "VulDetectBench",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-08",
+                  "description": "arXiv CodeJudge-Eval 1860 Python \"CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 844031794,
+                    "language": null,
+                    "last_commit": "2024-12-03T02:58:28Z",
+                    "owner": "CodeLLM-Research",
+                    "repo": "CodeJudge-Eval",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-11",
+                  "description": "arXiv CleanVul 11632 Java, Python, JS, C#, C/C++ \"CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 866762723,
+                    "language": "Python",
+                    "last_commit": "2026-08-20T03:02:31Z",
+                    "owner": "yikun-li",
+                    "repo": "CleanVul",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-03",
+                  "description": "EMNLP 2025 DSDBench 1117 Python \"Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 952378458,
+                    "language": "Python",
+                    "last_commit": "2025-09-27T08:06:14Z",
+                    "owner": "KevinCL16",
+                    "repo": "DSDBench",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv SecVulEval 25440 C/C++ \"SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 984255302,
+                    "language": "Python",
+                    "last_commit": "2026-03-29T07:32:34Z",
+                    "owner": "basimbd",
+                    "repo": "SecVulEval",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv SV-TrustEval-C 3,337 C \"SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 839537279,
+                    "language": "Python",
+                    "last_commit": "2025-09-15T20:39:34Z",
+                    "owner": "Jackline97",
+                    "repo": "SV-TrustEval-C",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Defect/Vulnerability Detection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2018-03",
+                  "description": "WWW 2018 StaQC 148K/120K Python/SQL \"StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 116522075,
+                    "language": "Python",
+                    "last_commit": "2021-08-28T14:37:21Z",
+                    "owner": "LittleYUYU",
+                    "repo": "StackOverflow-Question-Code-Dataset",
+                    "stars": 170
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-05",
+                  "description": "ICSE 2018 DeepCS 16.2M Java \"Deep Code Search\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121241775,
+                    "language": "Python",
+                    "last_commit": "2022-05-26T14:32:51Z",
+                    "owner": "guxd",
+                    "repo": "deep-code-search",
+                    "stars": 285
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-08",
+                  "description": "arXiv unnamed 287 Java \"Neural Code Search Evaluation Dataset\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 209875378,
+                    "language": "Python",
+                    "last_commit": "2024-05-03T19:48:53Z",
+                    "owner": "facebookresearch",
+                    "repo": "Neural-Code-Search-Evaluation-Dataset",
+                    "stars": 125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-09",
+                  "description": "arXiv CodeSearchNet 2.3M/99 Go, PHP, JS, Python, Java, Ruby \"CodeSearchNet Challenge: Evaluating the State of Semantic Code Search\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 173155670,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-01-31T09:25:07Z",
+                    "owner": "github",
+                    "repo": "CodeSearchNet",
+                    "stars": 2443
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-02",
+                  "description": "SANER 2020 CosBench 52 Java \"Are the Code Snippets What We Are Searching for? A Benchmark and an Empirical Study on Code Search with Natural-Language Queries\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 195224318,
+                    "language": null,
+                    "last_commit": "2020-02-13T03:19:11Z",
+                    "owner": "BASE-LAB-SJTU",
+                    "repo": "CosBench",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-08",
+                  "description": "arXiv SO-DS 2.2K Python \"Neural Code Search Revisited: Enhancing Code Snippet Retrieval through Natural Language Intent\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 290777031,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-05-22T07:22:52Z",
+                    "owner": "nokia",
+                    "repo": "codesearch",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-10",
+                  "description": "ACM Trans. Knowl. Discov. Data FB-Java 249K Java \"Deep Graph Matching and Searching for Semantic Code Retrieval\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 331628595,
+                    "language": "Python",
+                    "last_commit": "2021-10-15T14:22:58Z",
+                    "owner": "ryderling",
+                    "repo": "DGMS",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-05",
+                  "description": "ACL/IJCNLP 2021 CoSQA 21K Python \"CoSQA: 20,000+ Web Queries for Code Search and Question Answering\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 291656286,
+                    "language": "C#",
+                    "last_commit": "2024-04-23T06:09:50Z",
+                    "owner": "microsoft",
+                    "repo": "CodeXGLUE",
+                    "stars": 1839
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-03",
+                  "description": "arXiv ProCQA 5.2M C, C++, Java, Python, Ruby, Lisp, JS, C#, Go, Rust, PHP \"ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609155383,
+                    "language": "Python",
+                    "last_commit": "2025-02-06T15:44:16Z",
+                    "owner": "jordane95",
+                    "repo": "procqa",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "arXiv CoSQA+ 109K Python \"CoSQA+: Enhancing Code Search Dataset with Matching Code\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 935513620,
+                    "language": "Python",
+                    "last_commit": "2025-09-08T14:50:29Z",
+                    "owner": "DeepSoftwareAnalytics",
+                    "repo": "CoSQA_Plus",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-07",
+                  "description": "ACL 2025 CoIR ~2M 14 \"CoIR: A Comprehensive Benchmark for Code Information Retrieval Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811640018,
+                    "language": "Python",
+                    "last_commit": "2025-06-30T02:01:36Z",
+                    "owner": "CoIR-team",
+                    "repo": "coir",
+                    "stars": 155
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv CoQuIR 42,725 11 \"CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 993767447,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-06-03T13:24:04Z",
+                    "owner": "TRUMANCFY",
+                    "repo": "CoQuIR",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code Retrieval"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2020-04",
+                  "description": "PLDI 2020 Typilus 252K Python \"Typilus: Neural Type Hints\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249965068,
+                    "language": "Python",
+                    "last_commit": "2023-02-08T00:44:32Z",
+                    "owner": "typilus",
+                    "repo": "typilus",
+                    "stars": 63
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2020-04",
+                  "description": "ICLR 2020 LambdaNet 300 * TypeScript \"LambdaNet: Probabilistic Type Inference using Graph Neural Networks\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155660489,
+                    "language": "Scala",
+                    "last_commit": "2022-12-09T18:31:30Z",
+                    "owner": "MrVPlusOne",
+                    "repo": "LambdaNet",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-04",
+                  "description": "MSR 2021 ManyTypes4Py 869K Python \"ManyTypes4Py: A Benchmark Python Dataset for Machine Learning-based Type Inference\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 296071486,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-03-27T08:52:57Z",
+                    "owner": "saltudelft",
+                    "repo": "many-types-4-py-dataset",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-03",
+                  "description": "ICLR 2023 BetterTypes4Py/InferTypes4Py 608K/4.6K Python \"TypeT5: Seq2seq Type Inference using Static Analysis\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 590570413,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-07-09T06:01:14Z",
+                    "owner": "utopia-group",
+                    "repo": "TypeT5",
+                    "stars": 32
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-05",
+                  "description": "arXiv OpenTau 744 * TypeScript \"Type Prediction With Program Decomposition and Fill-in-the-Type Training\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 531796125,
+                    "language": "Rust",
+                    "last_commit": "2023-12-10T02:41:41Z",
+                    "owner": "GammaTauAI",
+                    "repo": "opentau",
+                    "stars": 114
+                  }
+                }
+              ],
+              "description": "* These are project counts.",
+              "node_type": "group",
+              "title": "Type Inference"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2017-04",
+                  "description": "ACL 2017 CommitGen 153K Python, JS, C++, Java \"A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88577620,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2017-04-18T03:37:15Z",
+                    "owner": "epochx",
+                    "repo": "commitgen",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2018-09",
+                  "description": "ASE 2018 NNGen 27K Java \"Neural-machine-translation-based commit message generation: how far are we?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179462196,
+                    "language": "Perl",
+                    "last_commit": "2022-11-25T09:02:15Z",
+                    "owner": "Tbabm",
+                    "repo": "nngen",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2019-08",
+                  "description": "IJCAI 2019 CoDiSum 90.7K Java \"Commit message generation for source code changes\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187560656,
+                    "language": "Python",
+                    "last_commit": "2019-10-23T12:42:05Z",
+                    "owner": "SoftWiser-group",
+                    "repo": "CoDiSum",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-05",
+                  "description": "arXiv CommitBERT 346K Python, PHP, Go, Java, JS, Ruby \"CommitBERT: Commit Message Generation Using Pre-Trained Programming Language Model\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 290576323,
+                    "language": "Python",
+                    "last_commit": "2023-08-08T22:06:35Z",
+                    "owner": "graykode",
+                    "repo": "commit-autosuggestions",
+                    "stars": 388
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2021-07",
+                  "description": "ICSME 2021 MCMD 2.25M Java, C#, C++, Python, JS \"On the Evaluation of Commit Message Generation Models: An Experimental Study\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 362366989,
+                    "language": "HTML",
+                    "last_commit": "2023-04-02T05:45:51Z",
+                    "owner": "DeepSoftwareAnalytics",
+                    "repo": "CommitMsgEmpirical",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-08",
+                  "description": "ASE 2023 CommitChronicle 10.7M 20 \"From Commit Message Generation to History-Aware Commit Message Completion\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 304646765,
+                    "language": "Python",
+                    "last_commit": "2023-08-17T10:40:34Z",
+                    "owner": "JetBrains-Research",
+                    "repo": "commit_message_generation",
+                    "stars": 62
+                  }
+                }
+              ],
+              "description": "* with/without verb-direct object filter",
+              "node_type": "group",
+              "title": "Commit Message Generation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2023-03",
+                  "description": "arXiv RepoEval 1600/1600/373 * Python \"RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 513219379,
+                    "language": "Python",
+                    "last_commit": "2024-11-01T13:04:36Z",
+                    "owner": "microsoft",
+                    "repo": "CodeT",
+                    "stars": 678
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-06",
+                  "description": "ICLR 2024 RepoBench 890K/9M/43K $^\\dagger$ Python, Java \"RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 647131716,
+                    "language": "Python",
+                    "last_commit": "2024-08-16T07:08:32Z",
+                    "owner": "Leolty",
+                    "repo": "repobench",
+                    "stars": 212
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2023-06",
+                  "description": "NeurIPS 2023 PragmaticCode 880 ** Java \"Guiding Language Models of Code with Global Context using Monitors\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 714439630,
+                    "language": "Python",
+                    "last_commit": "2024-08-08T18:15:14Z",
+                    "owner": "microsoft",
+                    "repo": "monitors4codegen",
+                    "stars": 280
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-03",
+                  "description": "NeurIPS 2024 EvoCodeBench 275 Python \"EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 777207957,
+                    "language": "Python",
+                    "last_commit": "2024-08-15T02:47:59Z",
+                    "owner": "seketeam",
+                    "repo": "EvoCodeBench",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-05",
+                  "description": "ACL 2024 Findings DevEval 1874 Python \"DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 808025729,
+                    "language": "Python",
+                    "last_commit": "2024-09-04T13:05:50Z",
+                    "owner": "seketeam",
+                    "repo": "DevEval",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "arXiv JavaBench 389 Java \"Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 806945968,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-09-02T09:06:43Z",
+                    "owner": "java-bench",
+                    "repo": "JavaBench",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-06",
+                  "description": "arXiv RES-Q 100 Python, JavaScript \"RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 817063908,
+                    "language": "Python",
+                    "last_commit": "2026-08-05T23:15:18Z",
+                    "owner": "Qurrent-AI",
+                    "repo": "RES-Q",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-08",
+                  "description": "arXiv SWE-bench-java 91 Java \"SWE-bench-java: A GitHub Issue Resolving Benchmark for Java\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 838117125,
+                    "language": "Vue",
+                    "last_commit": "2025-07-18T06:18:34Z",
+                    "owner": "multi-swe-bench",
+                    "repo": "multi-swe-bench.github.io",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "arXiv Codev-Bench 296 Python \"Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 859648956,
+                    "language": "Python",
+                    "last_commit": "2024-11-06T06:16:19Z",
+                    "owner": "LingmaTongyi",
+                    "repo": "Codev-Bench",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "EMNLP 2024 DA-Code 500 Python, Bash, SQL \"DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 807865276,
+                    "language": "Python",
+                    "last_commit": "2026-01-12T04:43:10Z",
+                    "owner": "yiyihum",
+                    "repo": "da-code",
+                    "stars": 105
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-10",
+                  "description": "ACL 2025 M2rc-Eval 5993 repos 18 \"M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 876752716,
+                    "language": null,
+                    "last_commit": "2024-10-22T13:57:14Z",
+                    "owner": "M2RC-Eval-Team",
+                    "repo": "M2RC-Eval",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-12",
+                  "description": "arXiv Commit0 54 Python \"Commit0: Library Generation from Scratch\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 838991377,
+                    "language": "Python",
+                    "last_commit": "2026-02-24T20:34:19Z",
+                    "owner": "commit-0",
+                    "repo": "commit0",
+                    "stars": 191
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2024-12",
+                  "description": "arXiv ExecRepoBench 1.2K Python \"ExecRepoBench: Multi-level Executable Code Completion Evaluation\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 787368344,
+                    "language": "Python",
+                    "last_commit": "2026-03-24T08:22:10Z",
+                    "owner": "QwenLM",
+                    "repo": "Qwen3-Coder",
+                    "stars": 16809
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-01",
+                  "description": "arXiv DI-Bench 581 Python, C#, Rust, JS \"DI-BENCH: Benchmarking Large Language Models on Dependency Inference with Testable Repositories at Scale\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 895932182,
+                    "language": "Python",
+                    "last_commit": "2025-01-26T01:25:34Z",
+                    "owner": "microsoft",
+                    "repo": "DI-Bench",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-02",
+                  "description": "ICML 2025 SWE-Lancer 237 JS, TS \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 934963130,
+                    "language": null,
+                    "last_commit": "2025-07-18T02:02:20Z",
+                    "owner": "openai",
+                    "repo": "SWELancer-Benchmark",
+                    "stars": 1431
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-03",
+                  "description": "arXiv DependEval 3.4K 8 \"DependEval: Benchmarking LLMs for Repository Dependency Understanding\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 932918339,
+                    "language": "Python",
+                    "last_commit": "2025-07-28T22:26:26Z",
+                    "owner": "ink7-sudo",
+                    "repo": "DependEval",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-03",
+                  "description": "arXiv RepoST-Eval 296 Python \"RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 945601743,
+                    "language": "Python",
+                    "last_commit": "2025-03-18T00:32:53Z",
+                    "owner": "yiqingxyq",
+                    "repo": "RepoST",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-04",
+                  "description": "arXiv Multi-SWE-bench 1632 Java, JS, TS, Go, Rust, C, C++ \"Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 934727212,
+                    "language": "Python",
+                    "last_commit": "2025-12-18T06:27:09Z",
+                    "owner": "multi-swe-bench",
+                    "repo": "multi-swe-bench",
+                    "stars": 359
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-04",
+                  "description": "arXiv SWE-PolyBench 2110 Java, JS, TS, Python \"SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 958230624,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T16:38:23Z",
+                    "owner": "amazon-science",
+                    "repo": "SWE-PolyBench",
+                    "stars": 88
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv OmniGIRL 959 Python, JS, TS, Java \"OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 881438851,
+                    "language": "Python",
+                    "last_commit": "2025-06-13T07:49:09Z",
+                    "owner": "DeepSoftwareAnalytics",
+                    "repo": "OmniGIRL",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv AgentIssue-Bench 50 \"Can Agents Fix Agent Issues?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 988139267,
+                    "language": "Python",
+                    "last_commit": "2026-04-30T06:59:02Z",
+                    "owner": "alfin06",
+                    "repo": "AgentIssue-Bench",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-05",
+                  "description": "arXiv GitGoodBench 900 \"GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 986890070,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-11-18T09:10:27Z",
+                    "owner": "JetBrains-Research",
+                    "repo": "git-good-bench",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-07",
+                  "description": "arXiv CoreCodeBench 1545 Python \"CoreCodeBench: A Configurable Multi-Scenario Repository-Level Benchmark\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1000663333,
+                    "language": "Python",
+                    "last_commit": "2025-11-20T07:46:01Z",
+                    "owner": "AGI-Eval-Official",
+                    "repo": "CoreCodeBench",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-07",
+                  "description": "arXiv SWE-Perf 140 Python \"SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?\" [2025-07] [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1017724650,
+                    "language": "Python",
+                    "last_commit": "2025-10-28T18:15:12Z",
+                    "owner": "SWE-Perf",
+                    "repo": "SWE-Perf",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-09",
+                  "description": "arXiv SWE-Bench Pro 1865 Python, Go, JS, TS \"SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1051347649,
+                    "language": "Python",
+                    "last_commit": "2026-05-18T18:59:22Z",
+                    "owner": "scaleapi",
+                    "repo": "SWE-bench_Pro-os",
+                    "stars": 508
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-10",
+                  "description": "arXiv E2EDev 46 Python \"E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1071978440,
+                    "language": "Python",
+                    "last_commit": "2025-10-16T09:28:58Z",
+                    "owner": "SCUNLP",
+                    "repo": "E2EDev",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-11",
+                  "description": "arXiv SWE-Sharp-Bench 150 C# \"SWE-Sharp-Bench: A Reproducible Benchmark for C# Software Engineering Tasks\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44644898,
+                    "language": "C#",
+                    "last_commit": "2025-11-19T21:02:37Z",
+                    "owner": "microsoft",
+                    "repo": "prose",
+                    "stars": 660
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-11",
+                  "description": "arXiv CodeProjectEval 18 Python \"Towards Realistic Project-Level Code Generation via Multi-Agent Collaboration and Semantic Architecture Modeling\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1087637411,
+                    "language": "C",
+                    "last_commit": "2026-08-01T12:07:03Z",
+                    "owner": "whisperzqh",
+                    "repo": "ProjectGen",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-12",
+                  "description": "arXiv NL2Repo-Bench 104 Python \"NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1115007138,
+                    "language": "Python",
+                    "last_commit": "2026-05-13T15:09:30Z",
+                    "owner": "multimodal-art-projection",
+                    "repo": "NL2RepoBench",
+                    "stars": 162
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2025-12",
+                  "description": "arXiv SWE-EVO 48 Python \"SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1028857291,
+                    "language": "Python",
+                    "last_commit": "2026-05-03T14:22:59Z",
+                    "owner": "SWE-EVO",
+                    "repo": "SWE-EVO",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2026-01",
+                  "description": "EACL 2026 TimeMachine-Bench 1,145 Python \"TimeMachine-bench: A Benchmark for Evaluating Model Capabilities in Repository-Level Migration Tasks\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1130046785,
+                    "language": "Python",
+                    "last_commit": "2026-04-01T12:41:42Z",
+                    "owner": "tohoku-nlp",
+                    "repo": "timemachine-bench",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2026-02",
+                  "description": "arXiv FeatureBench 200 Python \"FeatureBench: Benchmarking Agentic Coding for Complex Feature Development\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1138134975,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T04:24:22Z",
+                    "owner": "LiberCoders",
+                    "repo": "FeatureBench",
+                    "stars": 87
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2026-03",
+                  "description": "arXiv BeyondSWE 500 Python \"BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1161619072,
+                    "language": null,
+                    "last_commit": "2026-07-21T11:40:48Z",
+                    "owner": "AweAI-Team",
+                    "repo": "BeyondSWE",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2026-03",
+                  "description": "arXiv FormulaCode 957 Python \"Evaluating Agentic Optimization on Large Codebases\" [paper] [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1049402390,
+                    "language": "Python",
+                    "last_commit": "2026-05-13T06:15:20Z",
+                    "owner": "formula-code",
+                    "repo": "fc-eval",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": "*Line Completion/API Invocation Completion/Function Completion\n$^\\dagger$ Retrieval/Completion/Pipeline\n** File count\n$^\\ddagger$ Migration/Temporal Edit",
+              "node_type": "group",
+              "title": "Repo-Level Coding"
             }
           ],
           "description": null,
@@ -1174,7 +4576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:33:43.417Z",
+    "last_updated": "2026-08-24T13:58:34.839Z",
     "original_repository": "codefuse-ai/Awesome-Code-LLM",
     "original_repository_id": 694517360,
     "original_repository_sha": "abde59fde7b48387c94f170c9818ee507350c23f",
