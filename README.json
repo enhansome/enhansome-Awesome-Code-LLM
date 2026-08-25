@@ -98,7 +98,7 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59573
+                "stars": 59574
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21638
+                "stars": 21641
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2024-11-27T09:25:57Z",
                 "owner": "01-ai",
                 "repo": "Yi",
-                "stars": 7835
+                "stars": 7836
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-06-11T19:25:44Z",
                 "owner": "EleutherAI",
                 "repo": "gpt-neox",
-                "stars": 7457
+                "stars": 7458
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-11-24T19:13:15Z",
                 "owner": "allenai",
                 "repo": "OLMo",
-                "stars": 6643
+                "stars": 6644
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2024-08-12T12:49:54Z",
                 "owner": "meta-llama",
                 "repo": "codellama",
-                "stars": 16266
+                "stars": 16265
               }
             }
           ],
@@ -369,7 +369,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
@@ -421,7 +421,7 @@
                     "last_commit": "2025-11-11T06:44:56Z",
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-Coder",
-                    "stars": 24206
+                    "stars": 24207
                   }
                 },
                 {
@@ -436,7 +436,7 @@
                     "last_commit": "2024-08-13T05:59:38Z",
                     "owner": "zai-org",
                     "repo": "CodeGeeX",
-                    "stars": 8806
+                    "stars": 8805
                   }
                 },
                 {
@@ -702,7 +702,7 @@
                 "last_commit": "2025-06-07T01:35:05Z",
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9484
+                "stars": 9483
               }
             },
             {
@@ -879,7 +879,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69998
+                "stars": 70008
               }
             },
             {
@@ -894,7 +894,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34113
+                "stars": 34119
               }
             },
             {
@@ -1063,7 +1063,7 @@
                     "last_commit": "2026-08-22T21:05:55Z",
                     "owner": "LiveBench",
                     "repo": "LiveBench",
-                    "stars": 1290
+                    "stars": 1292
                   }
                 },
                 {
@@ -1240,8 +1240,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2018-02",
-                  "description": "LREC 2018 NL2Bash 9305 Bash \"NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System\" [paper] [data]",
+                  "title": "\"NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System\" [paper",
+                  "description": "] [data] LREC 2018 NL2Bash 9305 Bash",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1255,8 +1255,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-08",
-                  "description": "EMNLP 2018 CONCODE 104K Java \"Mapping Language to Code in Programmatic Context\" [paper] [data]",
+                  "title": "\"Mapping Language to Code in Programmatic Context\" [paper",
+                  "description": "] [data] EMNLP 2018 CONCODE 104K Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1270,8 +1270,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-10",
-                  "description": "EMNLP-IJCNLP 2019 JuICe 1.5M/3725 * Python \"JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation\" [paper] [data]",
+                  "title": "\"JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation\" [paper",
+                  "description": "] [data] EMNLP-IJCNLP 2019 JuICe 1.5M/3725 * Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1285,8 +1285,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-05",
-                  "description": "NeurIPS 2021 APPS 10000 Python \"Measuring Coding Challenge Competence With APPS\" [paper] [data]",
+                  "title": "\"Measuring Coding Challenge Competence With APPS\" [paper",
+                  "description": "] [data] NeurIPS 2021 APPS 10000 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1300,8 +1300,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-07",
-                  "description": "arXiv HumanEval 164 Python \"Evaluating Large Language Models Trained on Code\" [paper] [data]",
+                  "title": "\"Evaluating Large Language Models Trained on Code\" [paper",
+                  "description": "] [data] arXiv HumanEval 164 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1310,13 +1310,13 @@
                     "last_commit": "2025-01-17T18:22:17Z",
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3351
+                    "stars": 3352
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-08",
-                  "description": "arXiv MBPP/MathQA-Python 974/23914 Python \"Program Synthesis with Large Language Models\" [paper] [MBPP] [MathQA-Python]",
+                  "title": "\"Program Synthesis with Large Language Models\" [paper",
+                  "description": "] [MBPP] [MathQA-Python] arXiv MBPP/MathQA-Python 974/23914 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1325,13 +1325,13 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-08",
-                  "description": "ACL/IJCNLP 2021 PlotCoder 40797 Python \"PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context\" [paper] [data]",
+                  "title": "\"PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context\" [paper",
+                  "description": "] [data] ACL/IJCNLP 2021 PlotCoder 40797 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1345,8 +1345,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-02",
-                  "description": "Science CodeContests 13610 C++, Python, Java \"Competition-Level Code Generation with AlphaCode\" [paper] [data]",
+                  "title": "\"Competition-Level Code Generation with AlphaCode\" [paper",
+                  "description": "] [data] Science CodeContests 13610 C++, Python, Java",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1360,8 +1360,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-03",
-                  "description": "EACL 2023 Findings MCoNaLa 896 Python \"MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages\" [paper] [data]",
+                  "title": "\"MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages\" [paper",
+                  "description": "] [data] EACL 2023 Findings MCoNaLa 896 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1375,8 +1375,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-06",
-                  "description": "arXiv AixBench 336 Java \"AixBench: A Code Generation Benchmark Dataset\" [paper] [data]",
+                  "title": "\"AixBench: A Code Generation Benchmark Dataset\" [paper",
+                  "description": "] [data] arXiv AixBench 336 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1390,8 +1390,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-08",
-                  "description": "IEEE Trans. Software Engineering MultiPL-E \"MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural Code Generation\", [paper] [data]",
+                  "title": "\"MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural Code Generation\", [paper",
+                  "description": "] [data] IEEE Trans. Software Engineering MultiPL-E",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1405,8 +1405,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-10",
-                  "description": "ICLR 2023 MBXP 12.4K Python, Java, JS, TypeScript, Go, C#, PHP, Ruby, Kotlin, C++, Perl, Scala, Swift \"Multi-lingual Evaluation of Code Generation Models\" [paper] [data]",
+                  "title": "\"Multi-lingual Evaluation of Code Generation Models\" [paper",
+                  "description": "] [data] ICLR 2023 MBXP 12.4K Python, Java, JS, TypeScript, Go, C#, PHP, Ruby, Kotlin, C++, Perl, Scala, Swift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1420,8 +1420,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-10",
-                  "description": "ICLR 2023 Multilingual HumanEval 1.9K Python, Java, JS, TypeScript, Go, C#, PHP, Ruby, Kotlin, Perl, Scala, Swift \"Multi-lingual Evaluation of Code Generation Models\" [paper] [data]",
+                  "title": "\"Multi-lingual Evaluation of Code Generation Models\" [paper",
+                  "description": "] [data] ICLR 2023 Multilingual HumanEval 1.9K Python, Java, JS, TypeScript, Go, C#, PHP, Ruby, Kotlin, Perl, Scala, Swift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1435,8 +1435,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-10",
-                  "description": "ICLR 2023 MathQA-X 5.6K Python, Java, JS \"Multi-lingual Evaluation of Code Generation Models\" [paper] [data]",
+                  "title": "\"Multi-lingual Evaluation of Code Generation Models\" [paper",
+                  "description": "] [data] ICLR 2023 MathQA-X 5.6K Python, Java, JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1450,8 +1450,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-11",
-                  "description": "arXiv ExeDS 534 Python \"Execution-based Evaluation for Data Science Code Generation Models\" [paper] [data]",
+                  "title": "\"Execution-based Evaluation for Data Science Code Generation Models\" [paper",
+                  "description": "] [data] arXiv ExeDS 534 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1465,8 +1465,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-11",
-                  "description": "arXiv DS-1000 1000 Python \"DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation\" [paper] [data]",
+                  "title": "\"DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation\" [paper",
+                  "description": "] [data] arXiv DS-1000 1000 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1480,8 +1480,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-12",
-                  "description": "arXiv ODEX 945 Python \"Execution-Based Evaluation for Open-Domain Code Generation\" [paper] [data]",
+                  "title": "\"Execution-Based Evaluation for Open-Domain Code Generation\" [paper",
+                  "description": "] [data] arXiv ODEX 945 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1495,8 +1495,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-02",
-                  "description": "arXiv CoderEval 460 Python, Java \"CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models\" [paper] [data]",
+                  "title": "\"CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models\" [paper",
+                  "description": "] [data] arXiv CoderEval 460 Python, Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1510,8 +1510,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-03",
-                  "description": "ACL 2024 xCodeEval 5.5M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust \"XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper] [data]",
+                  "title": "\"XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper",
+                  "description": "] [data] ACL 2024 xCodeEval 5.5M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1525,8 +1525,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-05",
-                  "description": "arXiv HumanEval+ 164 Python \"Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation\" [paper] [data]",
+                  "title": "\"Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation\" [paper",
+                  "description": "] [data] arXiv HumanEval+ 164 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1535,13 +1535,13 @@
                     "last_commit": "2025-10-02T22:56:38Z",
                     "owner": "evalplus",
                     "repo": "evalplus",
-                    "stars": 1802
+                    "stars": 1803
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-06",
-                  "description": "NeurIPS 2023 DotPrompts 10538 $^\\ddagger$ Java \"Guiding Language Models of Code with Global Context using Monitors\" [paper] [data]",
+                  "title": "\"Guiding Language Models of Code with Global Context using Monitors\" [paper",
+                  "description": "] [data] NeurIPS 2023 DotPrompts 10538 $^\\ddagger$ Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1555,8 +1555,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-09",
-                  "description": "arXiv CodeApex 476 C++ \"CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models\" [paper] [data]",
+                  "title": "\"CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models\" [paper",
+                  "description": "] [data] arXiv CodeApex 476 C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1570,8 +1570,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-09",
-                  "description": "arXiv VerilogEval 8645/156 $^\\diamond$ Verilog \"VerilogEval: Evaluating Large Language Models for Verilog Code Generation\" [paper] [data]",
+                  "title": "\"VerilogEval: Evaluating Large Language Models for Verilog Code Generation\" [paper",
+                  "description": "] [data] arXiv VerilogEval 8645/156 $^\\diamond$ Verilog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1585,8 +1585,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-12",
-                  "description": "arXiv TACO 26,433 Python \"TACO: Topics in Algorithmic COde generation dataset\" [paper] [data]",
+                  "title": "\"TACO: Topics in Algorithmic COde generation dataset\" [paper",
+                  "description": "] [data] arXiv TACO 26,433 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1600,8 +1600,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-01",
-                  "description": "HPDC ParEval 420 C++, CUDA, HIP \"Can Large Language Models Write Parallel Code?\" [paper] [data]",
+                  "title": "\"Can Large Language Models Write Parallel Code?\" [paper",
+                  "description": "] [data] HPDC ParEval 420 C++, CUDA, HIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1615,8 +1615,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-02",
-                  "description": "ACL 2024 Findings OOP 431 Python \"OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models\" [paper] [data]",
+                  "title": "\"OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models\" [paper",
+                  "description": "] [data] ACL 2024 Findings OOP 431 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1630,8 +1630,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-02",
-                  "description": "LREC-COLING 2024 HumanEval-XL 22080 23NL, 12PL \"HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual Natural Language Generalization\" [paper] [data]",
+                  "title": "\"HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual Natural Language Generalization\" [paper",
+                  "description": "] [data] LREC-COLING 2024 HumanEval-XL 22080 23NL, 12PL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1645,8 +1645,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-04",
-                  "description": "arXiv USACO 307 Python \"Can Language Models Solve Olympiad Programming?\" [paper] [data]",
+                  "title": "\"Can Language Models Solve Olympiad Programming?\" [paper",
+                  "description": "] [data] arXiv USACO 307 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1660,8 +1660,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-04",
-                  "description": "LREC-COLING 2024 PECC 2396 Python \"PECC: Problem Extraction and Coding Challenges\" [paper] [data]",
+                  "title": "\"PECC: Problem Extraction and Coding Challenges\" [paper",
+                  "description": "] [data] LREC-COLING 2024 PECC 2396 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1675,8 +1675,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-04",
-                  "description": "arXiv CodeGuard+ 23 Python, C \"Constrained Decoding for Secure Code Generation\" [paper] [data]",
+                  "title": "\"Constrained Decoding for Secure Code Generation\" [paper",
+                  "description": "] [data] arXiv CodeGuard+ 23 Python, C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1690,8 +1690,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-05",
-                  "description": "ACL 2024 Findings NaturalCodeBench 402 Python, Java \"NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts\" [paper] [data]",
+                  "title": "\"NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts\" [paper",
+                  "description": "] [data] ACL 2024 Findings NaturalCodeBench 402 Python, Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1705,8 +1705,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-05",
-                  "description": "arXiv MHPP 140 Python \"MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation\" [paper] [repo]",
+                  "title": "\"MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation\" [paper",
+                  "description": "] [repo] arXiv MHPP 140 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1720,8 +1720,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "arXiv VersiCode 98,692 Python \"VersiCode: Towards Version-controllable Code Generation\" [paper] [data]",
+                  "title": "\"VersiCode: Towards Version-controllable Code Generation\" [paper",
+                  "description": "] [data] arXiv VersiCode 98,692 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1735,8 +1735,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "ICLR 2025 BigCodeBench 1,140 Python \"BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions\" [paper] [data]",
+                  "title": "\"BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions\" [paper",
+                  "description": "] [data] ICLR 2025 BigCodeBench 1,140 Python",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1750,8 +1750,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
-                  "description": "arXiv CodeUpdateArena 670 Python \"CodeUpdateArena: Benchmarking Knowledge Editing on API Updates\" [paper] [data]",
+                  "title": "\"CodeUpdateArena: Benchmarking Knowledge Editing on API Updates\" [paper",
+                  "description": "] [data] arXiv CodeUpdateArena 670 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1765,8 +1765,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
-                  "description": "arXiv NoviCode 150 Python \"NoviCode: Generating Programs from Natural Language Utterances by Novices\" [paper] [data]",
+                  "title": "\"NoviCode: Generating Programs from Natural Language Utterances by Novices\" [paper",
+                  "description": "] [data] arXiv NoviCode 150 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1780,8 +1780,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
-                  "description": "arXiv Case2Code 1.3M Python \"Case2Code: Learning Inductive Reasoning with Synthetic Data\" [paper] [data]",
+                  "title": "\"Case2Code: Learning Inductive Reasoning with Synthetic Data\" [paper",
+                  "description": "] [data] arXiv Case2Code 1.3M Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1795,23 +1795,23 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
-                  "description": "NeurIPS 2024 SciCode 338 Python \"SciCode: A Research Coding Benchmark Curated by Scientists\" [paper] [data]",
+                  "title": "\"SciCode: A Research Coding Benchmark Curated by Scientists\" [paper",
+                  "description": "] [data] NeurIPS 2024 SciCode 338 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 825810755,
                     "language": "Python",
-                    "last_commit": "2026-08-17T17:17:51Z",
+                    "last_commit": "2026-08-24T17:14:40Z",
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 222
+                    "stars": 223
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-08",
-                  "description": "ACL 2024 Findings CodeInsight 3409 Python \"CodeInsight: A Curated Dataset of Practical Coding Solutions from Stack Overflow\" [paper] [data]",
+                  "title": "\"CodeInsight: A Curated Dataset of Practical Coding Solutions from Stack Overflow\" [paper",
+                  "description": "] [data] ACL 2024 Findings CodeInsight 3409 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1825,8 +1825,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-08",
-                  "description": "arXiv DomainEval 2454 Python \"DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation\" [paper] [data]",
+                  "title": "\"DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation\" [paper",
+                  "description": "] [data] arXiv DomainEval 2454 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1840,8 +1840,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-09",
-                  "description": "arXiv ComplexCodeEval 7184/3897 Python/Java \"ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code\" [paper] [data]",
+                  "title": "\"ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code\" [paper",
+                  "description": "] [data] arXiv ComplexCodeEval 7184/3897 Python/Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1855,8 +1855,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-09",
-                  "description": "ASE 2024 CoCoNote 58221 Python Notebook \"Contextualized Data-Wrangling Code Generation in Computational Notebooks\" [paper] [data]",
+                  "title": "\"Contextualized Data-Wrangling Code Generation in Computational Notebooks\" [paper",
+                  "description": "] [data] ASE 2024 CoCoNote 58221 Python Notebook",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1870,8 +1870,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "arXiv unnamed 77 Python \"Evaluation of Code LLMs on Geospatial Code Generation\" [paper] [data]",
+                  "title": "\"Evaluation of Code LLMs on Geospatial Code Generation\" [paper",
+                  "description": "] [data] arXiv unnamed 77 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1885,8 +1885,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "arXiv FeatEng 103 Python \"Can Models Help Us Create Better Models? Evaluating LLMs as Data Scientists\" [paper] [data]",
+                  "title": "\"Can Models Help Us Create Better Models? Evaluating LLMs as Data Scientists\" [paper",
+                  "description": "] [data] arXiv FeatEng 103 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1900,8 +1900,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
-                  "description": "arXiv GitChameleon 116 Python \"GitChameleon: Unmasking the Version-Switching Capabilities of Code Generation Models\" [paper] [data]",
+                  "title": "\"GitChameleon: Unmasking the Version-Switching Capabilities of Code Generation Models\" [paper",
+                  "description": "] [data] arXiv GitChameleon 116 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1915,8 +1915,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
-                  "description": "EMNLP 2024 Findings MBUPP 466 Python \"One-to-many testing for code generation from (just) natural language\" [paper] [data]",
+                  "title": "\"One-to-many testing for code generation from (just) natural language\" [paper",
+                  "description": "] [data] EMNLP 2024 Findings MBUPP 466 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1930,8 +1930,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
-                  "description": "EMNLP 2025 CodeArena 397 44 \"Evaluating and Aligning CodeLLMs on Human Preference\" [paper] [data]",
+                  "title": "\"Evaluating and Aligning CodeLLMs on Human Preference\" [paper",
+                  "description": "] [data] EMNLP 2025 CodeArena 397 44",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1940,13 +1940,13 @@
                     "last_commit": "2026-03-24T08:22:10Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16809
+                    "stars": 16808
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
-                  "description": "arXiv OBFUSEVAL 1354 C \"Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar\" [paper] [data]",
+                  "title": "\"Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar\" [paper",
+                  "description": "] [data] arXiv OBFUSEVAL 1354 C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1960,8 +1960,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
-                  "description": "ACL 2025 Findings HumanEval Pro / MBPP Pro / BigCodeBench-Lite Pro 164/378/57 Python \"HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation\" [paper] [data]",
+                  "title": "\"HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation\" [paper",
+                  "description": "] [data] ACL 2025 Findings HumanEval Pro / MBPP Pro / BigCodeBench-Lite Pro 164/378/57 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1975,8 +1975,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
-                  "description": "FSE 2025 COFFE 756 Python \"COFFE: A Code Efficiency Benchmark for Code Generation\" [paper] [data]",
+                  "title": "\"COFFE: A Code Efficiency Benchmark for Code Generation\" [paper",
+                  "description": "] [data] FSE 2025 COFFE 756 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1990,8 +1990,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
-                  "description": "arXiv DataSciBench 222 Python \"DataSciBench: An LLM Agent Benchmark for Data Science\" [paper] [data]",
+                  "title": "\"DataSciBench: An LLM Agent Benchmark for Data Science\" [paper",
+                  "description": "] [data] arXiv DataSciBench 222 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2005,8 +2005,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
-                  "description": "arXiv TritonBench 184 Triton \"TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators\" [paper] [data]",
+                  "title": "\"TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators\" [paper",
+                  "description": "] [data] arXiv TritonBench 184 Triton",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2020,8 +2020,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
-                  "description": "arXiv IndicEval-XL 6720 12 \"IndicEval-XL: Bridging Linguistic Diversity in Code Generation Across Indic Languages\" [paper] [data]",
+                  "title": "\"IndicEval-XL: Bridging Linguistic Diversity in Code Generation Across Indic Languages\" [paper",
+                  "description": "] [data] arXiv IndicEval-XL 6720 12",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2035,8 +2035,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
-                  "description": "arXiv ProBench 790 C++, Java, Python \"ProBench: Benchmarking Large Language Models in Competitive Programming\" [paper] [data]",
+                  "title": "\"ProBench: Benchmarking Large Language Models in Competitive Programming\" [paper",
+                  "description": "] [data] arXiv ProBench 790 C++, Java, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2050,8 +2050,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
-                  "description": "arXiv BigO(Bench) 3105 Python \"BigO(Bench) -- Can LLMs Generate Code with Controlled Time and Space Complexity?\" [paper] [data]",
+                  "title": "\"BigO(Bench) -- Can LLMs Generate Code with Controlled Time and Space Complexity?\" [paper",
+                  "description": "] [data] arXiv BigO(Bench) 3105 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2065,8 +2065,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv YABLoCo 215 C, C++ \"YABLoCo: Yet Another Benchmark for Long Context Code Generation\" [paper] [data]",
+                  "title": "\"YABLoCo: Yet Another Benchmark for Long Context Code Generation\" [paper",
+                  "description": "] [data] arXiv YABLoCo 215 C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2080,8 +2080,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv OSS-Bench - - \"OSS-Bench: Benchmark Generator for Coding LLMs\" [paper] [data]",
+                  "title": "\"OSS-Bench: Benchmark Generator for Coding LLMs\" [paper",
+                  "description": "] [data] arXiv OSS-Bench - -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2095,8 +2095,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
-                  "description": "arXiv LiveCodeBench Pro 584 C++ \"LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?\" [paper] [data]",
+                  "title": "\"LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?\" [paper",
+                  "description": "] [data] arXiv LiveCodeBench Pro 584 C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2110,8 +2110,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
-                  "description": "EMNLP 2025 Findings HLCE 235 C++, Python \"Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?\" [paper] [data]",
+                  "title": "\"Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?\" [paper",
+                  "description": "] [data] EMNLP 2025 Findings HLCE 235 C++, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2125,8 +2125,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
-                  "description": "arXiv OJBench 232 C++, Python \"OJBench: A Competition Level Code Benchmark For Large Language Models\" [paper] [data]",
+                  "title": "\"OJBench: A Competition Level Code Benchmark For Large Language Models\" [paper",
+                  "description": "] [data] arXiv OJBench 232 C++, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2140,8 +2140,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
-                  "description": "arXiv FPBench 1800 Python \"Refining Critical Thinking in LLM Code Generation: A Faulty Premise-based Evaluation Framework\" [paper] [data]",
+                  "title": "\"Refining Critical Thinking in LLM Code Generation: A Faulty Premise-based Evaluation Framework\" [paper",
+                  "description": "] [data] arXiv FPBench 1800 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2155,8 +2155,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-10",
-                  "description": "arXiv RealClassEval 400 Python \"Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation\" [paper] [data]",
+                  "title": "\"Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation\" [paper",
+                  "description": "] [data] arXiv RealClassEval 400 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2177,8 +2177,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024-04",
-                  "description": "EMNLP 2024 Findings MMCode 3548 Python \"MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems\" [paper] [data]",
+                  "title": "\"MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems\" [paper",
+                  "description": "] [data] EMNLP 2024 Findings MMCode 3548 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2192,8 +2192,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "ICLR 2025 ChartMimic 1000 Python \"ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation\" [paper] [data]",
+                  "title": "\"ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation\" [paper",
+                  "description": "] [data] ICLR 2025 ChartMimic 1000 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2207,8 +2207,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "arXiv HumanEval-V 108 Python \"HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks\" [paper] [data]",
+                  "title": "\"HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks\" [paper",
+                  "description": "] [data] arXiv HumanEval-V 108 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2222,8 +2222,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "arXiv TurtleBench 260 Python \"TurtleBench: A Visual Programming Benchmark in Turtle Geometry\" [paper] [data]",
+                  "title": "\"TurtleBench: A Visual Programming Benchmark in Turtle Geometry\" [paper",
+                  "description": "] [data] arXiv TurtleBench 260 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2237,8 +2237,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
-                  "description": "ACL 2025 Findings Visual SWEbench 133 Python \"CodeV: Issue Resolving with Visual Data\" [paper] [data]",
+                  "title": "\"CodeV: Issue Resolving with Visual Data\" [paper",
+                  "description": "] [data] ACL 2025 Findings Visual SWEbench 133 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2252,8 +2252,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
-                  "description": "arXiv Code-Vision 438 Python \"Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities\" [paper] [data]",
+                  "title": "\"Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities\" [paper",
+                  "description": "] [data] arXiv Code-Vision 438 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2267,8 +2267,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
-                  "description": "ACL 2025 Findings Flow2Code 5622 15 \"Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability\" [paper] [data]",
+                  "title": "\"Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability\" [paper",
+                  "description": "] [data] ACL 2025 Findings Flow2Code 5622 15",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2282,8 +2282,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
-                  "description": "arXiv ArtifactsBench 1825 HTML/JavaScript \"ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation\" [paper] [data]",
+                  "title": "\"ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation\" [paper",
+                  "description": "] [data] arXiv ArtifactsBench 1825 HTML/JavaScript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2297,8 +2297,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
-                  "description": "arXiv MCD 598K HTML, Python \"VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models\" [paper] [data]",
+                  "title": "\"VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models\" [paper",
+                  "description": "] [data] arXiv MCD 598K HTML, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2319,8 +2319,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021-09",
-                  "description": "EMNLP 2021 Findings CodeQA 120K/70K Java/Python \"CodeQA: A Question Answering Dataset for Source Code Comprehension\" [paper] [data]",
+                  "title": "\"CodeQA: A Question Answering Dataset for Source Code Comprehension\" [paper",
+                  "description": "] [data] EMNLP 2021 Findings CodeQA 120K/70K Java/Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2334,8 +2334,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-10",
-                  "description": "NAACL 2022 CS1QA 9237 Python \"CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course\" [paper] [data]",
+                  "title": "\"CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course\" [paper",
+                  "description": "] [data] NAACL 2022 CS1QA 9237 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2349,8 +2349,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-09",
-                  "description": "arXiv CodeApex 250 C++ \"CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models\" [paper] [data]",
+                  "title": "\"CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models\" [paper",
+                  "description": "] [data] arXiv CodeApex 250 C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2364,8 +2364,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-01",
-                  "description": "ICML 2024 CRUXEval 800 Python \"CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution\" [paper] [data]",
+                  "title": "\"CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution\" [paper",
+                  "description": "] [data] ICML 2024 CRUXEval 800 Python",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2379,8 +2379,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-05",
-                  "description": "arXiv PythonIO 2650 Python \"Multiple-Choice Questions are Efficient and Robust LLM Evaluators\" [paper] [data]",
+                  "title": "\"Multiple-Choice Questions are Efficient and Robust LLM Evaluators\" [paper",
+                  "description": "] [data] arXiv PythonIO 2650 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2394,8 +2394,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "arXiv RepoQA 500 Python, C++, Java, Rust, TypeScript \"RepoQA: Evaluating Long Context Code Understanding\" [paper] [data]",
+                  "title": "\"RepoQA: Evaluating Long Context Code Understanding\" [paper",
+                  "description": "] [data] arXiv RepoQA 500 Python, C++, Java, Rust, TypeScript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2409,8 +2409,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-08",
-                  "description": "ACL 2025 CruxEval-X 12.6K 19 \"CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution\" [paper] [data]",
+                  "title": "\"CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution\" [paper",
+                  "description": "] [data] ACL 2025 CruxEval-X 12.6K 19",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2424,8 +2424,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "ICLR 2025 CodeMMLU 19912 13 \"CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs\" [paper] [data]",
+                  "title": "\"CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs\" [paper",
+                  "description": "] [data] ICLR 2025 CodeMMLU 19912 13",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2439,8 +2439,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
-                  "description": "arXiv unnamed 80232 Python \"Leveraging Large Language Models in Code Question Answering: Baselines and Issues\" [paper] [data]",
+                  "title": "\"Leveraging Large Language Models in Code Question Answering: Baselines and Issues\" [paper",
+                  "description": "] [data] arXiv unnamed 80232 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2454,8 +2454,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
-                  "description": "arXiv ScratchEval 305 Scratch \"ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges\" [paper] [data]",
+                  "title": "\"ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges\" [paper",
+                  "description": "] [data] arXiv ScratchEval 305 Scratch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2469,8 +2469,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
-                  "description": "arXiv CodeRepoQA 585,687 Python, Java, TS, JS, Go \"CodeRepoQA: A Large-scale Benchmark for Software Engineering Question Answering\" [paper] [data]",
+                  "title": "\"CodeRepoQA: A Large-scale Benchmark for Software Engineering Question Answering\" [paper",
+                  "description": "] [data] arXiv CodeRepoQA 585,687 Python, Java, TS, JS, Go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2484,8 +2484,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
-                  "description": "arXiv SWE-QA 576 Python \"SWE-QA: Can Language Models Answer Repository-level Code Questions?\" [paper] [data]",
+                  "title": "\"SWE-QA: Can Language Models Answer Repository-level Code Questions?\" [paper",
+                  "description": "] [data] arXiv SWE-QA 576 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2499,8 +2499,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-11",
-                  "description": "arXiv VCode 464 SVG \"VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation\" [paper] [data]",
+                  "title": "\"VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation\" [paper",
+                  "description": "] [data] arXiv VCode 464 SVG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2514,8 +2514,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-12",
-                  "description": "arXiv gpuFLOPBench 577 CUDA \"Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity\" [paper] [data]",
+                  "title": "\"Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity\" [paper",
+                  "description": "] [data] arXiv gpuFLOPBench 577 CUDA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2529,8 +2529,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-12",
-                  "description": "arXiv SimpleDevQA 2740 - \"SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA\" [paper] [data]",
+                  "title": "\"SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA\" [paper",
+                  "description": "] [data] arXiv SimpleDevQA 2740 -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2544,8 +2544,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
-                  "description": "arXiv SWE-QA-Pro 260 Python \"SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding\" [paper] [data]",
+                  "title": "\"SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding\" [paper",
+                  "description": "] [data] arXiv SWE-QA-Pro 260 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2566,8 +2566,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2017-08",
-                  "description": "arXiv WikiSQL 80654 \"Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning\" [paper] [data]",
+                  "title": "\"Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning\" [paper",
+                  "description": "] [data] arXiv WikiSQL 80654",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2581,8 +2581,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-06",
-                  "description": "CL 2018 Advising 4570 \"Improving Text-to-SQL Evaluation Methodology\" [paper] [data]",
+                  "title": "\"Improving Text-to-SQL Evaluation Methodology\" [paper",
+                  "description": "] [data] CL 2018 Advising 4570",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2596,8 +2596,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-07",
-                  "description": "WWW 2020 MIMICSQL 10000 \"Text-to-SQL Generation for Question Answering on Electronic Medical Records\" [paper] [data]",
+                  "title": "\"Text-to-SQL Generation for Question Answering on Electronic Medical Records\" [paper",
+                  "description": "] [data] WWW 2020 MIMICSQL 10000",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2611,8 +2611,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-05",
-                  "description": "LREC 2020 Criteria-to-SQL 2003 \"Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing\" [paper] [data]",
+                  "title": "\"Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing\" [paper",
+                  "description": "] [data] LREC 2020 Criteria-to-SQL 2003",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2626,8 +2626,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-10",
-                  "description": "EMNLP 2020 Findings Squall 11276 \"On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries\" [paper] [data]",
+                  "title": "\"On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries\" [paper",
+                  "description": "] [data] EMNLP 2020 Findings Squall 11276",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2641,8 +2641,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-06",
-                  "description": "NLP4Prog 2021 SEDE 12023 \"Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data\" [paper] [data]",
+                  "title": "\"Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data\" [paper",
+                  "description": "] [data] NLP4Prog 2021 SEDE 12023",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2656,8 +2656,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-06",
-                  "description": "ACL/IJCNLP 2021 KaggleDBQA 400 \"KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers\" [paper] [data]",
+                  "title": "\"KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers\" [paper",
+                  "description": "] [data] ACL/IJCNLP 2021 KaggleDBQA 400",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2671,8 +2671,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-09",
-                  "description": "EMNLP Spider-DK 535 \"Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization\" [paper] [data]",
+                  "title": "\"Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization\" [paper",
+                  "description": "] [data] EMNLP Spider-DK 535",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2686,8 +2686,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-05",
-                  "description": "NAACL 2022 Findings Spider-SS/CG 8034/45599 \"Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment\" [paper] [data]",
+                  "title": "\"Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment\" [paper",
+                  "description": "] [data] NAACL 2022 Findings Spider-SS/CG 8034/45599",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2701,8 +2701,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-06",
-                  "description": "ACL 2023 XSemPLR 24.4K \"XSemPLR: Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations\" [paper] [data]",
+                  "title": "\"XSemPLR: Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations\" [paper",
+                  "description": "] [data] ACL 2023 XSemPLR 24.4K",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2716,8 +2716,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "NAACL 2024 BookSQL 100K \"BookSQL: A Large Scale Text-to-SQL Dataset for Accounting Domain\" [paper] [data]",
+                  "title": "\"BookSQL: A Large Scale Text-to-SQL Dataset for Accounting Domain\" [paper",
+                  "description": "] [data] NAACL 2024 BookSQL 100K",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2731,8 +2731,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-08",
-                  "description": "ACL 2024 Findings MultiSQL 9257 \"MultiSQL: A Schema-Integrated Context-Dependent Text2SQL Dataset with Diverse SQL Operations\" [paper] [data]",
+                  "title": "\"MultiSQL: A Schema-Integrated Context-Dependent Text2SQL Dataset with Diverse SQL Operations\" [paper",
+                  "description": "] [data] ACL 2024 Findings MultiSQL 9257",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2746,8 +2746,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "arXiv BIS 239 \"BIS: NL2SQL Service Evaluation Benchmark for Business Intelligence Scenarios\" [paper] [data]",
+                  "title": "\"BIS: NL2SQL Service Evaluation Benchmark for Business Intelligence Scenarios\" [paper",
+                  "description": "] [data] arXiv BIS 239",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2761,8 +2761,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
-                  "description": "ICLR 2025 Spider 2.0 632 \"Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows\" [paper] [data]",
+                  "title": "\"Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows\" [paper",
+                  "description": "] [data] ICLR 2025 Spider 2.0 632",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2776,8 +2776,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv BiomedSQL 68,000 \"BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases\" [paper] [data]",
+                  "title": "\"BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases\" [paper",
+                  "description": "] [data] arXiv BiomedSQL 68,000",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2791,8 +2791,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
-                  "description": "arXiv PARROT 598 \"PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation\" [paper] [data]",
+                  "title": "\"PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation\" [paper",
+                  "description": "] [data] arXiv PARROT 598",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2806,8 +2806,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
-                  "description": "arXiv MultiSpider 2.0 5056 \"Multilingual Text-to-SQL: Benchmarking the Limits of Language Models with Collaborative Language Agents\" [paper] [data]",
+                  "title": "\"Multilingual Text-to-SQL: Benchmarking the Limits of Language Models with Collaborative Language Agents\" [paper",
+                  "description": "] [data] arXiv MultiSpider 2.0 5056",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2821,8 +2821,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-10",
-                  "description": "arXiv Falcon 600 \"Falcon: A Comprehensive Chinese Text-to-SQL Benchmark for Enterprise-Grade Evaluation\" [paper] [data]",
+                  "title": "\"Falcon: A Comprehensive Chinese Text-to-SQL Benchmark for Enterprise-Grade Evaluation\" [paper",
+                  "description": "] [data] arXiv Falcon 600",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2843,8 +2843,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020-06",
-                  "description": "NeurIPS 2020 Transcoder GeeksforGeeks 1.4K C++, Java, Python \"Unsupervised Translation of Programming Languages\" [paper] [data]",
+                  "title": "\"Unsupervised Translation of Programming Languages\" [paper",
+                  "description": "] [data] NeurIPS 2020 Transcoder GeeksforGeeks 1.4K C++, Java, Python",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2858,8 +2858,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-08",
-                  "description": "ACL 2023 Findings Avatar 9515 Java, Python \"AVATAR: A Parallel Corpus for Java-Python Program Translation\" [paper] [data]",
+                  "title": "\"AVATAR: A Parallel Corpus for Java-Python Program Translation\" [paper",
+                  "description": "] [data] ACL 2023 Findings Avatar 9515 Java, Python",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2873,8 +2873,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-06",
-                  "description": "AAAI 2022 CoST 132K C++, Java, Python, C#, JS, PHP, C \"Multilingual Code Snippets Training for Program Translation\" [paper] [data]",
+                  "title": "\"Multilingual Code Snippets Training for Program Translation\" [paper",
+                  "description": "] [data] AAAI 2022 CoST 132K C++, Java, Python, C#, JS, PHP, C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2888,8 +2888,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-06",
-                  "description": "arXiv XLCoST 567K C++, Java, Python, C#, JS, PHP, C \"XLCoST: A Benchmark Dataset for Cross-lingual Code Intelligence\" [paper] [data]",
+                  "title": "\"XLCoST: A Benchmark Dataset for Cross-lingual Code Intelligence\" [paper",
+                  "description": "] [data] arXiv XLCoST 567K C++, Java, Python, C#, JS, PHP, C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2903,8 +2903,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-03",
-                  "description": "arXiv xCodeEval 5.6M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust \"xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper] [data]",
+                  "title": "\"xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper",
+                  "description": "] [data] arXiv xCodeEval 5.6M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2918,8 +2918,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-03",
-                  "description": "arXiv HumanEval-X 1640 Python, C++, Java, JS, Go \"CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X\" [paper] [data]",
+                  "title": "\"CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X\" [paper",
+                  "description": "] [data] arXiv HumanEval-X 1640 Python, C++, Java, JS, Go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2928,13 +2928,13 @@
                     "last_commit": "2024-08-13T05:59:38Z",
                     "owner": "zai-org",
                     "repo": "CodeGeeX",
-                    "stars": 8806
+                    "stars": 8805
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-08",
-                  "description": "arXiv G-TransEval 4000 C++, Java, C#, JS, Python \"On the Evaluation of Neural Code Translation: Taxonomy and Benchmark\" [paper] [data]",
+                  "title": "\"On the Evaluation of Neural Code Translation: Taxonomy and Benchmark\" [paper",
+                  "description": "] [data] arXiv G-TransEval 4000 C++, Java, C#, JS, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2948,8 +2948,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-10",
-                  "description": "arXiv CodeTransOcean 270.5K 45 \"CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation\" [paper] [data]",
+                  "title": "\"CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation\" [paper",
+                  "description": "] [data] arXiv CodeTransOcean 270.5K 45",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2963,8 +2963,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
-                  "description": "arXiv CRUST-Bench 100 C, Rust \"CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation\" [paper] [data]",
+                  "title": "\"CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation\" [paper",
+                  "description": "] [data] arXiv CRUST-Bench 100 C, Rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2985,8 +2985,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2014-07",
-                  "description": "ISSTA 2014 Defects4J 357 Java \"Defects4J: A Database of Existing Faults to Enable Controlled Testing Studies for Java Programs\" [paper] [data]",
+                  "title": "\"Defects4J: A Database of Existing Faults to Enable Controlled Testing Studies for Java Programs\" [paper",
+                  "description": "] [data] ISSTA 2014 Defects4J 357 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3000,8 +3000,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2017-10",
-                  "description": "SPLASH 2017 QuixBugs 80 Java, Python \"QuixBugs: a multi-lingual program repair benchmark set based on the quixey challenge\" [paper] [data]",
+                  "title": "\"QuixBugs: a multi-lingual program repair benchmark set based on the quixey challenge\" [paper",
+                  "description": "] [data] SPLASH 2017 QuixBugs 80 Java, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3015,8 +3015,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-05",
-                  "description": "MSR 2018 Bugs.jar 1158 Java \"Bugs.jar: a large-scale, diverse dataset of real-world Java bugs\" [paper] [data]",
+                  "title": "\"Bugs.jar: a large-scale, diverse dataset of real-world Java bugs\" [paper",
+                  "description": "] [data] MSR 2018 Bugs.jar 1158 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3030,8 +3030,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-01",
-                  "description": "SANER 2019 Bears 251 Java \"Bears: An Extensible Java Bug Benchmark for Automatic Program Repair Studies\" [paper] [data]",
+                  "title": "\"Bears: An Extensible Java Bug Benchmark for Automatic Program Repair Studies\" [paper",
+                  "description": "] [data] SANER 2019 Bears 251 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3045,8 +3045,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-05",
-                  "description": "MSR 2020 ManySStuBs4J 154K Java \"How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset\" [paper] [data]",
+                  "title": "\"How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset\" [paper",
+                  "description": "] [data] MSR 2020 ManySStuBs4J 154K Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3060,8 +3060,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-11",
-                  "description": "ASE 2019 Refactory 1783 Python \"Re-factoring based program repair applied to programming assignments\" [paper] [data]",
+                  "title": "\"Re-factoring based program repair applied to programming assignments\" [paper",
+                  "description": "] [data] ASE 2019 Refactory 1783 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3075,8 +3075,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-07",
-                  "description": "ISSTA 2020 CoCoNut 24M Java, Python, C, JS \"CoCoNuT: combining context-aware neural translation models using ensemble for program repair\" [paper] [data]",
+                  "title": "\"CoCoNuT: combining context-aware neural translation models using ensemble for program repair\" [paper",
+                  "description": "] [data] ISSTA 2020 CoCoNut 24M Java, Python, C, JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3090,8 +3090,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-10",
-                  "description": "Inf. Softw. Technol. Review4Repair 58021 Java \"Review4Repair: Code Review Aided Automatic Program Repairing\" [paper] [data]",
+                  "title": "\"Review4Repair: Code Review Aided Automatic Program Repairing\" [paper",
+                  "description": "] [data] Inf. Softw. Technol. Review4Repair 58021 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3105,8 +3105,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-11",
-                  "description": "ESEC/FSE 2020 BugsInPy 493 Python \"BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies\" [paper] [data]",
+                  "title": "\"BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies\" [paper",
+                  "description": "] [data] ESEC/FSE 2020 BugsInPy 493 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3120,8 +3120,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-07",
-                  "description": "ICML 2021 TFix 105K JS \"TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer\" [paper] [data]",
+                  "title": "\"TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer\" [paper",
+                  "description": "] [data] ICML 2021 TFix 105K JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3135,8 +3135,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-08",
-                  "description": "arXiv Megadiff 663K * Java \"Megadiff: A Dataset of 600k Java Source Code Changes Categorized by Diff Size\" [paper] [data]",
+                  "title": "\"Megadiff: A Dataset of 600k Java Source Code Changes Categorized by Diff Size\" [paper",
+                  "description": "] [data] arXiv Megadiff 663K * Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3150,8 +3150,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-10",
-                  "description": "MSR 2022 FixJS 324K JS \"FixJS: a dataset of bug-fixing JavaScript commits\" [paper] [data]",
+                  "title": "\"FixJS: a dataset of bug-fixing JavaScript commits\" [paper",
+                  "description": "] [data] MSR 2022 FixJS 324K JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3165,8 +3165,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-11",
-                  "description": "ESEC/FSE 2022 TypeBugs 93 Python \"PyTER: Effective Program Repair for Python Type Errors\" [paper] [data]",
+                  "title": "\"PyTER: Effective Program Repair for Python Type Errors\" [paper",
+                  "description": "] [data] ESEC/FSE 2022 TypeBugs 93 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3180,8 +3180,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-03",
-                  "description": "arXiv xCodeEval 4.7M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust \"xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper] [data]",
+                  "title": "\"xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval\" [paper",
+                  "description": "] [data] arXiv xCodeEval 4.7M C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3195,8 +3195,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-04",
-                  "description": "arXiv RunBugRun 450K C, C++, Java, Python, JS, Ruby, Go, PHP \"RunBugRun -- An Executable Dataset for Automated Program Repair\" [paper] [data]",
+                  "title": "\"RunBugRun -- An Executable Dataset for Automated Program Repair\" [paper",
+                  "description": "] [data] arXiv RunBugRun 450K C, C++, Java, Python, JS, Ruby, Go, PHP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3210,8 +3210,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-01",
-                  "description": "arXiv DebugBench 4253 C++, Java, Python \"DebugBench: Evaluating Debugging Capability of Large Language Models\" [paper] [data]",
+                  "title": "\"DebugBench: Evaluating Debugging Capability of Large Language Models\" [paper",
+                  "description": "] [data] arXiv DebugBench 4253 C++, Java, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3225,8 +3225,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
-                  "description": "ASE 2025 Hunk4J 372 Java \"Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges\" [paper] [data]",
+                  "title": "\"Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges\" [paper",
+                  "description": "] [data] ASE 2025 Hunk4J 372 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3240,8 +3240,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
-                  "description": "arXiv OCEDataFT 20K Python \"Generating High-Quality Datasets for Code Editing via Open-Source Language Models\" [paper] [data]",
+                  "title": "\"Generating High-Quality Datasets for Code Editing via Open-Source Language Models\" [paper",
+                  "description": "] [data] arXiv OCEDataFT 20K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3262,8 +3262,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2016-08",
-                  "description": "ACL 2016 CODE-NN 66K/32K C#/SQL \"Summarizing Source Code using a Neural Attention Model\" [paper] [data]",
+                  "title": "\"Summarizing Source Code using a Neural Attention Model\" [paper",
+                  "description": "] [data] ACL 2016 CODE-NN 66K/32K C#/SQL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3277,8 +3277,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2017-07",
-                  "description": "IJCNLP 2017 unnamed 150K Python \"A parallel corpus of Python functions and documentation strings for automated code documentation and code generation\" [paper] [data]",
+                  "title": "\"A parallel corpus of Python functions and documentation strings for automated code documentation and code generation\" [paper",
+                  "description": "] [data] IJCNLP 2017 unnamed 150K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3292,8 +3292,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-05",
-                  "description": "ICPC 2018 DeepCom 588K Java \"Deep code comment generation\" [paper] [data]",
+                  "title": "\"Deep code comment generation\" [paper",
+                  "description": "] [data] ICPC 2018 DeepCom 588K Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3307,8 +3307,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-07",
-                  "description": "IJCAI 2018 TL-CodeSum 411K Java \"Summarizing Source Code with Transferred API Knowledge\" [paper] [data]",
+                  "title": "\"Summarizing Source Code with Transferred API Knowledge\" [paper",
+                  "description": "] [data] IJCAI 2018 TL-CodeSum 411K Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3322,8 +3322,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-11",
-                  "description": "ASE 2018 unnamed 109K Python \"Improving Automatic Source Code Summarization via Deep Reinforcement Learning\" [paper] [data]",
+                  "title": "\"Improving Automatic Source Code Summarization via Deep Reinforcement Learning\" [paper",
+                  "description": "] [data] ASE 2018 unnamed 109K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3337,8 +3337,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-09",
-                  "description": "arxiv CodeSearchNet 2.3M Go, JS, Python, PHP, Java, Ruby \"CodeSearchNet Challenge: Evaluating the State of Semantic Code Search\" [paper] [data]",
+                  "title": "\"CodeSearchNet Challenge: Evaluating the State of Semantic Code Search\" [paper",
+                  "description": "] [data] arxiv CodeSearchNet 2.3M Go, JS, Python, PHP, Java, Ruby",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3359,8 +3359,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2018-01",
-                  "description": "NDSS 2018 CGD 62K C, C++ \"VulDeePecker: A Deep Learning-Based System for Vulnerability Detection\" [paper] [data]",
+                  "title": "\"VulDeePecker: A Deep Learning-Based System for Vulnerability Detection\" [paper",
+                  "description": "] [data] NDSS 2018 CGD 62K C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3374,8 +3374,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-04",
-                  "description": "IEEE Trans. Ind. Informatics unnamed 32988 C, C++ \"Cross-Project Transfer Representation Learning for Vulnerable Function Discovery\" [paper] [data]",
+                  "title": "\"Cross-Project Transfer Representation Learning for Vulnerable Function Discovery\" [paper",
+                  "description": "] [data] IEEE Trans. Ind. Informatics unnamed 32988 C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3389,8 +3389,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-07",
-                  "description": "IEEE TDSC SySeVR 15591 C, C++ \"SySeVR: A Framework for Using Deep Learning to Detect Software Vulnerabilities\" [paper] [data]",
+                  "title": "\"SySeVR: A Framework for Using Deep Learning to Detect Software Vulnerabilities\" [paper",
+                  "description": "] [data] IEEE TDSC SySeVR 15591 C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3404,8 +3404,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-02",
-                  "description": "MSR 2019 unnamed 624 Java \"A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software\" [paper] [data]",
+                  "title": "\"A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software\" [paper",
+                  "description": "] [data] MSR 2019 unnamed 624 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3419,8 +3419,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-11",
-                  "description": "IEEE TDSC unnamed 170K C, C++ \"Software Vulnerability Discovery via Learning Multi-Domain Knowledge Bases\" [paper] [data]",
+                  "title": "\"Software Vulnerability Discovery via Learning Multi-Domain Knowledge Bases\" [paper",
+                  "description": "] [data] IEEE TDSC unnamed 170K C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3434,8 +3434,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-01",
-                  "description": "IEEE TDSC MVD 182K C, C++ \"μVulDeePecker: A Deep Learning-Based System for Multiclass Vulnerability Detection\" [paper] [data]",
+                  "title": "\"μVulDeePecker: A Deep Learning-Based System for Multiclass Vulnerability Detection\" [paper",
+                  "description": "] [data] IEEE TDSC MVD 182K C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3449,8 +3449,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-02",
-                  "description": "ICICS 2019 unnamed 1471 C \"Deep Learning-Based Vulnerable Function Detection: A Benchmark\" [paper] [data]",
+                  "title": "\"Deep Learning-Based Vulnerable Function Detection: A Benchmark\" [paper",
+                  "description": "] [data] ICICS 2019 unnamed 1471 C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3464,8 +3464,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-09",
-                  "description": "MSR 2020 Big-Vul 265K C, C++ \"A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries\" [paper] [data]",
+                  "title": "\"A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries\" [paper",
+                  "description": "] [data] MSR 2020 Big-Vul 265K C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3479,8 +3479,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-02",
-                  "description": "ICSE (SEIP) 2021 D2A 1.3M C, C++ \"D2A: A Dataset Built for AI-Based Vulnerability Detection Methods Using Differential Analysis\" [paper] [data]",
+                  "title": "\"D2A: A Dataset Built for AI-Based Vulnerability Detection Methods Using Differential Analysis\" [paper",
+                  "description": "] [data] ICSE (SEIP) 2021 D2A 1.3M C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3494,8 +3494,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-04",
-                  "description": "RAID 2023 DiverseVul 349K C, C++ \"DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection\" [paper] [data]",
+                  "title": "\"DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection\" [paper",
+                  "description": "] [data] RAID 2023 DiverseVul 349K C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3509,8 +3509,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-06",
-                  "description": "arXiv VulnPatchPairs 26K C \"Limits of Machine Learning for Automatic Vulnerability Detection\" [paper] [data]",
+                  "title": "\"Limits of Machine Learning for Automatic Vulnerability Detection\" [paper",
+                  "description": "] [data] arXiv VulnPatchPairs 26K C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3524,8 +3524,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "arXiv VulDetectBench 1000 C/C++ \"VulDetectBench: Evaluating the Deep Capability of Vulnerability Detection with Large Language Models\" [paper] [data]",
+                  "title": "\"VulDetectBench: Evaluating the Deep Capability of Vulnerability Detection with Large Language Models\" [paper",
+                  "description": "] [data] arXiv VulDetectBench 1000 C/C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3539,8 +3539,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-08",
-                  "description": "arXiv CodeJudge-Eval 1860 Python \"CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?\" [paper] [data]",
+                  "title": "\"CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?\" [paper",
+                  "description": "] [data] arXiv CodeJudge-Eval 1860 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3554,8 +3554,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
-                  "description": "arXiv CleanVul 11632 Java, Python, JS, C#, C/C++ \"CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics\" [paper] [data]",
+                  "title": "\"CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics\" [paper",
+                  "description": "] [data] arXiv CleanVul 11632 Java, Python, JS, C#, C/C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3569,8 +3569,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
-                  "description": "EMNLP 2025 DSDBench 1117 Python \"Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors\" [paper] [data]",
+                  "title": "\"Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors\" [paper",
+                  "description": "] [data] EMNLP 2025 DSDBench 1117 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3584,8 +3584,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv SecVulEval 25440 C/C++ \"SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection\" [paper] [data]",
+                  "title": "\"SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection\" [paper",
+                  "description": "] [data] arXiv SecVulEval 25440 C/C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3599,8 +3599,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv SV-TrustEval-C 3,337 C \"SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis\" [paper] [data]",
+                  "title": "\"SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis\" [paper",
+                  "description": "] [data] arXiv SV-TrustEval-C 3,337 C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3621,8 +3621,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2018-03",
-                  "description": "WWW 2018 StaQC 148K/120K Python/SQL \"StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow\" [paper] [data]",
+                  "title": "\"StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow\" [paper",
+                  "description": "] [data] WWW 2018 StaQC 148K/120K Python/SQL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3636,8 +3636,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-05",
-                  "description": "ICSE 2018 DeepCS 16.2M Java \"Deep Code Search\" [paper] [data]",
+                  "title": "\"Deep Code Search\" [paper",
+                  "description": "] [data] ICSE 2018 DeepCS 16.2M Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3651,8 +3651,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-08",
-                  "description": "arXiv unnamed 287 Java \"Neural Code Search Evaluation Dataset\" [paper] [data]",
+                  "title": "\"Neural Code Search Evaluation Dataset\" [paper",
+                  "description": "] [data] arXiv unnamed 287 Java",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3666,8 +3666,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-09",
-                  "description": "arXiv CodeSearchNet 2.3M/99 Go, PHP, JS, Python, Java, Ruby \"CodeSearchNet Challenge: Evaluating the State of Semantic Code Search\" [paper] [data]",
+                  "title": "\"CodeSearchNet Challenge: Evaluating the State of Semantic Code Search\" [paper",
+                  "description": "] [data] arXiv CodeSearchNet 2.3M/99 Go, PHP, JS, Python, Java, Ruby",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3681,8 +3681,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-02",
-                  "description": "SANER 2020 CosBench 52 Java \"Are the Code Snippets What We Are Searching for? A Benchmark and an Empirical Study on Code Search with Natural-Language Queries\" [paper] [data]",
+                  "title": "\"Are the Code Snippets What We Are Searching for? A Benchmark and an Empirical Study on Code Search with Natural-Language Queries\" [paper",
+                  "description": "] [data] SANER 2020 CosBench 52 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3696,8 +3696,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-08",
-                  "description": "arXiv SO-DS 2.2K Python \"Neural Code Search Revisited: Enhancing Code Snippet Retrieval through Natural Language Intent\" [paper] [data]",
+                  "title": "\"Neural Code Search Revisited: Enhancing Code Snippet Retrieval through Natural Language Intent\" [paper",
+                  "description": "] [data] arXiv SO-DS 2.2K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3711,8 +3711,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-10",
-                  "description": "ACM Trans. Knowl. Discov. Data FB-Java 249K Java \"Deep Graph Matching and Searching for Semantic Code Retrieval\" [paper] [data]",
+                  "title": "\"Deep Graph Matching and Searching for Semantic Code Retrieval\" [paper",
+                  "description": "] [data] ACM Trans. Knowl. Discov. Data FB-Java 249K Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3726,8 +3726,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-05",
-                  "description": "ACL/IJCNLP 2021 CoSQA 21K Python \"CoSQA: 20,000+ Web Queries for Code Search and Question Answering\" [paper] [data]",
+                  "title": "\"CoSQA: 20,000+ Web Queries for Code Search and Question Answering\" [paper",
+                  "description": "] [data] ACL/IJCNLP 2021 CoSQA 21K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3741,8 +3741,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-03",
-                  "description": "arXiv ProCQA 5.2M C, C++, Java, Python, Ruby, Lisp, JS, C#, Go, Rust, PHP \"ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search\" [paper] [data]",
+                  "title": "\"ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search\" [paper",
+                  "description": "] [data] arXiv ProCQA 5.2M C, C++, Java, Python, Ruby, Lisp, JS, C#, Go, Rust, PHP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3756,8 +3756,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "arXiv CoSQA+ 109K Python \"CoSQA+: Enhancing Code Search Dataset with Matching Code\" [paper] [data]",
+                  "title": "\"CoSQA+: Enhancing Code Search Dataset with Matching Code\" [paper",
+                  "description": "] [data] arXiv CoSQA+ 109K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3771,8 +3771,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
-                  "description": "ACL 2025 CoIR ~2M 14 \"CoIR: A Comprehensive Benchmark for Code Information Retrieval Models\" [paper] [data]",
+                  "title": "\"CoIR: A Comprehensive Benchmark for Code Information Retrieval Models\" [paper",
+                  "description": "] [data] ACL 2025 CoIR ~2M 14",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3786,8 +3786,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv CoQuIR 42,725 11 \"CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval\" [paper] [data]",
+                  "title": "\"CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval\" [paper",
+                  "description": "] [data] arXiv CoQuIR 42,725 11",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3808,8 +3808,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020-04",
-                  "description": "PLDI 2020 Typilus 252K Python \"Typilus: Neural Type Hints\" [paper] [data]",
+                  "title": "\"Typilus: Neural Type Hints\" [paper",
+                  "description": "] [data] PLDI 2020 Typilus 252K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3823,8 +3823,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-04",
-                  "description": "ICLR 2020 LambdaNet 300 * TypeScript \"LambdaNet: Probabilistic Type Inference using Graph Neural Networks\" [paper] [data]",
+                  "title": "\"LambdaNet: Probabilistic Type Inference using Graph Neural Networks\" [paper",
+                  "description": "] [data] ICLR 2020 LambdaNet 300 * TypeScript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3838,8 +3838,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-04",
-                  "description": "MSR 2021 ManyTypes4Py 869K Python \"ManyTypes4Py: A Benchmark Python Dataset for Machine Learning-based Type Inference\" [paper] [data]",
+                  "title": "\"ManyTypes4Py: A Benchmark Python Dataset for Machine Learning-based Type Inference\" [paper",
+                  "description": "] [data] MSR 2021 ManyTypes4Py 869K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3853,8 +3853,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-03",
-                  "description": "ICLR 2023 BetterTypes4Py/InferTypes4Py 608K/4.6K Python \"TypeT5: Seq2seq Type Inference using Static Analysis\" [paper] [data]",
+                  "title": "\"TypeT5: Seq2seq Type Inference using Static Analysis\" [paper",
+                  "description": "] [data] ICLR 2023 BetterTypes4Py/InferTypes4Py 608K/4.6K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3868,8 +3868,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-05",
-                  "description": "arXiv OpenTau 744 * TypeScript \"Type Prediction With Program Decomposition and Fill-in-the-Type Training\" [paper] [data]",
+                  "title": "\"Type Prediction With Program Decomposition and Fill-in-the-Type Training\" [paper",
+                  "description": "] [data] arXiv OpenTau 744 * TypeScript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3890,8 +3890,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2017-04",
-                  "description": "ACL 2017 CommitGen 153K Python, JS, C++, Java \"A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes\" [paper] [data]",
+                  "title": "\"A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes\" [paper",
+                  "description": "] [data] ACL 2017 CommitGen 153K Python, JS, C++, Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3905,8 +3905,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-09",
-                  "description": "ASE 2018 NNGen 27K Java \"Neural-machine-translation-based commit message generation: how far are we?\" [paper] [data]",
+                  "title": "\"Neural-machine-translation-based commit message generation: how far are we?\" [paper",
+                  "description": "] [data] ASE 2018 NNGen 27K Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3920,8 +3920,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019-08",
-                  "description": "IJCAI 2019 CoDiSum 90.7K Java \"Commit message generation for source code changes\" [paper] [data]",
+                  "title": "\"Commit message generation for source code changes\" [paper",
+                  "description": "] [data] IJCAI 2019 CoDiSum 90.7K Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3935,8 +3935,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-05",
-                  "description": "arXiv CommitBERT 346K Python, PHP, Go, Java, JS, Ruby \"CommitBERT: Commit Message Generation Using Pre-Trained Programming Language Model\" [paper] [data]",
+                  "title": "\"CommitBERT: Commit Message Generation Using Pre-Trained Programming Language Model\" [paper",
+                  "description": "] [data] arXiv CommitBERT 346K Python, PHP, Go, Java, JS, Ruby",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3950,8 +3950,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021-07",
-                  "description": "ICSME 2021 MCMD 2.25M Java, C#, C++, Python, JS \"On the Evaluation of Commit Message Generation Models: An Experimental Study\" [paper] [data]",
+                  "title": "\"On the Evaluation of Commit Message Generation Models: An Experimental Study\" [paper",
+                  "description": "] [data] ICSME 2021 MCMD 2.25M Java, C#, C++, Python, JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3965,8 +3965,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-08",
-                  "description": "ASE 2023 CommitChronicle 10.7M 20 \"From Commit Message Generation to History-Aware Commit Message Completion\" [paper] [data]",
+                  "title": "\"From Commit Message Generation to History-Aware Commit Message Completion\" [paper",
+                  "description": "] [data] ASE 2023 CommitChronicle 10.7M 20",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3987,8 +3987,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023-03",
-                  "description": "arXiv RepoEval 1600/1600/373 * Python \"RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation\" [paper] [data]",
+                  "title": "\"RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation\" [paper",
+                  "description": "] [data] arXiv RepoEval 1600/1600/373 * Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4002,8 +4002,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-06",
-                  "description": "ICLR 2024 RepoBench 890K/9M/43K $^\\dagger$ Python, Java \"RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems\" [paper] [data]",
+                  "title": "\"RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems\" [paper",
+                  "description": "] [data] ICLR 2024 RepoBench 890K/9M/43K $^\\dagger$ Python, Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4017,8 +4017,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-06",
-                  "description": "NeurIPS 2023 PragmaticCode 880 ** Java \"Guiding Language Models of Code with Global Context using Monitors\" [paper] [data]",
+                  "title": "\"Guiding Language Models of Code with Global Context using Monitors\" [paper",
+                  "description": "] [data] NeurIPS 2023 PragmaticCode 880 ** Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4032,8 +4032,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-03",
-                  "description": "NeurIPS 2024 EvoCodeBench 275 Python \"EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories\" [paper] [data]",
+                  "title": "\"EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories\" [paper",
+                  "description": "] [data] NeurIPS 2024 EvoCodeBench 275 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4047,8 +4047,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-05",
-                  "description": "ACL 2024 Findings DevEval 1874 Python \"DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories\" [paper] [data]",
+                  "title": "\"DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories\" [paper",
+                  "description": "] [data] ACL 2024 Findings DevEval 1874 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4062,8 +4062,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "arXiv JavaBench 389 Java \"Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench\" [paper] [data]",
+                  "title": "\"Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench\" [paper",
+                  "description": "] [data] arXiv JavaBench 389 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4077,8 +4077,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-06",
-                  "description": "arXiv RES-Q 100 Python, JavaScript \"RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale\" [paper] [data]",
+                  "title": "\"RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale\" [paper",
+                  "description": "] [data] arXiv RES-Q 100 Python, JavaScript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4092,8 +4092,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-08",
-                  "description": "arXiv SWE-bench-java 91 Java \"SWE-bench-java: A GitHub Issue Resolving Benchmark for Java\" [paper] [data]",
+                  "title": "\"SWE-bench-java: A GitHub Issue Resolving Benchmark for Java\" [paper",
+                  "description": "] [data] arXiv SWE-bench-java 91 Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4107,8 +4107,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "arXiv Codev-Bench 296 Python \"Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?\" [paper] [data]",
+                  "title": "\"Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?\" [paper",
+                  "description": "] [data] arXiv Codev-Bench 296 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4122,8 +4122,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "EMNLP 2024 DA-Code 500 Python, Bash, SQL \"DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models\" [paper] [data]",
+                  "title": "\"DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models\" [paper",
+                  "description": "] [data] EMNLP 2024 DA-Code 500 Python, Bash, SQL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4137,8 +4137,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
-                  "description": "ACL 2025 M2rc-Eval 5993 repos 18 \"M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation\" [paper] [data]",
+                  "title": "\"M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation\" [paper",
+                  "description": "] [data] ACL 2025 M2rc-Eval 5993 repos 18",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4152,8 +4152,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
-                  "description": "arXiv Commit0 54 Python \"Commit0: Library Generation from Scratch\" [paper] [data]",
+                  "title": "\"Commit0: Library Generation from Scratch\" [paper",
+                  "description": "] [data] arXiv Commit0 54 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4167,8 +4167,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
-                  "description": "arXiv ExecRepoBench 1.2K Python \"ExecRepoBench: Multi-level Executable Code Completion Evaluation\" [paper] [data]",
+                  "title": "\"ExecRepoBench: Multi-level Executable Code Completion Evaluation\" [paper",
+                  "description": "] [data] arXiv ExecRepoBench 1.2K Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4177,13 +4177,13 @@
                     "last_commit": "2026-03-24T08:22:10Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16809
+                    "stars": 16808
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-01",
-                  "description": "arXiv DI-Bench 581 Python, C#, Rust, JS \"DI-BENCH: Benchmarking Large Language Models on Dependency Inference with Testable Repositories at Scale\" [paper] [data]",
+                  "title": "\"DI-BENCH: Benchmarking Large Language Models on Dependency Inference with Testable Repositories at Scale\" [paper",
+                  "description": "] [data] arXiv DI-Bench 581 Python, C#, Rust, JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4197,8 +4197,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
-                  "description": "ICML 2025 SWE-Lancer 237 JS, TS \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\" [paper] [data]",
+                  "title": "\"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\" [paper",
+                  "description": "] [data] ICML 2025 SWE-Lancer 237 JS, TS",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4212,8 +4212,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
-                  "description": "arXiv DependEval 3.4K 8 \"DependEval: Benchmarking LLMs for Repository Dependency Understanding\" [paper] [data]",
+                  "title": "\"DependEval: Benchmarking LLMs for Repository Dependency Understanding\" [paper",
+                  "description": "] [data] arXiv DependEval 3.4K 8",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4227,8 +4227,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
-                  "description": "arXiv RepoST-Eval 296 Python \"RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing\" [paper] [data]",
+                  "title": "\"RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing\" [paper",
+                  "description": "] [data] arXiv RepoST-Eval 296 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4242,8 +4242,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
-                  "description": "arXiv Multi-SWE-bench 1632 Java, JS, TS, Go, Rust, C, C++ \"Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving\" [paper] [data]",
+                  "title": "\"Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving\" [paper",
+                  "description": "] [data] arXiv Multi-SWE-bench 1632 Java, JS, TS, Go, Rust, C, C++",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4257,8 +4257,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
-                  "description": "arXiv SWE-PolyBench 2110 Java, JS, TS, Python \"SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents\" [paper] [data]",
+                  "title": "\"SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents\" [paper",
+                  "description": "] [data] arXiv SWE-PolyBench 2110 Java, JS, TS, Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4272,8 +4272,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv OmniGIRL 959 Python, JS, TS, Java \"OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution\" [paper] [data]",
+                  "title": "\"OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution\" [paper",
+                  "description": "] [data] arXiv OmniGIRL 959 Python, JS, TS, Java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4287,8 +4287,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv AgentIssue-Bench 50 \"Can Agents Fix Agent Issues?\" [paper] [data]",
+                  "title": "\"Can Agents Fix Agent Issues?\" [paper",
+                  "description": "] [data] arXiv AgentIssue-Bench 50",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4302,8 +4302,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
-                  "description": "arXiv GitGoodBench 900 \"GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git\" [paper] [data]",
+                  "title": "\"GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git\" [paper",
+                  "description": "] [data] arXiv GitGoodBench 900",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4317,8 +4317,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
-                  "description": "arXiv CoreCodeBench 1545 Python \"CoreCodeBench: A Configurable Multi-Scenario Repository-Level Benchmark\" [paper] [data]",
+                  "title": "\"CoreCodeBench: A Configurable Multi-Scenario Repository-Level Benchmark\" [paper",
+                  "description": "] [data] arXiv CoreCodeBench 1545 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4332,8 +4332,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
-                  "description": "arXiv SWE-Perf 140 Python \"SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?\" [2025-07] [paper] [data]",
+                  "title": "\"SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?\" [2025-07] [paper",
+                  "description": "] [data] arXiv SWE-Perf 140 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4347,8 +4347,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
-                  "description": "arXiv SWE-Bench Pro 1865 Python, Go, JS, TS \"SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?\" [paper] [data]",
+                  "title": "\"SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?\" [paper",
+                  "description": "] [data] arXiv SWE-Bench Pro 1865 Python, Go, JS, TS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4357,13 +4357,13 @@
                     "last_commit": "2026-05-18T18:59:22Z",
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 508
+                    "stars": 509
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-10",
-                  "description": "arXiv E2EDev 46 Python \"E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task\" [paper] [data]",
+                  "title": "\"E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task\" [paper",
+                  "description": "] [data] arXiv E2EDev 46 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4377,8 +4377,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-11",
-                  "description": "arXiv SWE-Sharp-Bench 150 C# \"SWE-Sharp-Bench: A Reproducible Benchmark for C# Software Engineering Tasks\" [paper] [data]",
+                  "title": "\"SWE-Sharp-Bench: A Reproducible Benchmark for C# Software Engineering Tasks\" [paper",
+                  "description": "] [data] arXiv SWE-Sharp-Bench 150 C#",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4392,8 +4392,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-11",
-                  "description": "arXiv CodeProjectEval 18 Python \"Towards Realistic Project-Level Code Generation via Multi-Agent Collaboration and Semantic Architecture Modeling\" [paper] [data]",
+                  "title": "\"Towards Realistic Project-Level Code Generation via Multi-Agent Collaboration and Semantic Architecture Modeling\" [paper",
+                  "description": "] [data] arXiv CodeProjectEval 18 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4407,8 +4407,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-12",
-                  "description": "arXiv NL2Repo-Bench 104 Python \"NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents\" [paper] [data]",
+                  "title": "\"NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents\" [paper",
+                  "description": "] [data] arXiv NL2Repo-Bench 104 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4422,8 +4422,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-12",
-                  "description": "arXiv SWE-EVO 48 Python \"SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios\" [paper] [data]",
+                  "title": "\"SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios\" [paper",
+                  "description": "] [data] arXiv SWE-EVO 48 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4437,8 +4437,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-01",
-                  "description": "EACL 2026 TimeMachine-Bench 1,145 Python \"TimeMachine-bench: A Benchmark for Evaluating Model Capabilities in Repository-Level Migration Tasks\" [paper] [data]",
+                  "title": "\"TimeMachine-bench: A Benchmark for Evaluating Model Capabilities in Repository-Level Migration Tasks\" [paper",
+                  "description": "] [data] EACL 2026 TimeMachine-Bench 1,145 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4452,8 +4452,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-02",
-                  "description": "arXiv FeatureBench 200 Python \"FeatureBench: Benchmarking Agentic Coding for Complex Feature Development\" [paper] [data]",
+                  "title": "\"FeatureBench: Benchmarking Agentic Coding for Complex Feature Development\" [paper",
+                  "description": "] [data] arXiv FeatureBench 200 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4467,8 +4467,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
-                  "description": "arXiv BeyondSWE 500 Python \"BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?\" [paper] [data]",
+                  "title": "\"BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?\" [paper",
+                  "description": "] [data] arXiv BeyondSWE 500 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4482,8 +4482,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
-                  "description": "arXiv FormulaCode 957 Python \"Evaluating Agentic Optimization on Large Codebases\" [paper] [data]",
+                  "title": "\"Evaluating Agentic Optimization on Large Codebases\" [paper",
+                  "description": "] [data] arXiv FormulaCode 957 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4576,7 +4576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:54:08.911Z",
+    "last_updated": "2026-08-25T05:57:30.555Z",
     "original_repository": "codefuse-ai/Awesome-Code-LLM",
     "original_repository_id": 694517360,
     "original_repository_sha": "abde59fde7b48387c94f170c9818ee507350c23f",
