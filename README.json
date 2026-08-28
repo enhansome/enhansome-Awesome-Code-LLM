@@ -16,7 +16,8 @@
             "owner": "codefuse-ai",
             "repo": "CodeFuse-Embeddings",
             "stars": 572
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "codefuse-ai",
             "repo": "CodeFuse-Embeddings",
             "stars": 572
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "codefuse-ai",
             "repo": "CodeFuse-Embeddings",
             "stars": 572
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "codefuse-ai",
             "repo": "Awesome-Omnimodal-Embeddings",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "hq-bench",
             "repo": "coreb",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         }
       ],
       "title": "News"
@@ -98,8 +103,9 @@
                 "last_commit": "2025-01-26T21:42:26Z",
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59581
-              }
+                "stars": 59585
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -113,8 +119,9 @@
                 "last_commit": "2025-01-26T21:39:06Z",
                 "owner": "meta-llama",
                 "repo": "llama3",
-                "stars": 29245
-              }
+                "stars": 29244
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -128,8 +135,9 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21664
-              }
+                "stars": 21671
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -143,8 +151,9 @@
                 "last_commit": "2026-06-16T15:40:44Z",
                 "owner": "mistralai",
                 "repo": "mistral-inference",
-                "stars": 10833
-              }
+                "stars": 10832
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -158,8 +167,9 @@
                 "last_commit": "2024-11-27T09:25:57Z",
                 "owner": "01-ai",
                 "repo": "Yi",
-                "stars": 7836
-              }
+                "stars": 7835
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -173,8 +183,9 @@
                 "last_commit": "2026-06-11T19:25:44Z",
                 "owner": "EleutherAI",
                 "repo": "gpt-neox",
-                "stars": 7461
-              }
+                "stars": 7462
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -188,8 +199,9 @@
                 "last_commit": "2024-02-04T12:22:16Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-LLM",
-                "stars": 7257
-              }
+                "stars": 7258
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "apple",
                 "repo": "corenet",
                 "stars": 7005
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -218,8 +231,9 @@
                 "last_commit": "2025-11-24T19:13:15Z",
                 "owner": "allenai",
                 "repo": "OLMo",
-                "stars": 6650
-              }
+                "stars": 6653
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -233,8 +247,9 @@
                 "last_commit": "2024-09-25T10:23:55Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5040
-              }
+                "stars": 5038
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -248,8 +263,9 @@
                 "last_commit": "2024-11-08T08:31:29Z",
                 "owner": "baichuan-inc",
                 "repo": "Baichuan2",
-                "stars": 4084
-              }
+                "stars": 4083
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "wenge-research",
                 "repo": "YAYI2",
                 "stars": 2796
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,24 @@
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-MoE",
                 "stars": 1970
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MAP-Neo: \"MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series\" [2024-05] [paper",
+              "description": "] [repo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797727239,
+                "language": "Python",
+                "last_commit": "2025-02-07T09:09:28Z",
+                "owner": "multimodal-art-projection",
+                "repo": "MAP-NEO",
+                "stars": 989
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -294,22 +328,8 @@
                 "owner": "myshell-ai",
                 "repo": "JetMoE",
                 "stars": 988
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "MAP-Neo: \"MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series\" [2024-05] [paper",
-              "description": "] [repo]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 797727239,
-                "language": "Python",
-                "last_commit": "2025-02-07T09:09:28Z",
-                "owner": "multimodal-art-projection",
-                "repo": "MAP-NEO",
-                "stars": 988
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "OrionStarAI",
                 "repo": "Orion",
                 "stars": 811
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": "These LLMs are not specifically trained for code, but have demonstrated varying coding capability.",
@@ -346,7 +367,8 @@
                 "owner": "meta-llama",
                 "repo": "codellama",
                 "stars": 16266
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": "These models are general-purpose LLMs further pretrained on code-related data.",
@@ -369,8 +391,9 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38632
-                  }
+                    "stars": 38642
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -384,8 +407,9 @@
                     "last_commit": "2023-07-09T12:26:30Z",
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2785
-                  }
+                    "stars": 2786
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -399,8 +423,9 @@
                     "last_commit": "2023-07-09T12:26:30Z",
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2785
-                  }
+                    "stars": 2786
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -421,8 +446,9 @@
                     "last_commit": "2025-11-11T06:44:56Z",
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-Coder",
-                    "stars": 24219
-                  }
+                    "stars": 24224
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -436,8 +462,9 @@
                     "last_commit": "2024-08-13T05:59:38Z",
                     "owner": "zai-org",
                     "repo": "CodeGeeX",
-                    "stars": 8805
-                  }
+                    "stars": 8804
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +479,8 @@
                     "owner": "salesforce",
                     "repo": "CodeGen",
                     "stars": 5179
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -467,7 +495,8 @@
                     "owner": "bigcode-project",
                     "repo": "starcoder2",
                     "stars": 2087
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -482,7 +511,8 @@
                     "owner": "VHellendoorn",
                     "repo": "Code-LMs",
                     "stars": 1843
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -497,7 +527,8 @@
                     "owner": "microsoft",
                     "repo": "CodeXGLUE",
                     "stars": 1839
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -511,8 +542,9 @@
                     "last_commit": "2024-07-18T10:20:27Z",
                     "owner": "WisdomShell",
                     "repo": "codeshell",
-                    "stars": 1621
-                  }
+                    "stars": 1620
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -527,7 +559,8 @@
                     "owner": "dpfried",
                     "repo": "incoder",
                     "stars": 314
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -542,7 +575,8 @@
                     "owner": "microsoft",
                     "repo": "PyCodeGPT",
                     "stars": 283
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -563,8 +597,9 @@
                     "last_commit": "2026-05-23T02:54:28Z",
                     "owner": "PaddlePaddle",
                     "repo": "PaddleNLP",
-                    "stars": 12968
-                  }
+                    "stars": 12969
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -579,7 +614,8 @@
                     "owner": "salesforce",
                     "repo": "CodeT5",
                     "stars": 3093
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -594,7 +630,8 @@
                     "owner": "salesforce",
                     "repo": "CodeT5",
                     "stars": 3093
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -608,8 +645,9 @@
                     "last_commit": "2026-03-12T18:38:33Z",
                     "owner": "facebookresearch",
                     "repo": "CodeGen",
-                    "stars": 778
-                  }
+                    "stars": 777
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -624,7 +662,8 @@
                     "owner": "wasiahmad",
                     "repo": "PLBART",
                     "stars": 186
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -639,7 +678,8 @@
                     "owner": "saikat107",
                     "repo": "NatGen",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -654,7 +694,8 @@
                     "owner": "antonio-mastropaolo",
                     "repo": "TransferLearning4Code",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -675,8 +716,9 @@
                     "last_commit": "2023-07-09T12:26:30Z",
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2785
-                  }
+                    "stars": 2786
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -703,7 +745,8 @@
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
                 "stars": 9482
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -717,8 +760,9 @@
                 "last_commit": "2024-12-30T06:01:59Z",
                 "owner": "codefuse-ai",
                 "repo": "MFTCoder",
-                "stars": 710
-              }
+                "stars": 711
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -733,7 +777,8 @@
                 "owner": "bigcode-project",
                 "repo": "octopack",
                 "stars": 479
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -748,7 +793,8 @@
                 "owner": "qishenghu",
                 "repo": "InstructCoder",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -763,7 +809,8 @@
                 "owner": "ise-uiuc",
                 "repo": "xft",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": "These models apply Instruction Fine-Tuning techniques to enhance the capacities of Code LLMs.",
@@ -785,7 +832,8 @@
                 "owner": "salesforce",
                 "repo": "CodeRL",
                 "stars": 575
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -800,7 +848,8 @@
                 "owner": "Zyq-scut",
                 "repo": "RLTF",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -815,7 +864,8 @@
                 "owner": "reddy-lab-code-research",
                 "repo": "PPOCoder",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": null,
@@ -843,7 +893,8 @@
                 "owner": "reasoning-machines",
                 "repo": "pal",
                 "stars": 526
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -858,7 +909,8 @@
                 "owner": "TIGER-AI-Lab",
                 "repo": "Program-of-Thoughts",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": null,
@@ -879,8 +931,9 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70071
-              }
+                "stars": 70087
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -894,8 +947,9 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34135
-              }
+                "stars": 34141
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             },
             {
               "node_type": "item",
@@ -910,7 +964,8 @@
                 "owner": "nju-websoft",
                 "repo": "PairCoder",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": null,
@@ -932,7 +987,8 @@
                 "owner": "YerbaPage",
                 "repo": "MGDebugger",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": null,
@@ -960,7 +1016,8 @@
                 "owner": "Docu-Mint",
                 "repo": "DocuMint",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": null,
@@ -982,7 +1039,8 @@
                 "owner": "code-philia",
                 "repo": "CoEdPilot",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": null,
@@ -1010,7 +1068,8 @@
                 "owner": "github",
                 "repo": "CodeSearchNet",
                 "stars": 2444
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.521Z"
             }
           ],
           "description": null,
@@ -1034,7 +1093,8 @@
                     "owner": "microsoft",
                     "repo": "CodeXGLUE",
                     "stars": 1839
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1048,8 +1108,9 @@
                     "last_commit": "2026-08-01T08:53:41Z",
                     "owner": "centerforaisafety",
                     "repo": "hle",
-                    "stars": 1665
-                  }
+                    "stars": 1666
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1060,11 +1121,12 @@
                     "archived": false,
                     "id": 814138036,
                     "language": "Python",
-                    "last_commit": "2026-08-26T18:55:40Z",
+                    "last_commit": "2026-08-28T22:23:10Z",
                     "owner": "LiveBench",
                     "repo": "LiveBench",
-                    "stars": 1295
-                  }
+                    "stars": 1296
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1078,8 +1140,9 @@
                     "last_commit": "2025-07-16T00:58:38Z",
                     "owner": "LiveCodeBench",
                     "repo": "LiveCodeBench",
-                    "stars": 934
-                  }
+                    "stars": 935
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1094,7 +1157,8 @@
                     "owner": "code-rag-bench",
                     "repo": "code-rag-bench",
                     "stars": 172
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1109,7 +1173,8 @@
                     "owner": "google-deepmind",
                     "repo": "bbeh",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1124,7 +1189,8 @@
                     "owner": "bytedance",
                     "repo": "FullStackBench",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1139,7 +1205,8 @@
                     "owner": "codefuse-ai",
                     "repo": "codefuse-evaluation",
                     "stars": 111
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1154,7 +1221,8 @@
                     "owner": "WeixiangYAN",
                     "repo": "CodeScope",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1169,7 +1237,8 @@
                     "owner": "CodeEditorBench",
                     "repo": "CodeEditorBench",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1184,7 +1253,8 @@
                     "owner": "JetBrains-Research",
                     "repo": "lca-baselines",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1199,7 +1269,8 @@
                     "owner": "ProsusAI",
                     "repo": "stack-eval",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1214,7 +1285,8 @@
                     "owner": "NEUIR",
                     "repo": "COAST",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1229,7 +1301,8 @@
                     "owner": "MERA-Evaluation",
                     "repo": "MERA_CODE",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -1251,7 +1324,8 @@
                     "owner": "TellinaTool",
                     "repo": "nl2bash",
                     "stars": 498
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1266,7 +1340,8 @@
                     "owner": "sriniiyer",
                     "repo": "concode",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1281,7 +1356,8 @@
                     "owner": "rajasagashe",
                     "repo": "JuICe",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1296,7 +1372,8 @@
                     "owner": "hendrycks",
                     "repo": "apps",
                     "stars": 538
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1311,7 +1388,8 @@
                     "owner": "openai",
                     "repo": "human-eval",
                     "stars": 3355
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1325,8 +1403,9 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38632
-                  }
+                    "stars": 38642
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1341,7 +1420,8 @@
                     "owner": "Jungyhuk",
                     "repo": "plotcoder",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1356,7 +1436,8 @@
                     "owner": "google-deepmind",
                     "repo": "code_contests",
                     "stars": 2202
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1371,7 +1452,8 @@
                     "owner": "zorazrw",
                     "repo": "multilingual-conala",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1386,7 +1468,8 @@
                     "owner": "aixcoder-plugin",
                     "repo": "nl2code-dataset",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1401,7 +1484,8 @@
                     "owner": "nuprl",
                     "repo": "MultiPL-E",
                     "stars": 313
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1416,7 +1500,8 @@
                     "owner": "amazon-science",
                     "repo": "mxeval",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1431,7 +1516,8 @@
                     "owner": "amazon-science",
                     "repo": "mxeval",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1446,7 +1532,8 @@
                     "owner": "amazon-science",
                     "repo": "mxeval",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1461,7 +1548,8 @@
                     "owner": "Jun-jie-Huang",
                     "repo": "ExeDS",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1476,7 +1564,8 @@
                     "owner": "xlang-ai",
                     "repo": "DS-1000",
                     "stars": 276
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1491,7 +1580,8 @@
                     "owner": "zorazrw",
                     "repo": "odex",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1506,7 +1596,8 @@
                     "owner": "CoderEval",
                     "repo": "CoderEval",
                     "stars": 159
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1521,7 +1612,8 @@
                     "owner": "ntunlp",
                     "repo": "xCodeEval",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1535,8 +1627,9 @@
                     "last_commit": "2025-10-02T22:56:38Z",
                     "owner": "evalplus",
                     "repo": "evalplus",
-                    "stars": 1804
-                  }
+                    "stars": 1805
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1551,7 +1644,8 @@
                     "owner": "microsoft",
                     "repo": "monitors4codegen",
                     "stars": 280
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1566,7 +1660,8 @@
                     "owner": "APEXLAB",
                     "repo": "CodeApex",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1581,7 +1676,8 @@
                     "owner": "NVlabs",
                     "repo": "verilog-eval",
                     "stars": 465
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1596,7 +1692,8 @@
                     "owner": "FlagOpen",
                     "repo": "TACO",
                     "stars": 240
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1611,7 +1708,8 @@
                     "owner": "parallelcodefoundry",
                     "repo": "ParEval",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1626,7 +1724,8 @@
                     "owner": "alphadl",
                     "repo": "OOP-eval",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1641,7 +1740,8 @@
                     "owner": "floatai",
                     "repo": "HumanEval-XL",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1656,7 +1756,8 @@
                     "owner": "princeton-nlp",
                     "repo": "USACO",
                     "stars": 125
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1671,7 +1772,8 @@
                     "owner": "HallerPatrick",
                     "repo": "pecc",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1686,7 +1788,8 @@
                     "owner": "Dynamite321",
                     "repo": "CodeGuardPlus",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1701,7 +1804,8 @@
                     "owner": "THUDM",
                     "repo": "NaturalCodeBench",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1716,7 +1820,8 @@
                     "owner": "SparksofAGI",
                     "repo": "MHPP",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1731,7 +1836,8 @@
                     "owner": "wutong8023",
                     "repo": "VersiCode",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1746,7 +1852,8 @@
                     "owner": "bigcode-project",
                     "repo": "bigcodebench",
                     "stars": 519
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1761,7 +1868,8 @@
                     "owner": "leo-liuzy",
                     "repo": "CodeUpdateArena",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1776,7 +1884,8 @@
                     "owner": "BIU-NLP",
                     "repo": "novicode",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1791,7 +1900,8 @@
                     "owner": "choosewhatulike",
                     "repo": "case2code",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1805,8 +1915,9 @@
                     "last_commit": "2026-08-24T17:14:40Z",
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 223
-                  }
+                    "stars": 224
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1821,7 +1932,8 @@
                     "owner": "NathanaelBeau",
                     "repo": "CodeInsight",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1836,7 +1948,8 @@
                     "owner": "domaineval",
                     "repo": "DomainEval",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1851,7 +1964,8 @@
                     "owner": "ComplexCodeEval",
                     "repo": "ComplexCodeEval",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1866,7 +1980,8 @@
                     "owner": "Jun-jie-Huang",
                     "repo": "CoCoNote",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1881,7 +1996,8 @@
                     "owner": "kraina-ai",
                     "repo": "geospatial-code-llms-dataset",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1896,7 +2012,8 @@
                     "owner": "FeatEng",
                     "repo": "FeatEng",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1911,7 +2028,8 @@
                     "owner": "NizarIslah",
                     "repo": "GitChameleon",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1926,7 +2044,8 @@
                     "owner": "microsoft",
                     "repo": "prose-benchmarks",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1941,7 +2060,8 @@
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
                     "stars": 16814
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1956,7 +2076,8 @@
                     "owner": "zhangbuzhang",
                     "repo": "ObfusEval",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1971,7 +2092,8 @@
                     "owner": "CodeEval-Pro",
                     "repo": "CodeEval-Pro",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -1986,7 +2108,8 @@
                     "owner": "JohnnyPeng18",
                     "repo": "Coffe",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2001,7 +2124,8 @@
                     "owner": "THUDM",
                     "repo": "DataSciBench",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2016,7 +2140,8 @@
                     "owner": "thunlp",
                     "repo": "TritonBench",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2031,7 +2156,8 @@
                     "owner": "telekom",
                     "repo": "IndicEval-XL",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2046,7 +2172,8 @@
                     "owner": "YL-9",
                     "repo": "probench",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2061,7 +2188,8 @@
                     "owner": "facebookresearch",
                     "repo": "BigOBench",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2076,7 +2204,8 @@
                     "owner": "yabloco-codegen",
                     "repo": "yabloco-benchmark",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2091,7 +2220,8 @@
                     "owner": "oss-bench",
                     "repo": "oss-bench",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2106,7 +2236,8 @@
                     "owner": "GavinZhengOI",
                     "repo": "LiveCodeBench-Pro",
                     "stars": 176
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2121,7 +2252,8 @@
                     "owner": "Humanity-s-Last-Code-Exam",
                     "repo": "HLCE",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2136,7 +2268,8 @@
                     "owner": "He-Ren",
                     "repo": "OJBench",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2151,7 +2284,8 @@
                     "owner": "JialinLi13",
                     "repo": "FaultyPremise",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2166,7 +2300,8 @@
                     "owner": "mrsumitbd",
                     "repo": "RealClassEval-Replication",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": "* Automatically mined/human-annotated\n$^\\dagger$ 1749 prompts for 48 problems\n$^\\ddagger$ 10538 prompts for 1420 problems\n$^\\diamond$ Machine/human prompts",
@@ -2188,7 +2323,8 @@
                     "owner": "likaixin2000",
                     "repo": "MMCode",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2203,7 +2339,8 @@
                     "owner": "ChartMimic",
                     "repo": "ChartMimic",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2218,7 +2355,8 @@
                     "owner": "HumanEval-V",
                     "repo": "HumanEval-V-Benchmark",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2233,7 +2371,8 @@
                     "owner": "sinaris76",
                     "repo": "TurtleBench",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2248,7 +2387,8 @@
                     "owner": "luolin101",
                     "repo": "CodeV",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2263,7 +2403,8 @@
                     "owner": "wanghanbinpanda",
                     "repo": "CodeVision",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2278,7 +2419,8 @@
                     "owner": "hml-github",
                     "repo": "Flow2Code",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2293,7 +2435,8 @@
                     "owner": "Tencent-Hunyuan",
                     "repo": "ArtifactsBenchmark",
                     "stars": 278
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2308,7 +2451,8 @@
                     "owner": "JackLingjie",
                     "repo": "VisCodex",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -2330,7 +2474,8 @@
                     "owner": "jadecxliu",
                     "repo": "CodeQA",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2345,7 +2490,8 @@
                     "owner": "cyoon47",
                     "repo": "CS1QA",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2360,7 +2506,8 @@
                     "owner": "APEXLAB",
                     "repo": "CodeApex",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2375,7 +2522,8 @@
                     "owner": "facebookresearch",
                     "repo": "cruxeval",
                     "stars": 173
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2390,7 +2538,8 @@
                     "owner": "Geralt-Targaryen",
                     "repo": "MC-Evaluation",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2405,7 +2554,8 @@
                     "owner": "evalplus",
                     "repo": "repoqa",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2420,7 +2570,8 @@
                     "owner": "CRUXEVAL-X",
                     "repo": "cruxeval-x",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2435,7 +2586,8 @@
                     "owner": "FSoft-AI4Code",
                     "repo": "CodeMMLU",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2450,7 +2602,8 @@
                     "owner": "IU-AES-AI4Code",
                     "repo": "CodeQuestionAnswering",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2465,7 +2618,8 @@
                     "owner": "HKBUNLP",
                     "repo": "ScratchEval",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2480,7 +2634,8 @@
                     "owner": "kinesiatricssxilm14",
                     "repo": "CodeRepoQA",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2495,7 +2650,8 @@
                     "owner": "peng-weihan",
                     "repo": "SWE-QA-Bench",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2510,7 +2666,8 @@
                     "owner": "CSU-JPG",
                     "repo": "VCode",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2525,7 +2682,8 @@
                     "owner": "Scientific-Computing-Lab",
                     "repo": "gpuFLOPBench",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2540,7 +2698,8 @@
                     "owner": "DeepSoftwareAnalytics",
                     "repo": "SimpleDevQA",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2555,7 +2714,8 @@
                     "owner": "TIGER-AI-Lab",
                     "repo": "SWE-QA-Pro",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -2577,7 +2737,8 @@
                     "owner": "salesforce",
                     "repo": "WikiSQL",
                     "stars": 1805
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2592,7 +2753,8 @@
                     "owner": "jkkummerfeld",
                     "repo": "text2sql-data",
                     "stars": 587
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2607,7 +2769,8 @@
                     "owner": "wangpinggl",
                     "repo": "TREQS",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2622,7 +2785,8 @@
                     "owner": "xiaojingyu92",
                     "repo": "Criteria2SQL",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2637,7 +2801,8 @@
                     "owner": "tzshi",
                     "repo": "squall",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2652,7 +2817,8 @@
                     "owner": "hirupert",
                     "repo": "sede",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2667,7 +2833,8 @@
                     "owner": "chiahsuan156",
                     "repo": "KaggleDBQA",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2682,7 +2849,8 @@
                     "owner": "ygan",
                     "repo": "Spider-DK",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2697,7 +2865,8 @@
                     "owner": "ygan",
                     "repo": "SpiderSS-SpiderCG",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2712,7 +2881,8 @@
                     "owner": "psunlpgroup",
                     "repo": "XSemPLR",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2727,7 +2897,8 @@
                     "owner": "Exploration-Lab",
                     "repo": "BookSQL",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2742,7 +2913,8 @@
                     "owner": "grandchicken",
                     "repo": "MultiSQL",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2757,7 +2929,8 @@
                     "owner": "boracaglayan",
                     "repo": "bis-nl2sql",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2772,7 +2945,8 @@
                     "owner": "xlang-ai",
                     "repo": "Spider2",
                     "stars": 861
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2787,7 +2961,8 @@
                     "owner": "NIH-CARD",
                     "repo": "biomedsql",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2802,7 +2977,8 @@
                     "owner": "OpenDataBox",
                     "repo": "PARROT",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2817,7 +2993,8 @@
                     "owner": "phkhanhtrinh23",
                     "repo": "Multilingual_Text_to_SQL",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2831,8 +3008,9 @@
                     "last_commit": "2026-01-22T02:23:16Z",
                     "owner": "eosphoros-ai",
                     "repo": "Falcon",
-                    "stars": 51
-                  }
+                    "stars": 52
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -2853,8 +3031,9 @@
                     "last_commit": "2021-09-29T14:51:46Z",
                     "owner": "facebookresearch",
                     "repo": "TransCoder",
-                    "stars": 1732
-                  }
+                    "stars": 1731
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2869,7 +3048,8 @@
                     "owner": "wasiahmad",
                     "repo": "AVATAR",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2884,7 +3064,8 @@
                     "owner": "reddy-lab-code-research",
                     "repo": "MuST-CoST",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2899,7 +3080,8 @@
                     "owner": "reddy-lab-code-research",
                     "repo": "XLCoST",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2914,7 +3096,8 @@
                     "owner": "ntunlp",
                     "repo": "xCodeEval",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2928,8 +3111,9 @@
                     "last_commit": "2024-08-13T05:59:38Z",
                     "owner": "zai-org",
                     "repo": "CodeGeeX",
-                    "stars": 8805
-                  }
+                    "stars": 8804
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2944,7 +3128,8 @@
                     "owner": "polyeval",
                     "repo": "g-transeval",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2959,7 +3144,8 @@
                     "owner": "WeixiangYAN",
                     "repo": "CodeTransOcean",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -2974,7 +3160,8 @@
                     "owner": "anirudhkhatry",
                     "repo": "CRUST-bench",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -2996,7 +3183,8 @@
                     "owner": "rjust",
                     "repo": "defects4j",
                     "stars": 994
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3011,7 +3199,8 @@
                     "owner": "jkoppel",
                     "repo": "QuixBugs",
                     "stars": 145
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3026,7 +3215,8 @@
                     "owner": "bugs-dot-jar",
                     "repo": "bugs-dot-jar",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3041,7 +3231,8 @@
                     "owner": "bears-bugs",
                     "repo": "bears-benchmark",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3056,7 +3247,8 @@
                     "owner": "mast-group",
                     "repo": "mineSStuBs",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3070,8 +3262,9 @@
                     "last_commit": "2022-08-16T15:12:55Z",
                     "owner": "githubhuyang",
                     "repo": "refactory",
-                    "stars": 40
-                  }
+                    "stars": 41
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3086,7 +3279,8 @@
                     "owner": "lin-tan",
                     "repo": "CoCoNut-Artifact",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3101,7 +3295,8 @@
                     "owner": "Review4Repair",
                     "repo": "Review4Repair",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3116,7 +3311,8 @@
                     "owner": "soarsmu",
                     "repo": "BugsInPy",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3131,7 +3327,8 @@
                     "owner": "eth-sri",
                     "repo": "TFix",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3146,7 +3343,8 @@
                     "owner": "ASSERT-KTH",
                     "repo": "megadiff",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3161,7 +3359,8 @@
                     "owner": "AAI-USZ",
                     "repo": "FixJS",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3176,7 +3375,8 @@
                     "owner": "kupl",
                     "repo": "PyTER",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3191,7 +3391,8 @@
                     "owner": "ntunlp",
                     "repo": "xCodeEval",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3206,7 +3407,8 @@
                     "owner": "giganticode",
                     "repo": "run_bug_run",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3221,7 +3423,8 @@
                     "owner": "thunlp",
                     "repo": "DebugBench",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3236,7 +3439,8 @@
                     "owner": "nashid",
                     "repo": "birch",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3251,7 +3455,8 @@
                     "owner": "zkzhang88",
                     "repo": "OpenCodeEdit",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": "* These are code-change datasest, and only a subset therein concerns bug fixing.",
@@ -3272,8 +3477,9 @@
                     "last_commit": "2023-01-23T21:04:53Z",
                     "owner": "sriniiyer",
                     "repo": "codenn",
-                    "stars": 238
-                  }
+                    "stars": 237
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3288,7 +3494,8 @@
                     "owner": "EdinburghNLP",
                     "repo": "code-docstring-corpus",
                     "stars": 211
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3303,7 +3510,8 @@
                     "owner": "xing-hu",
                     "repo": "DeepCom",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3318,7 +3526,8 @@
                     "owner": "xing-hu",
                     "repo": "TL-CodeSum",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3333,7 +3542,8 @@
                     "owner": "wanyao1992",
                     "repo": "code_summarization_public",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3348,7 +3558,8 @@
                     "owner": "github",
                     "repo": "CodeSearchNet",
                     "stars": 2444
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -3370,7 +3581,8 @@
                     "owner": "CGCL-codes",
                     "repo": "VulDeePecker",
                     "stars": 354
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3385,7 +3597,8 @@
                     "owner": "DanielLin1986",
                     "repo": "TransferRepresentationLearning",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3400,7 +3613,8 @@
                     "owner": "SySeVR",
                     "repo": "SySeVR",
                     "stars": 357
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3415,7 +3629,8 @@
                     "owner": "SAP",
                     "repo": "project-kb",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3430,7 +3645,8 @@
                     "owner": "DanielLin1986",
                     "repo": "RepresentationsLearningFromMulti_domain",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3445,7 +3661,8 @@
                     "owner": "muVulDeePecker",
                     "repo": "muVulDeePecker",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3460,7 +3677,8 @@
                     "owner": "DanielLin1986",
                     "repo": "Function-level-Vulnerability-Detection",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3475,7 +3693,8 @@
                     "owner": "ZeoVan",
                     "repo": "MSR_20_Code_vulnerability_CSV_Dataset",
                     "stars": 369
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3490,7 +3709,8 @@
                     "owner": "IBM",
                     "repo": "D2A",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3505,7 +3725,8 @@
                     "owner": "wagner-group",
                     "repo": "diversevul",
                     "stars": 190
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3520,7 +3741,8 @@
                     "owner": "niklasrisse",
                     "repo": "LimitsOfML4Vuln",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3535,7 +3757,8 @@
                     "owner": "Sweetaroo",
                     "repo": "VulDetectBench",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3550,7 +3773,8 @@
                     "owner": "CodeLLM-Research",
                     "repo": "CodeJudge-Eval",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3565,7 +3789,8 @@
                     "owner": "yikun-li",
                     "repo": "CleanVul",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3580,7 +3805,8 @@
                     "owner": "KevinCL16",
                     "repo": "DSDBench",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3595,7 +3821,8 @@
                     "owner": "basimbd",
                     "repo": "SecVulEval",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3610,7 +3837,8 @@
                     "owner": "Jackline97",
                     "repo": "SV-TrustEval-C",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -3632,7 +3860,8 @@
                     "owner": "LittleYUYU",
                     "repo": "StackOverflow-Question-Code-Dataset",
                     "stars": 170
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3647,7 +3876,8 @@
                     "owner": "guxd",
                     "repo": "deep-code-search",
                     "stars": 285
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3662,7 +3892,8 @@
                     "owner": "facebookresearch",
                     "repo": "Neural-Code-Search-Evaluation-Dataset",
                     "stars": 125
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3677,7 +3908,8 @@
                     "owner": "github",
                     "repo": "CodeSearchNet",
                     "stars": 2444
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3692,7 +3924,8 @@
                     "owner": "BASE-LAB-SJTU",
                     "repo": "CosBench",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3707,7 +3940,8 @@
                     "owner": "nokia",
                     "repo": "codesearch",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3722,7 +3956,8 @@
                     "owner": "ryderling",
                     "repo": "DGMS",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3737,7 +3972,8 @@
                     "owner": "microsoft",
                     "repo": "CodeXGLUE",
                     "stars": 1839
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3752,7 +3988,8 @@
                     "owner": "jordane95",
                     "repo": "procqa",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3767,7 +4004,8 @@
                     "owner": "DeepSoftwareAnalytics",
                     "repo": "CoSQA_Plus",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3782,7 +4020,8 @@
                     "owner": "CoIR-team",
                     "repo": "coir",
                     "stars": 155
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3797,7 +4036,8 @@
                     "owner": "TRUMANCFY",
                     "repo": "CoQuIR",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": null,
@@ -3819,7 +4059,8 @@
                     "owner": "typilus",
                     "repo": "typilus",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3834,7 +4075,8 @@
                     "owner": "MrVPlusOne",
                     "repo": "LambdaNet",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3849,7 +4091,8 @@
                     "owner": "saltudelft",
                     "repo": "many-types-4-py-dataset",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3864,7 +4107,8 @@
                     "owner": "utopia-group",
                     "repo": "TypeT5",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3879,7 +4123,8 @@
                     "owner": "GammaTauAI",
                     "repo": "opentau",
                     "stars": 114
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": "* These are project counts.",
@@ -3901,7 +4146,8 @@
                     "owner": "epochx",
                     "repo": "commitgen",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3916,7 +4162,8 @@
                     "owner": "Tbabm",
                     "repo": "nngen",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3931,7 +4178,8 @@
                     "owner": "SoftWiser-group",
                     "repo": "CoDiSum",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3946,7 +4194,8 @@
                     "owner": "graykode",
                     "repo": "commit-autosuggestions",
                     "stars": 388
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3961,7 +4210,8 @@
                     "owner": "DeepSoftwareAnalytics",
                     "repo": "CommitMsgEmpirical",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -3976,7 +4226,8 @@
                     "owner": "JetBrains-Research",
                     "repo": "commit_message_generation",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": "* with/without verb-direct object filter",
@@ -3998,7 +4249,8 @@
                     "owner": "microsoft",
                     "repo": "CodeT",
                     "stars": 678
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4013,7 +4265,8 @@
                     "owner": "Leolty",
                     "repo": "repobench",
                     "stars": 212
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4028,7 +4281,8 @@
                     "owner": "microsoft",
                     "repo": "monitors4codegen",
                     "stars": 280
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4043,7 +4297,8 @@
                     "owner": "seketeam",
                     "repo": "EvoCodeBench",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4058,7 +4313,8 @@
                     "owner": "seketeam",
                     "repo": "DevEval",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4073,7 +4329,8 @@
                     "owner": "java-bench",
                     "repo": "JavaBench",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4088,7 +4345,8 @@
                     "owner": "Qurrent-AI",
                     "repo": "RES-Q",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4103,7 +4361,8 @@
                     "owner": "multi-swe-bench",
                     "repo": "multi-swe-bench.github.io",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4118,7 +4377,8 @@
                     "owner": "LingmaTongyi",
                     "repo": "Codev-Bench",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4133,7 +4393,8 @@
                     "owner": "yiyihum",
                     "repo": "da-code",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4148,7 +4409,8 @@
                     "owner": "M2RC-Eval-Team",
                     "repo": "M2RC-Eval",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4163,7 +4425,8 @@
                     "owner": "commit-0",
                     "repo": "commit0",
                     "stars": 191
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4178,7 +4441,8 @@
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
                     "stars": 16814
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4193,7 +4457,8 @@
                     "owner": "microsoft",
                     "repo": "DI-Bench",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4208,7 +4473,8 @@
                     "owner": "openai",
                     "repo": "SWELancer-Benchmark",
                     "stars": 1431
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4223,7 +4489,8 @@
                     "owner": "ink7-sudo",
                     "repo": "DependEval",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4238,7 +4505,8 @@
                     "owner": "yiqingxyq",
                     "repo": "RepoST",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4253,7 +4521,8 @@
                     "owner": "multi-swe-bench",
                     "repo": "multi-swe-bench",
                     "stars": 359
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4268,7 +4537,8 @@
                     "owner": "amazon-science",
                     "repo": "SWE-PolyBench",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4283,7 +4553,8 @@
                     "owner": "DeepSoftwareAnalytics",
                     "repo": "OmniGIRL",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4298,7 +4569,8 @@
                     "owner": "alfin06",
                     "repo": "AgentIssue-Bench",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4313,7 +4585,8 @@
                     "owner": "JetBrains-Research",
                     "repo": "git-good-bench",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4328,7 +4601,8 @@
                     "owner": "AGI-Eval-Official",
                     "repo": "CoreCodeBench",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4343,7 +4617,8 @@
                     "owner": "SWE-Perf",
                     "repo": "SWE-Perf",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4358,7 +4633,8 @@
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
                     "stars": 511
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4373,7 +4649,8 @@
                     "owner": "SCUNLP",
                     "repo": "E2EDev",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4388,7 +4665,8 @@
                     "owner": "microsoft",
                     "repo": "prose",
                     "stars": 660
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4403,7 +4681,8 @@
                     "owner": "whisperzqh",
                     "repo": "ProjectGen",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4417,8 +4696,9 @@
                     "last_commit": "2026-05-13T15:09:30Z",
                     "owner": "multimodal-art-projection",
                     "repo": "NL2RepoBench",
-                    "stars": 165
-                  }
+                    "stars": 167
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4433,7 +4713,8 @@
                     "owner": "SWE-EVO",
                     "repo": "SWE-EVO",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4448,7 +4729,8 @@
                     "owner": "tohoku-nlp",
                     "repo": "timemachine-bench",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4463,7 +4745,8 @@
                     "owner": "LiberCoders",
                     "repo": "FeatureBench",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4478,7 +4761,8 @@
                     "owner": "AweAI-Team",
                     "repo": "BeyondSWE",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 },
                 {
                   "node_type": "item",
@@ -4493,7 +4777,8 @@
                     "owner": "formula-code",
                     "repo": "fc-eval",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:31:17.521Z"
                 }
               ],
               "description": "*Line Completion/API Invocation Completion/Function Completion\n$^\\dagger$ Retrieval/Completion/Pipeline\n** File count\n$^\\ddagger$ Migration/Temporal Edit",
@@ -4524,7 +4809,8 @@
             "owner": "hsing-wang",
             "repo": "Awesome-LLM-MT",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         },
         {
           "node_type": "item",
@@ -4539,7 +4825,8 @@
             "owner": "Geralt-Targaryen",
             "repo": "Awesome-Education-LLM",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         },
         {
           "node_type": "item",
@@ -4553,8 +4840,9 @@
             "last_commit": "2026-06-02T11:11:54Z",
             "owner": "Geralt-Targaryen",
             "repo": "Awesome-Speculative-Decoding",
-            "stars": 46
-          }
+            "stars": 47
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         },
         {
           "node_type": "item",
@@ -4569,14 +4857,15 @@
             "owner": "codefuse-ai",
             "repo": "Awesome-Omnimodal-Embeddings",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.521Z"
         }
       ],
       "title": "Other Awesome LLM Reading Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:44:59.936Z",
+    "last_updated": "2026-08-28T23:31:17.521Z",
     "original_repository_info": {
       "archived": false,
       "id": 694517360,
@@ -4584,7 +4873,7 @@
       "last_commit": "2026-05-20T07:33:12Z",
       "owner": "codefuse-ai",
       "repo": "Awesome-Code-LLM",
-      "stars": 3433
+      "stars": 3435
     },
     "original_repository_sha": "abde59fde7b48387c94f170c9818ee507350c23f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Code-LLM",
