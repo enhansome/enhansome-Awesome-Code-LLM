@@ -219,7 +219,7 @@ These LLMs are not specifically trained for code, but have demonstrated varying 
 
 2. **LLaMA 3**: "The Llama 3 Herd of Models" \[2024-04] \[[blog](https://ai.meta.com/blog/meta-llama-3/)] \[[repo](https://github.com/meta-llama/llama3) ⚠️ Archived] \[[paper](https://arxiv.org/abs/2407.21783)]
 
-3. **Qwen**: "Qwen Technical Report" \[2023-09] \[[paper](https://arxiv.org/abs/2309.16609)] \[[repo](https://github.com/QwenLM/Qwen) ⭐ 21,671 | 🐛 38 | 🌐 Python | 📅 2026-03-05]
+3. **Qwen**: "Qwen Technical Report" \[2023-09] \[[paper](https://arxiv.org/abs/2309.16609)] \[[repo](https://github.com/QwenLM/Qwen) ⭐ 21,672 | 🐛 38 | 🌐 Python | 📅 2026-03-05]
 
 4. **Mistral**: "Mistral 7B" \[2023-10] \[[paper](https://arxiv.org/abs/2310.06825)] \[[repo](https://github.com/mistralai/mistral-src) ⚠️ Archived]
 
@@ -483,7 +483,7 @@ These models are Transformer encoders, decoders, and encoder-decoders pretrained
 
 #### Encoder
 
-1. **CuBERT** (MLM + NSP): "Learning and Evaluating Contextual Embedding of Source Code" \[2019-12] \[ICML 2020] \[[paper](https://arxiv.org/abs/2001.00059)] \[[repo](https://github.com/google-research/google-research/tree/master/cubert) ⭐ 38,642 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27]
+1. **CuBERT** (MLM + NSP): "Learning and Evaluating Contextual Embedding of Source Code" \[2019-12] \[ICML 2020] \[[paper](https://arxiv.org/abs/2001.00059)] \[[repo](https://github.com/google-research/google-research/tree/master/cubert) ⭐ 38,643 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27]
 
 2. **CodeBERT** (MLM + RTD): "CodeBERT: A Pre-Trained Model for Programming and Natural Languages" \[2020-02] \[EMNLP 2020 findings] \[[paper](https://arxiv.org/abs/2002.08155)] \[[repo](https://github.com/microsoft/CodeBERT) ⭐ 2,786 | 🐛 86 | 🌐 Python | 📅 2023-07-09]
 
@@ -503,7 +503,7 @@ These models are Transformer encoders, decoders, and encoder-decoders pretrained
 
 #### Decoder
 
-1. **DeepSeek Coder** (CLM+FIM): "DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence" \[2024-01] \[[paper](https://arxiv.org/abs/2401.14196)] \[[repo](https://github.com/deepseek-ai/DeepSeek-Coder) ⭐ 24,224 | 🐛 171 | 🌐 Python | 📅 2025-11-11]
+1. **DeepSeek Coder** (CLM+FIM): "DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence" \[2024-01] \[[paper](https://arxiv.org/abs/2401.14196)] \[[repo](https://github.com/deepseek-ai/DeepSeek-Coder) ⭐ 24,225 | 🐛 171 | 🌐 Python | 📅 2025-11-11]
 
 2. **CodeGeeX** (CLM): "CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X" \[2023-03] \[[paper](https://arxiv.org/abs/2303.17568)] \[[repo](https://github.com/THUDM/CodeGeeX) ⭐ 8,804 | 🐛 188 | 🌐 Python | 📅 2024-08-13]
 
@@ -1041,9 +1041,9 @@ These models apply Instruction Fine-Tuning techniques to enhance the capacities 
 
 ### 3.3 Code Agents
 
-1. **MetaGPT**: "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework" \[2023-08] \[[paper](https://arxiv.org/abs/2308.00352)] \[[repo](https://github.com/geekan/MetaGPT) ⭐ 70,087 | 🐛 135 | 🌐 Python | 📅 2026-01-21]
+1. **MetaGPT**: "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework" \[2023-08] \[[paper](https://arxiv.org/abs/2308.00352)] \[[repo](https://github.com/geekan/MetaGPT) ⭐ 70,090 | 🐛 135 | 🌐 Python | 📅 2026-01-21]
 
-2. **ChatDev**: "Communicative Agents for Software Development" \[2023-07] \[[paper](https://arxiv.org/abs/2307.07924)] \[[repo](https://github.com/OpenBMB/ChatDev) ⭐ 34,141 | 🐛 68 | 🌐 Python | 📅 2026-07-24]
+2. **ChatDev**: "Communicative Agents for Software Development" \[2023-07] \[[paper](https://arxiv.org/abs/2307.07924)] \[[repo](https://github.com/OpenBMB/ChatDev) ⭐ 34,142 | 🐛 68 | 🌐 Python | 📅 2026-07-24]
 
 3. **PairCoder**: "A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement" \[2024-09] \[ASE 2024] \[[paper](https://arxiv.org/abs/2409.05001)] \[[repo](https://github.com/nju-websoft/PairCoder) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2024-11-29]
 
@@ -4857,7 +4857,7 @@ For each task, the first column contains non-neural methods (e.g. n-gram, TF-IDF
 
 * **HLE**: "Humanity's Last Exam" \[2025-01] \[[paper](https://arxiv.org/abs/2501.14249)] \[[data](https://github.com/centerforaisafety/hle) ⭐ 1,666 | 🐛 8 | 🌐 Python | 📅 2026-08-01]
 
-* **LiveBench**: "LiveBench: A Challenging, Contamination-Free LLM Benchmark" \[2024-06] \[[paper](https://arxiv.org/abs/2406.19314)] \[[repo](https://github.com/livebench/livebench) ⭐ 1,296 | 🐛 179 | 🌐 Python | 📅 2026-08-28]
+* **LiveBench**: "LiveBench: A Challenging, Contamination-Free LLM Benchmark" \[2024-06] \[[paper](https://arxiv.org/abs/2406.19314)] \[[repo](https://github.com/livebench/livebench) ⭐ 1,296 | 🐛 171 | 🌐 Python | 📅 2026-08-29]
 
 * **LiveCodeBench**: "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code" \[2024-03] \[ICLR 2025] \[[paper](https://arxiv.org/abs/2403.07974)] \[[repo](https://github.com/LiveCodeBench/LiveCodeBench) ⭐ 935 | 🐛 39 | 🌐 Python | 📅 2025-07-16]
 
@@ -4954,7 +4954,7 @@ For each task, the first column contains non-neural methods (e.g. n-gram, TF-IDF
 | 2019-10 | EMNLP-IJCNLP 2019                | JuICe                                            | 1.5M/3725 \*         | Python                                                                           | "JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation" \[[paper](https://arxiv.org/abs/1910.02216)] \[[data](https://github.com/rajasagashe/juice) ⭐ 37 \| 🐛 3 \| 🌐 Python \| 📅 2021-10-27]                                                                                                                                |
 | 2021-05 | NeurIPS 2021                     | APPS                                             | 10000                | Python                                                                           | "Measuring Coding Challenge Competence With APPS" \[[paper](https://arxiv.org/abs/2105.09938)] \[[data](https://github.com/hendrycks/apps) ⭐ 538 \| 🐛 4 \| 🌐 Python \| 📅 2024-06-19]                                                                                                                                                                                  |
 | 2021-07 | arXiv                            | HumanEval                                        | 164                  | Python                                                                           | "Evaluating Large Language Models Trained on Code" \[[paper](https://arxiv.org/abs/2107.03374)] \[[data](https://github.com/openai/human-eval) ⭐ 3,355 \| 🐛 45 \| 🌐 Python \| 📅 2025-01-17]                                                                                                                                                                           |
-| 2021-08 | arXiv                            | MBPP/MathQA-Python                               | 974/23914            | Python                                                                           | "Program Synthesis with Large Language Models" \[[paper](https://arxiv.org/abs/2108.07732)] \[[MBPP](https://github.com/google-research/google-research/tree/master/mbpp) ⭐ 38,642 \| 🐛 1,989 \| 🌐 Jupyter Notebook \| 📅 2026-08-27] \[[MathQA-Python](https://github.com/google/trax/blob/master/trax/examples/MathQA_Python_generation_notebook.ipynb) ⚠️ Archived] |
+| 2021-08 | arXiv                            | MBPP/MathQA-Python                               | 974/23914            | Python                                                                           | "Program Synthesis with Large Language Models" \[[paper](https://arxiv.org/abs/2108.07732)] \[[MBPP](https://github.com/google-research/google-research/tree/master/mbpp) ⭐ 38,643 \| 🐛 1,989 \| 🌐 Jupyter Notebook \| 📅 2026-08-27] \[[MathQA-Python](https://github.com/google/trax/blob/master/trax/examples/MathQA_Python_generation_notebook.ipynb) ⚠️ Archived] |
 | 2021-08 | ACL/IJCNLP 2021                  | PlotCoder                                        | 40797                | Python                                                                           | "PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context" \[[paper](https://aclanthology.org/2021.acl-long.169/)] \[[data](https://github.com/jungyhuk/plotcoder) ⭐ 21 \| 🐛 0 \| 🌐 Python \| 📅 2021-10-06]                                                                                                                       |
 | 2022-01 | arXiv                            | DSP                                              | 1119                 | Python                                                                           | "Training and Evaluating a Jupyter Notebook Data Science Assistant" \[[paper](https://arxiv.org/abs/2201.12901)] \[[data](https://github.com/microsoft/DataScienceProblems)]                                                                                                                                                                                             |
 | 2022-02 | Science                          | CodeContests                                     | 13610                | C++, Python, Java                                                                | "Competition-Level Code Generation with AlphaCode" \[[paper](https://arxiv.org/abs/2203.07814)] \[[data](https://github.com/google-deepmind/code_contests) ⚠️ Archived]                                                                                                                                                                                                  |
@@ -5488,4 +5488,4 @@ Embracing an innovation-driven ethos, our team not only supports business implem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
