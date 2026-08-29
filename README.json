@@ -153,7 +153,7 @@
                 "open_issues": 215,
                 "owner": "meta-llama",
                 "repo": "llama3",
-                "stars": 29244,
+                "stars": 29245,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -174,7 +174,7 @@
                 "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21672,
+                "stars": 21674,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -318,7 +318,7 @@
                 "open_issues": 83,
                 "owner": "allenai",
                 "repo": "OLMo",
-                "stars": 6653,
+                "stars": 6654,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -544,7 +544,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38650,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -615,10 +615,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-11-11T06:44:56Z",
-                    "open_issues": 171,
+                    "open_issues": 172,
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-Coder",
-                    "stars": 24225,
+                    "stars": 24226,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -829,7 +829,7 @@
                     "open_issues": 342,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleNLP",
-                    "stars": 12969,
+                    "stars": 12970,
                     "topics": [
                       "bert",
                       "compression",
@@ -1347,7 +1347,7 @@
                 "open_issues": 68,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34142,
+                "stars": 34146,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -1595,11 +1595,11 @@
                     "id": 814138036,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-29T03:36:20Z",
+                    "last_commit": "2026-08-29T07:16:59Z",
                     "open_issues": 171,
                     "owner": "LiveBench",
                     "repo": "LiveBench",
-                    "stars": 1296,
+                    "stars": 1298,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -1994,7 +1994,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38650,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2946,7 +2946,7 @@
                     "open_issues": 112,
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16814,
+                    "stars": 16816,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -3159,7 +3159,7 @@
                     "id": 980642935,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2025-06-30T13:23:11Z",
+                    "last_commit": "2026-08-29T10:47:19Z",
                     "open_issues": 0,
                     "owner": "oss-bench",
                     "repo": "oss-bench",
@@ -6295,7 +6295,7 @@
                     "open_issues": 112,
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16814,
+                    "stars": 16816,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -6400,7 +6400,7 @@
                     "open_issues": 19,
                     "owner": "multi-swe-bench",
                     "repo": "multi-swe-bench",
-                    "stars": 359,
+                    "stars": 360,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -6421,7 +6421,7 @@
                     "open_issues": 0,
                     "owner": "amazon-science",
                     "repo": "SWE-PolyBench",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:19.718Z",
+    "last_updated": "2026-08-29T17:40:57.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
