@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "We are launching a new awesome project about embedding models: Awesome-Omnimodal-Embeddings",
-          "description": null,
+          "description": "codefuse-ai/Awesome-Omnimodal-Embeddings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -119,7 +119,7 @@
             {
               "node_type": "item",
               "title": "LLaMA 2: \"Llama 2: Open Foundation and Fine-Tuned Chat Models\" [2023-07] [paper",
-              "description": "] [repo]",
+              "description": "meta-llama/llama",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -153,7 +153,7 @@
                 "open_issues": 215,
                 "owner": "meta-llama",
                 "repo": "llama3",
-                "stars": 29201,
+                "stars": 29200,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -161,7 +161,7 @@
             {
               "node_type": "item",
               "title": "Qwen: \"Qwen Technical Report\" [2023-09] [paper",
-              "description": "] [repo]",
+              "description": "QwenLM/Qwen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -174,7 +174,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21879,
+                "stars": 21880,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "Mistral: \"Mistral 7B\" [2023-10] [paper",
-              "description": "] [repo]",
+              "description": "mistralai/mistral-inference",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -214,7 +214,7 @@
             {
               "node_type": "item",
               "title": "Yi: \"Yi: Open Foundation Models by 01.AI\" [2024-03] [paper",
-              "description": "] [repo]",
+              "description": "01-ai/Yi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -237,7 +237,7 @@
             {
               "node_type": "item",
               "title": "GPT-NeoX: \"GPT-NeoX-20B: An Open-Source Autoregressive Language Model\" [2022-04] [ACL 2022 Workshop on Challenges & Perspectives in Creating LLMs] [paper",
-              "description": "] [repo]",
+              "description": "EleutherAI/gpt-neox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,7 +263,7 @@
             {
               "node_type": "item",
               "title": "DeepSeek: \"DeepSeek LLM: Scaling Open-Source Language Models with Longtermism\" [2024-01] [paper",
-              "description": "] [repo]",
+              "description": "deepseek-ai/DeepSeek-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "OpenELM: \"OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework\" [2024-04] [paper",
-              "description": "] [repo]",
+              "description": "apple/corenet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,7 +305,7 @@
             {
               "node_type": "item",
               "title": "OLMo: \"OLMo: Accelerating the Science of Language Models\" [2024-02] [paper",
-              "description": "] [repo]",
+              "description": "allenai/OLMo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -326,7 +326,7 @@
             {
               "node_type": "item",
               "title": "DeepSeek-V2: \"DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model\" [2024-05] [paper",
-              "description": "] [repo]",
+              "description": "deepseek-ai/DeepSeek-V2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +347,7 @@
             {
               "node_type": "item",
               "title": "Baichuan 2: \"Baichuan 2: Open Large-scale Language Models\" [2023-09] [paper",
-              "description": "] [repo]",
+              "description": "baichuan-inc/Baichuan2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -381,7 +381,7 @@
             {
               "node_type": "item",
               "title": "YAYI2: \"YAYI 2: Multilingual Open-Source Large Language Models\" [2023-12] [paper",
-              "description": "] [repo]",
+              "description": "wenge-research/YAYI2",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "DeepSeekMoE: \"DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models\" [2024-01] [paper",
-              "description": "] [repo]",
+              "description": "deepseek-ai/DeepSeek-MoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -431,7 +431,7 @@
             {
               "node_type": "item",
               "title": "MAP-Neo: \"MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series\" [2024-05] [paper",
-              "description": "] [repo]",
+              "description": "multimodal-art-projection/MAP-NEO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +452,7 @@
             {
               "node_type": "item",
               "title": "JetMoE: \"JetMoE: Reaching Llama2 Performance with 0.1M Dollars\" [2024-04] [paper",
-              "description": "] [repo]",
+              "description": "myshell-ai/JetMoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -473,7 +473,7 @@
             {
               "node_type": "item",
               "title": "Orion: \"Orion-14B: Open-source Multilingual Large Language Models\" [2024-01] [paper",
-              "description": "] [repo]",
+              "description": "OrionStarAI/Orion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -501,7 +501,7 @@
             {
               "node_type": "item",
               "title": "Code LLaMA (LLaMA 2): \"Code Llama: Open Foundation Models for Code\" [2023-08] [paper",
-              "description": "] [repo]",
+              "description": "meta-llama/codellama",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -531,7 +531,7 @@
                 {
                   "node_type": "item",
                   "title": "CuBERT (MLM + NSP): \"Learning and Evaluating Contextual Embedding of Source Code\" [2019-12] [ICML 2020] [paper",
-                  "description": "] [repo]",
+                  "description": "google-research/google-research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -544,7 +544,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38861,
+                    "stars": 38862,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -556,7 +556,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeBERT (MLM + RTD): \"CodeBERT: A Pre-Trained Model for Programming and Natural Languages\" [2020-02] [EMNLP 2020 findings] [paper",
-                  "description": "] [repo]",
+                  "description": "microsoft/CodeBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -577,7 +577,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphCodeBERT (MLM + DFG Edge Prediction + DFG Node Alignment): \"GraphCodeBERT: Pre-training Code Representations with Data Flow\" [2020-09] [ICLR 2021] [paper",
-                  "description": "] [repo]",
+                  "description": "microsoft/CodeBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -605,7 +605,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepSeek Coder (CLM+FIM): \"DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence\" [2024-01] [paper",
-                  "description": "] [repo]",
+                  "description": "deepseek-ai/DeepSeek-Coder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -618,7 +618,7 @@
                     "open_issues": 173,
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-Coder",
-                    "stars": 24289,
+                    "stars": 24288,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -626,7 +626,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeGeeX (CLM): \"CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X\" [2023-03] [paper",
-                  "description": "] [repo]",
+                  "description": "zai-org/CodeGeeX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -651,7 +651,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeGen (CLM): \"CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis\" [2022-03] [ICLR 2023] [paper",
-                  "description": "] [repo]",
+                  "description": "salesforce/CodeGen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -679,7 +679,7 @@
                 {
                   "node_type": "item",
                   "title": "StarCoder2 (CLM+FIM): \"StarCoder 2 and The Stack v2: The Next Generation\" [2024-02] [paper",
-                  "description": "] [repo]",
+                  "description": "bigcode-project/starcoder2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -692,7 +692,7 @@
                     "open_issues": 19,
                     "owner": "bigcode-project",
                     "repo": "starcoder2",
-                    "stars": 2094,
+                    "stars": 2095,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -700,7 +700,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeGPT (CLM): \"CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation\" [2021-02] [NeurIPS Datasets and Benchmarks 2021] [paper",
-                  "description": "] [repo]",
+                  "description": "microsoft/CodeXGLUE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -713,7 +713,7 @@
                     "open_issues": 42,
                     "owner": "microsoft",
                     "repo": "CodeXGLUE",
-                    "stars": 1843,
+                    "stars": 1842,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -721,7 +721,7 @@
                 {
                   "node_type": "item",
                   "title": "PolyCoder (CLM): \"A Systematic Evaluation of Large Language Models of Code\" [2022-02] [DL4C@ICLR 2022] [paper",
-                  "description": "] [repo]",
+                  "description": "VHellendoorn/Code-LMs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -746,7 +746,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeShell (CLM+FIM): \"CodeShell Technical Report\" [2024-03] [paper",
-                  "description": "] [repo]",
+                  "description": "WisdomShell/codeshell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -767,7 +767,7 @@
                 {
                   "node_type": "item",
                   "title": "InCoder (Causal Masking): \"InCoder: A Generative Model for Code Infilling and Synthesis\" [2022-04] [ICLR 2023] [paper",
-                  "description": "] [repo]",
+                  "description": "dpfried/incoder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -788,7 +788,7 @@
                 {
                   "node_type": "item",
                   "title": "PyCodeGPT (CLM): \"CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation\" [2022-06] [IJCAI-ECAI 2022] [paper",
-                  "description": "] [repo]",
+                  "description": "microsoft/PyCodeGPT",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -816,7 +816,7 @@
                 {
                   "node_type": "item",
                   "title": "ERNIE-Code (Span Corruption + Pivot-based Translation LM): \"ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages\" [2022-12] [ACL23 (Findings)] [paper",
-                  "description": "][repo]",
+                  "description": "PaddlePaddle/PaddleNLP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -857,7 +857,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeT5 (Span Corruption + Identifier Tagging + Masked Identifier Prediction + Text2Code + Code2Text): \"CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation\" [2021-09] [EMNLP 2021] [paper",
-                  "description": "] [repo]",
+                  "description": "salesforce/CodeT5",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -884,7 +884,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeT5+ (Span Corruption + CLM + Text-Code Contrastive Learning + Text-Code Translation): \"CodeT5+: Open Code Large Language Models for Code Understanding and Generation\" [2023-05] [EMNLP 2023] [paper",
-                  "description": "] [repo]",
+                  "description": "salesforce/CodeT5",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -911,7 +911,7 @@
                 {
                   "node_type": "item",
                   "title": "DOBF (Span Corruption): \"Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks\" [2021-02] [NeurIPS 2021] [paper",
-                  "description": "] [repo]",
+                  "description": "facebookresearch/CodeGen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -932,7 +932,7 @@
                 {
                   "node_type": "item",
                   "title": "PLBART (DAE): \"Unified Pre-training for Program Understanding and Generation\" [2021-03] [NAACL 2021] [paper",
-                  "description": "] [repo]",
+                  "description": "wasiahmad/PLBART",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -959,7 +959,7 @@
                 {
                   "node_type": "item",
                   "title": "NatGen (Code Naturalization): \"NatGen: Generative pre-training by \"Naturalizing\" source code\" [2022-06] [ESEC/FSE 2022] [paper",
-                  "description": "] [repo]",
+                  "description": "saikat107/NatGen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -980,7 +980,7 @@
                 {
                   "node_type": "item",
                   "title": "Mastropaolo et al. (MLM + Deobfuscation): \"DOBF: A Deobfuscation Pre-Training Objective for Programming Languages\" [2021-02] [ICSE 2021] [paper",
-                  "description": "] [repo]",
+                  "description": "antonio-mastropaolo/TransferLearning4Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1008,7 +1008,7 @@
                 {
                   "node_type": "item",
                   "title": "UniXcoder (MLM + NSP + CLM + Span Corruption + Contrastive Learning + Code2Text): \"UniXcoder: Unified Cross-Modal Pre-training for Code Representation\" [2022-03] [ACL 2022] [paper",
-                  "description": "] [repo]",
+                  "description": "microsoft/CodeBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1041,7 +1041,7 @@
             {
               "node_type": "item",
               "title": "WizardCoder (StarCoder + Evol-Instruct): \"WizardCoder: Empowering Code Large Language Models with Evol-Instruct\" [2023-06] [ICLR 2024] [paper",
-              "description": "] [repo]",
+              "description": "nlpxucan/WizardLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1062,7 +1062,7 @@
             {
               "node_type": "item",
               "title": "MFTCoder: \"MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning\" [2023-11] [KDD 2024] [paper",
-              "description": "] [repo]",
+              "description": "codefuse-ai/MFTCoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1089,7 +1089,7 @@
             {
               "node_type": "item",
               "title": "OctoCoder (StarCoder) / OctoGeeX (CodeGeeX2): \"OctoPack: Instruction Tuning Code Large Language Models\" [2023-08] [ICLR 2024 Spotlight] [paper",
-              "description": "] [repo]",
+              "description": "bigcode-project/octopack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1110,7 +1110,7 @@
             {
               "node_type": "item",
               "title": "InstructCoder: \"InstructCoder: Instruction Tuning Large Language Models for Code Editing\" [paper",
-              "description": "] [repo]",
+              "description": "qishenghu/InstructCoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1131,7 +1131,7 @@
             {
               "node_type": "item",
               "title": "XFT: \"XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts\" [2024-04] [ACL 2024] [paper",
-              "description": "] [repo]",
+              "description": "ise-uiuc/xft",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "CodeRL: \"CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning\" [2022-07] [NeurIPS 2022] [paper",
-              "description": "] [repo]",
+              "description": "salesforce/CodeRL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1187,7 +1187,7 @@
             {
               "node_type": "item",
               "title": "RLTF: \"RLTF: Reinforcement Learning from Unit Test Feedback\" [2023-07] [paper",
-              "description": "] [repo]",
+              "description": "Zyq-scut/RLTF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,7 +1208,7 @@
             {
               "node_type": "item",
               "title": "PPOCoder: \"Execution-based Code Generation using Deep Reinforcement Learning\" [2023-01] [TMLR 2023] [paper",
-              "description": "] [repo]",
+              "description": "reddy-lab-code-research/PPOCoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,7 +1247,7 @@
             {
               "node_type": "item",
               "title": "PAL: \"PAL: Program-aided Language Models\" [2022-11] [ICML 2023] [paper",
-              "description": "] [repo]",
+              "description": "reasoning-machines/pal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1275,7 +1275,7 @@
             {
               "node_type": "item",
               "title": "PoT: \"Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks\" [2022-11] [TMLR 2023] [paper",
-              "description": "] [repo]",
+              "description": "TIGER-AI-Lab/Program-of-Thoughts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1307,7 +1307,7 @@
             {
               "node_type": "item",
               "title": "MetaGPT: \"MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework\" [2023-08] [paper",
-              "description": "] [repo]",
+              "description": "FoundationAgents/MetaGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1317,10 +1317,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 145,
+                "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70720,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -1334,7 +1334,7 @@
             {
               "node_type": "item",
               "title": "ChatDev: \"Communicative Agents for Software Development\" [2023-07] [paper",
-              "description": "] [repo]",
+              "description": "OpenBMB/ChatDev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1355,7 +1355,7 @@
             {
               "node_type": "item",
               "title": "PairCoder: \"A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement\" [2024-09] [ASE 2024] [paper",
-              "description": "] [repo]",
+              "description": "nju-websoft/PairCoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1390,7 +1390,7 @@
             {
               "node_type": "item",
               "title": "\"From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging\" [2024-10] [paper",
-              "description": "] [repo]",
+              "description": "YerbaPage/MGDebugger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1431,7 +1431,7 @@
             {
               "node_type": "item",
               "title": "\"DocuMint: Docstring Generation for Python using Small Language Models\" [2024-05] [paper",
-              "description": "] [repo]",
+              "description": "Docu-Mint/DocuMint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1459,7 +1459,7 @@
             {
               "node_type": "item",
               "title": "\"CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature\" [2024-08] [paper",
-              "description": "] [repo]",
+              "description": "code-philia/CoEdPilot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1557,7 +1557,7 @@
                     "open_issues": 42,
                     "owner": "microsoft",
                     "repo": "CodeXGLUE",
-                    "stars": 1843,
+                    "stars": 1842,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -1565,7 +1565,7 @@
                 {
                   "node_type": "item",
                   "title": "HLE: \"Humanity's Last Exam\" [2025-01] [paper",
-                  "description": "] [data]",
+                  "description": "centerforaisafety/hle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1586,7 +1586,7 @@
                 {
                   "node_type": "item",
                   "title": "LiveBench: \"LiveBench: A Challenging, Contamination-Free LLM Benchmark\" [2024-06] [paper",
-                  "description": "] [repo]",
+                  "description": "LiveBench/LiveBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1607,7 +1607,7 @@
                 {
                   "node_type": "item",
                   "title": "LiveCodeBench: \"LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code\" [2024-03] [ICLR 2025] [paper",
-                  "description": "] [repo]",
+                  "description": "LiveCodeBench/LiveCodeBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1635,7 +1635,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeRAG-Bench: \"CodeRAG-Bench: Can Retrieval Augment Code Generation?\" [2024-06] [paper",
-                  "description": "] [repo]",
+                  "description": "code-rag-bench/code-rag-bench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1660,7 +1660,7 @@
                 {
                   "node_type": "item",
                   "title": "BBEH: \"BIG-Bench Extra Hard\" [2025-02] [paper",
-                  "description": "] [data]",
+                  "description": "google-deepmind/bbeh",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1681,7 +1681,7 @@
                 {
                   "node_type": "item",
                   "title": "FullStack Bench: \"FullStack Bench: Evaluating LLMs as Full Stack Coder\" [2024-11] [paper",
-                  "description": "] [data]",
+                  "description": "bytedance/FullStackBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1704,7 +1704,7 @@
                 {
                   "node_type": "item",
                   "title": "CodefuseEval: \"CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model\" [2023-10] [paper",
-                  "description": "] [repo]",
+                  "description": "codefuse-ai/codefuse-evaluation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1733,7 +1733,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeScope: \"CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation\" [2023-11] [ACL 2024] [paper",
-                  "description": "] [repo]",
+                  "description": "WeixiangYAN/CodeScope",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1754,7 +1754,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeEditorBench: \"CodeEditorBench: Evaluating Code Editing Capability of Large Language Models\" [2024-04] [paper",
-                  "description": "] [repo]",
+                  "description": "CodeEditorBench/CodeEditorBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1775,7 +1775,7 @@
                 {
                   "node_type": "item",
                   "title": "Long Code Arena: \"Long Code Arena: a Set of Benchmarks for Long-Context Code Models\" [2024-06] [paper",
-                  "description": "] [repo]",
+                  "description": "JetBrains-Research/lca-baselines",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1796,7 +1796,7 @@
                 {
                   "node_type": "item",
                   "title": "StackEval: \"StackEval: Benchmarking LLMs in Coding Assistance\" [2024-12] [NeurIPS 2024] [paper",
-                  "description": "] [data]",
+                  "description": "ProsusAI/stack-eval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1817,7 +1817,7 @@
                 {
                   "node_type": "item",
                   "title": "DebugEval: \"Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement\" [2024-08] [paper",
-                  "description": "] [repo]",
+                  "description": "NEUIR/COAST",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1838,7 +1838,7 @@
                 {
                   "node_type": "item",
                   "title": "MERA Code: \"MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks\" [2025-07] [paper",
-                  "description": "] [data]",
+                  "description": "MERA-Evaluation/MERA_CODE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1994,7 +1994,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38861,
+                    "stars": 38862,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2383,7 +2383,7 @@
                     "open_issues": 5,
                     "owner": "APEXLAB",
                     "repo": "CodeApex",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -2946,7 +2946,7 @@
                     "open_issues": 113,
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16840,
+                    "stars": 16841,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -3567,7 +3567,7 @@
                     "open_issues": 5,
                     "owner": "APEXLAB",
                     "repo": "CodeApex",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -5612,7 +5612,7 @@
                     "open_issues": 42,
                     "owner": "microsoft",
                     "repo": "CodeXGLUE",
-                    "stars": 1843,
+                    "stars": 1842,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -6295,7 +6295,7 @@
                     "open_issues": 113,
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16840,
+                    "stars": 16841,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -6785,7 +6785,7 @@
         {
           "node_type": "item",
           "title": "Awesome-LLM-MT",
-          "description": null,
+          "description": "hsing-wang/Awesome-LLM-MT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6806,7 +6806,7 @@
         {
           "node_type": "item",
           "title": "Awesome Education LLM",
-          "description": null,
+          "description": "Geralt-Targaryen/Awesome-Education-LLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6834,7 +6834,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Speculative-Decoding",
-          "description": null,
+          "description": "Geralt-Targaryen/Awesome-Speculative-Decoding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6861,7 +6861,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Omnimodal-Embeddings",
-          "description": null,
+          "description": "codefuse-ai/Awesome-Omnimodal-Embeddings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6884,7 +6884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:11:07.923Z",
+    "last_updated": "2026-10-03T04:25:05.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
@@ -6896,7 +6896,7 @@
       "open_issues": 23,
       "owner": "codefuse-ai",
       "repo": "Awesome-Code-LLM",
-      "stars": 3442,
+      "stars": 3443,
       "topics": [
         "ai",
         "awesome",
