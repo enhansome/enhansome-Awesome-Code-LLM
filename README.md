@@ -215,19 +215,19 @@ If you find a paper to be missing from this repository, misplaced in a category,
 
 These LLMs are not specifically trained for code, but have demonstrated varying coding capability.
 
-1. **LLaMA 2**: "Llama 2: Open Foundation and Fine-Tuned Chat Models" \[2023-07] \[[paper](https://arxiv.org/abs/2307.09288)] \[[repo](https://github.com/facebookresearch/llama) ⭐ 59,624 | 🐛 538 | 🌐 Python | 📅 2025-01-26]
+1. **LLaMA 2**: "Llama 2: Open Foundation and Fine-Tuned Chat Models" \[2023-07] \[[paper](https://arxiv.org/abs/2307.09288)] \[[repo](https://github.com/facebookresearch/llama) ⭐ 59,623 | 🐛 537 | 🌐 Python | 📅 2025-01-26]
 
 2. **LLaMA 3**: "The Llama 3 Herd of Models" \[2024-04] \[[blog](https://ai.meta.com/blog/meta-llama-3/)] \[[repo](https://github.com/meta-llama/llama3) ⚠️ Archived] \[[paper](https://arxiv.org/abs/2407.21783)]
 
-3. **Qwen**: "Qwen Technical Report" \[2023-09] \[[paper](https://arxiv.org/abs/2309.16609)] \[[repo](https://github.com/QwenLM/Qwen) ⭐ 22,028 | 🐛 41 | 🌐 Python | 📅 2026-03-05]
+3. **Qwen**: "Qwen Technical Report" \[2023-09] \[[paper](https://arxiv.org/abs/2309.16609)] \[[repo](https://github.com/QwenLM/Qwen) ⭐ 22,030 | 🐛 41 | 🌐 Python | 📅 2026-03-05]
 
 4. **Mistral**: "Mistral 7B" \[2023-10] \[[paper](https://arxiv.org/abs/2310.06825)] \[[repo](https://github.com/mistralai/mistral-src) ⚠️ Archived]
 
-5. **Yi**: "Yi: Open Foundation Models by 01.AI" \[2024-03] \[[paper](https://arxiv.org/abs/2403.04652)] \[[repo](https://github.com/01-ai/Yi) ⭐ 7,835 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2024-11-27]
+5. **Yi**: "Yi: Open Foundation Models by 01.AI" \[2024-03] \[[paper](https://arxiv.org/abs/2403.04652)] \[[repo](https://github.com/01-ai/Yi) ⭐ 7,832 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2024-11-27]
 
-6. **GPT-NeoX**: "GPT-NeoX-20B: An Open-Source Autoregressive Language Model" \[2022-04] \[ACL 2022 Workshop on Challenges & Perspectives in Creating LLMs] \[[paper](https://arxiv.org/abs/2204.06745)] \[[repo](https://github.com/EleutherAI/gpt-neox) ⭐ 7,473 | 🐛 137 | 🌐 Python | 📅 2026-11-07]
+6. **GPT-NeoX**: "GPT-NeoX-20B: An Open-Source Autoregressive Language Model" \[2022-04] \[ACL 2022 Workshop on Challenges & Perspectives in Creating LLMs] \[[paper](https://arxiv.org/abs/2204.06745)] \[[repo](https://github.com/EleutherAI/gpt-neox) ⭐ 7,476 | 🐛 137 | 🌐 Python | 📅 2026-11-07]
 
-7. **DeepSeek**: "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism" \[2024-01] \[[paper](https://arxiv.org/abs/2401.02954)] \[[repo](https://github.com/deepseek-ai/DeepSeek-LLM) ⭐ 7,276 | 🐛 62 | 🌐 Makefile | 📅 2024-02-04]
+7. **DeepSeek**: "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism" \[2024-01] \[[paper](https://arxiv.org/abs/2401.02954)] \[[repo](https://github.com/deepseek-ai/DeepSeek-LLM) ⭐ 7,277 | 🐛 62 | 🌐 Makefile | 📅 2024-02-04]
 
 8. **OpenELM**: "OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework" \[2024-04] \[[paper](https://arxiv.org/abs/2404.14619)] \[[repo](https://github.com/apple/corenet/tree/main/projects/openelm) ⭐ 7,013 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-09-25]
 
@@ -483,11 +483,11 @@ These models are Transformer encoders, decoders, and encoder-decoders pretrained
 
 #### Encoder
 
-1. **CuBERT** (MLM + NSP): "Learning and Evaluating Contextual Embedding of Source Code" \[2019-12] \[ICML 2020] \[[paper](https://arxiv.org/abs/2001.00059)] \[[repo](https://github.com/google-research/google-research/tree/master/cubert) ⭐ 39,158 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-11]
+1. **CuBERT** (MLM + NSP): "Learning and Evaluating Contextual Embedding of Source Code" \[2019-12] \[ICML 2020] \[[paper](https://arxiv.org/abs/2001.00059)] \[[repo](https://github.com/google-research/google-research/tree/master/cubert) ⭐ 39,161 | 🐛 2,012 | 🌐 Jupyter Notebook | 📅 2026-11-11]
 
-2. **CodeBERT** (MLM + RTD): "CodeBERT: A Pre-Trained Model for Programming and Natural Languages" \[2020-02] \[EMNLP 2020 findings] \[[paper](https://arxiv.org/abs/2002.08155)] \[[repo](https://github.com/microsoft/CodeBERT) ⭐ 2,795 | 🐛 87 | 🌐 Python | 📅 2023-07-09]
+2. **CodeBERT** (MLM + RTD): "CodeBERT: A Pre-Trained Model for Programming and Natural Languages" \[2020-02] \[EMNLP 2020 findings] \[[paper](https://arxiv.org/abs/2002.08155)] \[[repo](https://github.com/microsoft/CodeBERT) ⭐ 2,793 | 🐛 87 | 🌐 Python | 📅 2023-07-09]
 
-3. **GraphCodeBERT** (MLM + DFG Edge Prediction + DFG Node Alignment): "GraphCodeBERT: Pre-training Code Representations with Data Flow" \[2020-09] \[ICLR 2021] \[[paper](https://arxiv.org/abs/2009.08366)] \[[repo](https://github.com/microsoft/CodeBERT) ⭐ 2,795 | 🐛 87 | 🌐 Python | 📅 2023-07-09]
+3. **GraphCodeBERT** (MLM + DFG Edge Prediction + DFG Node Alignment): "GraphCodeBERT: Pre-training Code Representations with Data Flow" \[2020-09] \[ICLR 2021] \[[paper](https://arxiv.org/abs/2009.08366)] \[[repo](https://github.com/microsoft/CodeBERT) ⭐ 2,793 | 🐛 87 | 🌐 Python | 📅 2023-07-09]
 
 4. **SynCoBERT** (MLM + Identifier Prediction + AST Edge Prediction + Contrastive Learning): "SynCoBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation" \[2021-08] \[[paper](https://arxiv.org/abs/2108.04556)]
 
@@ -503,9 +503,9 @@ These models are Transformer encoders, decoders, and encoder-decoders pretrained
 
 #### Decoder
 
-1. **DeepSeek Coder** (CLM+FIM): "DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence" \[2024-01] \[[paper](https://arxiv.org/abs/2401.14196)] \[[repo](https://github.com/deepseek-ai/DeepSeek-Coder) ⭐ 24,368 | 🐛 178 | 🌐 Python | 📅 2025-11-11]
+1. **DeepSeek Coder** (CLM+FIM): "DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence" \[2024-01] \[[paper](https://arxiv.org/abs/2401.14196)] \[[repo](https://github.com/deepseek-ai/DeepSeek-Coder) ⭐ 24,367 | 🐛 178 | 🌐 Python | 📅 2025-11-11]
 
-2. **CodeGeeX** (CLM): "CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X" \[2023-03] \[[paper](https://arxiv.org/abs/2303.17568)] \[[repo](https://github.com/THUDM/CodeGeeX) ⭐ 8,794 | 🐛 187 | 🌐 Python | 📅 2024-08-13]
+2. **CodeGeeX** (CLM): "CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X" \[2023-03] \[[paper](https://arxiv.org/abs/2303.17568)] \[[repo](https://github.com/THUDM/CodeGeeX) ⭐ 8,795 | 🐛 187 | 🌐 Python | 📅 2024-08-13]
 
 3. **CodeGen** (CLM): "CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis" \[2022-03] \[ICLR 2023] \[[paper](https://arxiv.org/abs/2203.13474)] \[[repo](https://github.com/salesforce/CodeGen) ⭐ 5,181 | 🐛 50 | 🌐 Python | 📅 2026-06-02]
 
@@ -515,7 +515,7 @@ These models are Transformer encoders, decoders, and encoder-decoders pretrained
 
 6. **PolyCoder** (CLM): "A Systematic Evaluation of Large Language Models of Code" \[2022-02] \[DL4C\@ICLR 2022] \[[paper](https://arxiv.org/abs/2202.13169)] \[[repo](https://github.com/VHellendoorn/Code-LMs) ⭐ 1,842 | 🐛 14 | 🌐 Python | 📅 2024-07-07]
 
-7. **CodeShell** (CLM+FIM): "CodeShell Technical Report" \[2024-03] \[[paper](https://arxiv.org/abs/2403.15747)] \[[repo](https://github.com/WisdomShell/codeshell) ⭐ 1,613 | 🐛 45 | 🌐 Python | 📅 2024-07-18]
+7. **CodeShell** (CLM+FIM): "CodeShell Technical Report" \[2024-03] \[[paper](https://arxiv.org/abs/2403.15747)] \[[repo](https://github.com/WisdomShell/codeshell) ⭐ 1,614 | 🐛 45 | 🌐 Python | 📅 2024-07-18]
 
 8. **InCoder** (Causal Masking): "InCoder: A Generative Model for Code Infilling and Synthesis" \[2022-04] \[ICLR 2023] \[[paper](https://arxiv.org/abs/2204.05999)] \[[repo](https://github.com/dpfried/incoder) ⭐ 313 | 🐛 4 | 🌐 Python | 📅 2023-09-09]
 
@@ -565,7 +565,7 @@ These models are Transformer encoders, decoders, and encoder-decoders pretrained
 
 #### Encoder-Decoder
 
-1. **ERNIE-Code** (Span Corruption + Pivot-based Translation LM): "ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages" \[2022-12] \[ACL23 (Findings)] \[[paper](https://aclanthology.org/2023.findings-acl.676.pdf)]\[[repo](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/ernie-code) ⭐ 12,989 | 🐛 307 | 🌐 Python | 📅 2026-05-23]
+1. **ERNIE-Code** (Span Corruption + Pivot-based Translation LM): "ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages" \[2022-12] \[ACL23 (Findings)] \[[paper](https://aclanthology.org/2023.findings-acl.676.pdf)]\[[repo](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/ernie-code) ⭐ 12,991 | 🐛 307 | 🌐 Python | 📅 2026-05-23]
 
 2. **CodeT5** (Span Corruption + Identifier Tagging + Masked Identifier Prediction + Text2Code + Code2Text): "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation" \[2021-09] \[EMNLP 2021] \[[paper](https://arxiv.org/abs/2109.00859)] \[[repo](https://github.com/salesforce/CodeT5) ⚠️ Archived]
 
@@ -591,7 +591,7 @@ These models are Transformer encoders, decoders, and encoder-decoders pretrained
 
 #### UniLM
 
-1. **UniXcoder** (MLM + NSP + CLM + Span Corruption + Contrastive Learning + Code2Text): "UniXcoder: Unified Cross-Modal Pre-training for Code Representation" \[2022-03] \[ACL 2022] \[[paper](https://arxiv.org/abs/2203.03850)] \[[repo](https://github.com/microsoft/CodeBERT) ⭐ 2,795 | 🐛 87 | 🌐 Python | 📅 2023-07-09]
+1. **UniXcoder** (MLM + NSP + CLM + Span Corruption + Contrastive Learning + Code2Text): "UniXcoder: Unified Cross-Modal Pre-training for Code Representation" \[2022-03] \[ACL 2022] \[[paper](https://arxiv.org/abs/2203.03850)] \[[repo](https://github.com/microsoft/CodeBERT) ⭐ 2,793 | 🐛 87 | 🌐 Python | 📅 2023-07-09]
 
 2. **CugLM** (MLM + NSP + CLM): "Multi-task Learning based Pre-trained Language Model for Code Completion" \[2020-12] \[ASE 2020] \[[paper](https://arxiv.org/abs/2012.14631)]
 
@@ -1041,9 +1041,9 @@ These models apply Instruction Fine-Tuning techniques to enhance the capacities 
 
 ### 3.3 Code Agents
 
-1. **MetaGPT**: "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework" \[2023-08] \[[paper](https://arxiv.org/abs/2308.00352)] \[[repo](https://github.com/geekan/MetaGPT) ⭐ 71,250 | 🐛 153 | 🌐 Python | 📅 2026-01-21]
+1. **MetaGPT**: "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework" \[2023-08] \[[paper](https://arxiv.org/abs/2308.00352)] \[[repo](https://github.com/geekan/MetaGPT) ⭐ 71,265 | 🐛 154 | 🌐 Python | 📅 2026-01-21]
 
-2. **ChatDev**: "Communicative Agents for Software Development" \[2023-07] \[[paper](https://arxiv.org/abs/2307.07924)] \[[repo](https://github.com/OpenBMB/ChatDev) ⭐ 34,726 | 🐛 112 | 🌐 Python | 📅 2026-11-06]
+2. **ChatDev**: "Communicative Agents for Software Development" \[2023-07] \[[paper](https://arxiv.org/abs/2307.07924)] \[[repo](https://github.com/OpenBMB/ChatDev) ⭐ 34,736 | 🐛 114 | 🌐 Python | 📅 2026-11-06]
 
 3. **PairCoder**: "A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement" \[2024-09] \[ASE 2024] \[[paper](https://arxiv.org/abs/2409.05001)] \[[repo](https://github.com/nju-websoft/PairCoder) ⭐ 114 | 🐛 1 | 🌐 Python | 📅 2024-11-29]
 
@@ -4855,13 +4855,13 @@ For each task, the first column contains non-neural methods (e.g. n-gram, TF-IDF
 
 * **CodeXGLUE**: "CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation" \[2021-02] \[NeurIPS Datasets and Benchmarks 2021] \[[paper](https://arxiv.org/abs/2102.04664)] \[[repo](https://github.com/microsoft/CodeXGLUE) ⭐ 1,844 | 🐛 42 | 🌐 C# | 📅 2024-04-23] \[[data](https://huggingface.co/datasets?search=code_x_glue)]
 
-* **HLE**: "Humanity's Last Exam" \[2025-01] \[[paper](https://arxiv.org/abs/2501.14249)] \[[data](https://github.com/centerforaisafety/hle) ⭐ 1,743 | 🐛 10 | 🌐 Python | 📅 2026-09-23]
+* **HLE**: "Humanity's Last Exam" \[2025-01] \[[paper](https://arxiv.org/abs/2501.14249)] \[[data](https://github.com/centerforaisafety/hle) ⭐ 1,745 | 🐛 10 | 🌐 Python | 📅 2026-09-23]
 
-* **LiveBench**: "LiveBench: A Challenging, Contamination-Free LLM Benchmark" \[2024-06] \[[paper](https://arxiv.org/abs/2406.19314)] \[[repo](https://github.com/livebench/livebench) ⭐ 1,354 | 🐛 193 | 🌐 Python | 📅 2026-10-18]
+* **LiveBench**: "LiveBench: A Challenging, Contamination-Free LLM Benchmark" \[2024-06] \[[paper](https://arxiv.org/abs/2406.19314)] \[[repo](https://github.com/livebench/livebench) ⭐ 1,355 | 🐛 193 | 🌐 Python | 📅 2026-10-18]
 
 * **LiveCodeBench**: "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code" \[2024-03] \[ICLR 2025] \[[paper](https://arxiv.org/abs/2403.07974)] \[[repo](https://github.com/LiveCodeBench/LiveCodeBench) ⭐ 974 | 🐛 59 | 🌐 Python | 📅 2025-07-16]
 
-* **CodeRAG-Bench**: "CodeRAG-Bench: Can Retrieval Augment Code Generation?" \[2024-06] \[[paper](https://arxiv.org/abs/2406.14497)] \[[repo](https://github.com/code-rag-bench/code-rag-bench) ⭐ 173 | 🐛 11 | 🌐 HTML | 📅 2024-11-15]
+* **CodeRAG-Bench**: "CodeRAG-Bench: Can Retrieval Augment Code Generation?" \[2024-06] \[[paper](https://arxiv.org/abs/2406.14497)] \[[repo](https://github.com/code-rag-bench/code-rag-bench) ⭐ 174 | 🐛 11 | 🌐 HTML | 📅 2024-11-15]
 
 * **BBEH**: "BIG-Bench Extra Hard" \[2025-02] \[[paper](https://arxiv.org/abs/2502.19187)] \[[data](https://github.com/google-deepmind/bbeh) ⚠️ Archived]
 
@@ -4869,7 +4869,7 @@ For each task, the first column contains non-neural methods (e.g. n-gram, TF-IDF
 
 * **CodefuseEval**: "CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model" \[2023-10] \[[paper](https://arxiv.org/abs/2310.06266)] \[[repo](https://github.com/codefuse-ai/codefuse-evaluation) ⭐ 111 | 🐛 6 | 🌐 Python | 📅 2025-04-28]
 
-* **CodeScope**: "CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation" \[2023-11] \[ACL 2024] \[[paper](https://arxiv.org/abs/2311.08588)] \[[repo](https://github.com/WeixiangYAN/CodeScope) ⭐ 105 | 🐛 0 | 🌐 Python | 📅 2024-07-29]
+* **CodeScope**: "CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation" \[2023-11] \[ACL 2024] \[[paper](https://arxiv.org/abs/2311.08588)] \[[repo](https://github.com/WeixiangYAN/CodeScope) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2024-07-29]
 
 * **CodeEditorBench**: "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models" \[2024-04] \[[paper](https://arxiv.org/abs/2404.03543)] \[[repo](https://github.com/CodeEditorBench/CodeEditorBench) ⭐ 58 | 🐛 10 | 🌐 C | 📅 2024-05-28]
 
@@ -4954,7 +4954,7 @@ For each task, the first column contains non-neural methods (e.g. n-gram, TF-IDF
 | 2019-10 | EMNLP-IJCNLP 2019                | JuICe                                            | 1.5M/3725 \*         | Python                                                                           | "JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation" \[[paper](https://arxiv.org/abs/1910.02216)] \[[data](https://github.com/rajasagashe/juice) ⭐ 37 \| 🐛 3 \| 🌐 Python \| 📅 2021-10-27]                                                                                                                                |
 | 2021-05 | NeurIPS 2021                     | APPS                                             | 10000                | Python                                                                           | "Measuring Coding Challenge Competence With APPS" \[[paper](https://arxiv.org/abs/2105.09938)] \[[data](https://github.com/hendrycks/apps) ⭐ 543 \| 🐛 6 \| 🌐 Python \| 📅 2024-06-19]                                                                                                                                                                                  |
 | 2021-07 | arXiv                            | HumanEval                                        | 164                  | Python                                                                           | "Evaluating Large Language Models Trained on Code" \[[paper](https://arxiv.org/abs/2107.03374)] \[[data](https://github.com/openai/human-eval) ⭐ 3,425 \| 🐛 47 \| 🌐 Python \| 📅 2026-10-16]                                                                                                                                                                           |
-| 2021-08 | arXiv                            | MBPP/MathQA-Python                               | 974/23914            | Python                                                                           | "Program Synthesis with Large Language Models" \[[paper](https://arxiv.org/abs/2108.07732)] \[[MBPP](https://github.com/google-research/google-research/tree/master/mbpp) ⭐ 39,158 \| 🐛 2,009 \| 🌐 Jupyter Notebook \| 📅 2026-11-11] \[[MathQA-Python](https://github.com/google/trax/blob/master/trax/examples/MathQA_Python_generation_notebook.ipynb) ⚠️ Archived] |
+| 2021-08 | arXiv                            | MBPP/MathQA-Python                               | 974/23914            | Python                                                                           | "Program Synthesis with Large Language Models" \[[paper](https://arxiv.org/abs/2108.07732)] \[[MBPP](https://github.com/google-research/google-research/tree/master/mbpp) ⭐ 39,161 \| 🐛 2,012 \| 🌐 Jupyter Notebook \| 📅 2026-11-11] \[[MathQA-Python](https://github.com/google/trax/blob/master/trax/examples/MathQA_Python_generation_notebook.ipynb) ⚠️ Archived] |
 | 2021-08 | ACL/IJCNLP 2021                  | PlotCoder                                        | 40797                | Python                                                                           | "PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context" \[[paper](https://aclanthology.org/2021.acl-long.169/)] \[[data](https://github.com/jungyhuk/plotcoder) ⭐ 21 \| 🐛 0 \| 🌐 Python \| 📅 2021-10-06]                                                                                                                       |
 | 2022-01 | arXiv                            | DSP                                              | 1119                 | Python                                                                           | "Training and Evaluating a Jupyter Notebook Data Science Assistant" \[[paper](https://arxiv.org/abs/2201.12901)] \[[data](https://github.com/microsoft/DataScienceProblems)]                                                                                                                                                                                             |
 | 2022-02 | Science                          | CodeContests                                     | 13610                | C++, Python, Java                                                                | "Competition-Level Code Generation with AlphaCode" \[[paper](https://arxiv.org/abs/2203.07814)] \[[data](https://github.com/google-deepmind/code_contests) ⚠️ Archived]                                                                                                                                                                                                  |
@@ -5132,7 +5132,7 @@ $^\diamond$ Machine/human prompts
 | 2024-09 | arXiv               | BEAVER           | 93         |          | "BEAVER: An Enterprise Benchmark for Text-to-SQL" \[[paper](https://arxiv.org/abs/2409.02038)]                                                                                                                                                             |
 | 2024-10 | arXiv               | PRACTIQ          | 2812       |          | "PRACTIQ: A Practical Conversational Text-to-SQL dataset with Ambiguous and Unanswerable Queries" \[[paper](https://arxiv.org/abs/2410.11076)]                                                                                                             |
 | 2024-10 | arXiv               | BIS              | 239        |          | "BIS: NL2SQL Service Evaluation Benchmark for Business Intelligence Scenarios" \[[paper](https://arxiv.org/abs/2410.22925)] \[[data](https://github.com/boracaglayan/bis-nl2sql) ⭐ 3 \| 🐛 0 \| 🌐 Python \| 📅 2024-10-10]                                |
-| 2024-11 | ICLR 2025           | Spider 2.0       | 632        |          | "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows" \[[paper](https://arxiv.org/abs/2411.07763)] \[[data](https://github.com/xlang-ai/Spider2) ⭐ 886 \| 🐛 140 \| 🌐 HTML \| 📅 2026-08-12]                            |
+| 2024-11 | ICLR 2025           | Spider 2.0       | 632        |          | "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows" \[[paper](https://arxiv.org/abs/2411.07763)] \[[data](https://github.com/xlang-ai/Spider2) ⭐ 888 \| 🐛 140 \| 🌐 HTML \| 📅 2026-08-12]                            |
 | 2025-01 | arXiv               | Dialect2SQL      | 9428       |          | "Dialect2SQL: A Novel Text-to-SQL Dataset for Arabic Dialects with a Focus on Moroccan Darija" \[[paper](https://arxiv.org/abs/2501.11498)]                                                                                                                |
 | 2025-05 | arXiv               | LogicCat         | 4038       |          | "LogicCat: A Chain-of-Thought Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges" \[[paper](https://arxiv.org/abs/2505.18744)]                                                                                                                    |
 | 2025-05 | arXiv               | BiomedSQL        | 68,000     |          | "BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases" \[[paper](https://arxiv.org/abs/2505.20321)] \[[data](https://github.com/NIH-CARD/biomedsql) ⭐ 9 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-13]                                    |
@@ -5152,7 +5152,7 @@ $^\diamond$ Machine/human prompts
 | 2022-06 | AAAI 2022                            | CoST                     | 132K   | C++, Java, Python, C#, JS, PHP, C                         | "Multilingual Code Snippets Training for Program Translation" \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21434)] \[[data](https://github.com/reddy-lab-code-research/MuST-CoST) ⭐ 10 \| 🐛 1 \| 🌐 Python \| 📅 2022-03-07]                      |
 | 2022-06 | arXiv                                | XLCoST                   | 567K   | C++, Java, Python, C#, JS, PHP, C                         | "XLCoST: A Benchmark Dataset for Cross-lingual Code Intelligence" \[[paper](https://arxiv.org/abs/2206.08474)] \[[data](https://github.com/reddy-lab-code-research/XLCoST) ⭐ 93 \| 🐛 6 \| 🌐 C \| 📅 2025-01-21]                                                |
 | 2023-03 | arXiv                                | xCodeEval                | 5.6M   | C, C#, C++, Go, Java, JS, Kotlin, PHP, Python, Ruby, Rust | "xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval" \[[paper](https://arxiv.org/abs/2303.03004)] \[[data](https://github.com/ntunlp/xCodeEval) ⭐ 90 \| 🐛 7 \| 🌐 Python \| 📅 2024-09-17] |
-| 2023-03 | arXiv                                | HumanEval-X              | 1640   | Python, C++, Java, JS, Go                                 | "CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X" \[[paper](https://arxiv.org/abs/2303.17568)] \[[data](https://github.com/THUDM/CodeGeeX) ⭐ 8,794 \| 🐛 187 \| 🌐 Python \| 📅 2024-08-13]                       |
+| 2023-03 | arXiv                                | HumanEval-X              | 1640   | Python, C++, Java, JS, Go                                 | "CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X" \[[paper](https://arxiv.org/abs/2303.17568)] \[[data](https://github.com/THUDM/CodeGeeX) ⭐ 8,795 \| 🐛 187 \| 🌐 Python \| 📅 2024-08-13]                       |
 | 2023-08 | arXiv                                | G-TransEval              | 4000   | C++, Java, C#, JS, Python                                 | "On the Evaluation of Neural Code Translation: Taxonomy and Benchmark" \[[paper](https://arxiv.org/abs/2308.08961)] \[[data](https://github.com/PolyEval/G-TransEval) ⭐ 9 \| 🐛 0 \| 🌐 Java \| 📅 2023-08-17]                                                   |
 | 2023-10 | arXiv                                | CodeTransOcean           | 270.5K | 45                                                        | "CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation" \[[paper](https://arxiv.org/abs/2310.04951)] \[[data](https://github.com/WeixiangYAN/CodeTransOcean) ⭐ 58 \| 🐛 0 \| 🌐 Python \| 📅 2023-11-16]                                   |
 | 2024-11 | arXiv                                | Classeval-T              | 94     | Python, Java, C++                                         | "Escalating LLM-based Code Translation Benchmarking into the Class-level Era" \[[paper](https://arxiv.org/abs/2411.06145)]                                                                                                                                       |
@@ -5169,7 +5169,7 @@ $^\diamond$ Machine/human prompts
 
 | Date    | Venue                            | Benchmark           | Size      | Language                                                  | Source                                                                                                                                                                                                                                                                  |
 | ------- | -------------------------------- | ------------------- | --------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2014-07 | ISSTA 2014                       | Defects4J           | 357       | Java                                                      | "Defects4J: A Database of Existing Faults to Enable Controlled Testing Studies for Java Programs" \[[paper](https://dl.acm.org/doi/10.1145/2610384.2628055)] \[[data](https://github.com/rjust/defects4j) ⭐ 1,013 \| 🐛 57 \| 🌐 Perl \| 📅 2026-04-07]                 |
+| 2014-07 | ISSTA 2014                       | Defects4J           | 357       | Java                                                      | "Defects4J: A Database of Existing Faults to Enable Controlled Testing Studies for Java Programs" \[[paper](https://dl.acm.org/doi/10.1145/2610384.2628055)] \[[data](https://github.com/rjust/defects4j) ⭐ 1,014 \| 🐛 57 \| 🌐 Perl \| 📅 2026-04-07]                 |
 | 2015-12 | IEEE Trans. Software Engineering | ManyBugs/IntroClass | 185/998   | C                                                         | "The ManyBugs and IntroClass Benchmarks for Automated Repair of C Programs" \[[paper](https://ieeexplore.ieee.org/document/7153570)] \[[data](https://repairbenchmarks.cs.umass.edu/)]                                                                                  |
 | 2016-11 | FSE 2016                         | BugAID              | 105K      | JS                                                        | "Discovering Bug Patterns in JavaScript" \[[paper](https://dl.acm.org/doi/10.1145/2950290.2950308)] \[[data](https://salt.ece.ubc.ca/software/bugaid/)]                                                                                                                 |
 | 2017-02 | AAAI 2017                        | DeepFix             | 6971      | C                                                         | "DeepFix: Fixing Common C Language Errors by Deep Learning" \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10742)] \[[data](https://bitbucket.org/iiscseal/deepfix/src/master/)]                                                                            |
@@ -5186,7 +5186,7 @@ $^\diamond$ Machine/human prompts
 | 2019-11 | ASE 2019                         | Refactory           | 1783      | Python                                                    | "Re-factoring based program repair applied to programming assignments" \[[paper](https://dl.acm.org/doi/10.1109/ASE.2019.00044)] \[[data](https://github.com/githubhuyang/refactory) ⭐ 42 \| 🐛 0 \| 🌐 Python \| 📅 2022-08-16]                                        |
 | 2020-07 | ISSTA 2020                       | CoCoNut             | 24M       | Java, Python, C, JS                                       | "CoCoNuT: combining context-aware neural translation models using ensemble for program repair" \[[paper](https://dl.acm.org/doi/10.1145/3395363.3397369)] \[[data](https://github.com/lin-tan/CoCoNut-Artifact) ⭐ 63 \| 🐛 13 \| 🌐 Python \| 📅 2023-03-30]            |
 | 2020-10 | Inf. Softw. Technol.             | Review4Repair       | 58021     | Java                                                      | "Review4Repair: Code Review Aided Automatic Program Repairing" \[[paper](https://arxiv.org/abs/2010.01544)] \[[data](https://github.com/Review4Repair/Review4Repair) ⭐ 10 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2021-02-08]                                              |
-| 2020-11 | ESEC/FSE 2020                    | BugsInPy            | 493       | Python                                                    | "BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies" \[[paper](https://dl.acm.org/doi/abs/10.1145/3368089.3417943)] \[[data](https://github.com/soarsmu/BugsInPy) ⭐ 154 \| 🐛 21 \| 🌐 Shell \| 📅 2026-02-10] |
+| 2020-11 | ESEC/FSE 2020                    | BugsInPy            | 493       | Python                                                    | "BugsInPy: A Database of Existing Bugs in Python Programs to Enable Controlled Testing and Debugging Studies" \[[paper](https://dl.acm.org/doi/abs/10.1145/3368089.3417943)] \[[data](https://github.com/soarsmu/BugsInPy) ⭐ 155 \| 🐛 21 \| 🌐 Shell \| 📅 2026-02-10] |
 | 2021-07 | ICML 2021                        | TFix                | 105K      | JS                                                        | "TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer" \[[paper](https://proceedings.mlr.press/v139/berabi21a.html)] \[[data](https://github.com/eth-sri/TFix) ⭐ 70 \| 🐛 1 \| 🌐 JavaScript \| 📅 2022-05-12]                                           |
 | 2021-08 | arXiv                            | Megadiff            | 663K \*   | Java                                                      | "Megadiff: A Dataset of 600k Java Source Code Changes Categorized by Diff Size" \[[paper](https://arxiv.org/abs/2108.04631)] \[[data](https://github.com/ASSERT-KTH/megadiff) ⭐ 23 \| 🐛 0 \| 📅 2024-03-22]                                                            |
 | 2022-01 | SSB/TSSB                         | MSR 2022            | 9M/3M     | Python                                                    | "TSSB-3M: Mining single statement bugs at massive scale" \[[paper](https://arxiv.org/abs/2201.12046)] \[[data](https://cedricrupb.github.io/TSSB3M/)]                                                                                                                   |
@@ -5325,8 +5325,8 @@ $^\diamond$ Machine/human prompts
 | 2023-09 | arXiv               | CodePlan           | 645/21 $^\ddagger$     | C#/Python $^\ddagger$           | "CodePlan: Repository-level Coding using LLMs and Planning" \[[paper](https://arxiv.org/abs/2309.12499)] \[[data](https://aka.ms/CodePlan)]                                                                                                                       |
 | 2023-10 | arXiv               | SWE-Bench          | 2294                   | Python                          | "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" \[[paper](https://arxiv.org/abs/2310.06770)] \[[data](https://www.swebench.com/)]                                                                                                              |
 | 2023-10 | arXiv               | CrossCodeEval      | 9928                   | Python, Java, TypeScript, C#    | "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion" \[[paper](https://arxiv.org/abs/2310.11248)] \[[data](https://crosscodeeval.github.io/)]                                                                                     |
-| 2024-03 | NeurIPS 2024        | EvoCodeBench       | 275                    | Python                          | "EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories" \[[paper](https://arxiv.org/abs/2404.00599)] \[[data](https://github.com/seketeam/EvoCodeBench) ⭐ 72 \| 🐛 10 \| 🌐 Python \| 📅 2024-08-15]                      |
-| 2024-05 | ACL 2024 Findings   | DevEval            | 1874                   | Python                          | "DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories" \[[paper](https://arxiv.org/abs/2405.19856)] \[[data](https://github.com/seketeam/DevEval) ⭐ 43 \| 🐛 2 \| 🌐 Python \| 📅 2024-09-04]                        |
+| 2024-03 | NeurIPS 2024        | EvoCodeBench       | 275                    | Python                          | "EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories" \[[paper](https://arxiv.org/abs/2404.00599)] \[[data](https://github.com/seketeam/EvoCodeBench) ⭐ 72 \| 🐛 10 \| 🌐 Python \| 📅 2026-11-12]                      |
+| 2024-05 | ACL 2024 Findings   | DevEval            | 1874                   | Python                          | "DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories" \[[paper](https://arxiv.org/abs/2405.19856)] \[[data](https://github.com/seketeam/DevEval) ⭐ 43 \| 🐛 2 \| 🌐 Python \| 📅 2026-11-12]                        |
 | 2024-06 | arXiv               | JavaBench          | 389                    | Java                            | "Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench" \[[paper](https://arxiv.org/abs/2406.12902)] \[[data](https://github.com/java-bench/JavaBench) ⭐ 3 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2024-09-02] |
 | 2024-06 | arXiv               | HumanEvo           | 200/200                | Python/Java                     | "Towards more realistic evaluation of LLM-based code generation: an experimental study and beyond" \[[paper](https://arxiv.org/abs/2406.06918)] \[[data](https://github.com/DeepSoftwareAnalytics/EvoEval)]                                                       |
 | 2024-06 | arXiv               | RepoExec           | 355                    | Python                          | "REPOEXEC: Evaluate Code Generation with a Repository-Level Executable Benchmark" \[[paper](https://arxiv.org/abs/2406.11927)]                                                                                                                                    |
@@ -5488,4 +5488,4 @@ Embracing an innovation-driven ethos, our team not only supports business implem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
