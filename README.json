@@ -142,10 +142,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-26T21:42:26Z",
-                "open_issues": 537,
+                "open_issues": 536,
                 "owner": "meta-llama",
                 "repo": "llama",
-                "stars": 59648,
+                "stars": 59647,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -166,7 +166,7 @@
                 "open_issues": 214,
                 "owner": "meta-llama",
                 "repo": "llama3",
-                "stars": 29145,
+                "stars": 29144,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -187,7 +187,7 @@
                 "open_issues": 39,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22072,
+                "stars": 22074,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -215,7 +215,7 @@
                 "open_issues": 1,
                 "owner": "mistralai",
                 "repo": "mistral-inference",
-                "stars": 10815,
+                "stars": 10817,
                 "topics": [
                   "llm",
                   "llm-inference",
@@ -259,8 +259,8 @@
                 "id": 323651234,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T06:26:09Z",
-                "open_issues": 111,
+                "last_commit": "2026-11-23T00:54:53Z",
+                "open_issues": 108,
                 "owner": "EleutherAI",
                 "repo": "gpt-neox",
                 "stars": 7475,
@@ -310,7 +310,7 @@
                 "open_issues": 18,
                 "owner": "apple",
                 "repo": "corenet",
-                "stars": 7015,
+                "stars": 7016,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -328,10 +328,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-24T19:13:15Z",
-                "open_issues": 89,
+                "open_issues": 88,
                 "owner": "allenai",
                 "repo": "OLMo",
-                "stars": 6743,
+                "stars": 6745,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -352,7 +352,7 @@
                 "open_issues": 92,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5055,
+                "stars": 5054,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -499,7 +499,7 @@
                 "open_issues": 41,
                 "owner": "OrionStarAI",
                 "repo": "Orion",
-                "stars": 809,
+                "stars": 810,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -527,7 +527,7 @@
                 "open_issues": 116,
                 "owner": "meta-llama",
                 "repo": "codellama",
-                "stars": 16202,
+                "stars": 16200,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -553,11 +553,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T15:37:23Z",
+                    "last_commit": "2026-11-24T00:47:38Z",
                     "open_issues": 2014,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39259,
+                    "stars": 39268,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -582,7 +582,7 @@
                     "open_issues": 86,
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2792,
+                    "stars": 2794,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -603,7 +603,7 @@
                     "open_issues": 86,
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2792,
+                    "stars": 2794,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -674,10 +674,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-02T18:14:11Z",
-                    "open_issues": 49,
+                    "open_issues": 48,
                     "owner": "salesforce",
                     "repo": "CodeGen",
-                    "stars": 5182,
+                    "stars": 5181,
                     "topics": [
                       "codex",
                       "generativemodel",
@@ -842,7 +842,7 @@
                     "open_issues": 304,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleNLP",
-                    "stars": 13000,
+                    "stars": 12998,
                     "topics": [
                       "bert",
                       "compression",
@@ -883,7 +883,7 @@
                     "open_issues": 87,
                     "owner": "salesforce",
                     "repo": "CodeT5",
-                    "stars": 3082,
+                    "stars": 3081,
                     "topics": [
                       "code-generation",
                       "code-intelligence",
@@ -910,7 +910,7 @@
                     "open_issues": 87,
                     "owner": "salesforce",
                     "repo": "CodeT5",
-                    "stars": 3082,
+                    "stars": 3081,
                     "topics": [
                       "code-generation",
                       "code-intelligence",
@@ -1034,7 +1034,7 @@
                     "open_issues": 86,
                     "owner": "microsoft",
                     "repo": "CodeBERT",
-                    "stars": 2792,
+                    "stars": 2794,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -1330,10 +1330,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 165,
+                "open_issues": 169,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 71407,
+                "stars": 71440,
                 "topics": [
                   "agent",
                   "gpt",
@@ -1357,10 +1357,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T07:37:13Z",
-                "open_issues": 132,
+                "open_issues": 135,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34845,
+                "stars": 34860,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.521Z"
@@ -1591,7 +1591,7 @@
                     "open_issues": 10,
                     "owner": "centerforaisafety",
                     "repo": "hle",
-                    "stars": 1749,
+                    "stars": 1750,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -1612,7 +1612,7 @@
                     "open_issues": 196,
                     "owner": "LiveBench",
                     "repo": "LiveBench",
-                    "stars": 1355,
+                    "stars": 1357,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -1892,7 +1892,7 @@
                     "open_issues": 12,
                     "owner": "TellinaTool",
                     "repo": "nl2bash",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": [
                       "copynet",
                       "natural-language-interface",
@@ -1986,7 +1986,7 @@
                     "open_issues": 47,
                     "owner": "openai",
                     "repo": "human-eval",
-                    "stars": 3432,
+                    "stars": 3433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -2003,11 +2003,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T15:37:23Z",
+                    "last_commit": "2026-11-24T00:47:38Z",
                     "open_issues": 2014,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39259,
+                    "stars": 39268,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2751,7 +2751,7 @@
                     "id": 825810755,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T17:20:08Z",
+                    "last_commit": "2026-11-23T17:16:34Z",
                     "open_issues": 28,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
@@ -2959,7 +2959,7 @@
                     "open_issues": 116,
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16870,
+                    "stars": 16873,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -6308,7 +6308,7 @@
                     "open_issues": 116,
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16870,
+                    "stars": 16873,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:17.521Z"
@@ -6561,7 +6561,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-22T21:02:03Z",
-                    "open_issues": 57,
+                    "open_issues": 58,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
                     "stars": 570,
@@ -6829,7 +6829,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-09-13T08:54:28Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Geralt-Targaryen",
             "repo": "Awesome-Education-LLM",
             "stars": 80,
@@ -6910,7 +6910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:40:34.242Z",
+    "last_updated": "2026-11-24T01:36:37.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
